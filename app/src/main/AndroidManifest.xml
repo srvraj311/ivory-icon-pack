@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="dev.jahir.blueprint.app">
+    package="com.srv.ivory">
 
     <!-- Permission required for donations. Remove it if you don't use it -->
     <uses-permission android:name="com.android.vending.BILLING" />
@@ -233,17 +233,13 @@
                 android:resource="@xml/file_providers" />
         </provider>
 
-        <!-- TODO: Remove comment marks to enable Zooper
+
         <provider
                 android:name=".ZooperProvider"
                 android:authorities="${applicationId}.zwprovider"
                 tools:ignore="ExportedContentProvider"/>
-        -->
 
 
-        <!-- TODO: Remove comment marks to enable Kustom Skins
-        * Remove intent-filter action lines according to your needs.
-		* If you're not going to provide one of the options, remove its respective line.
         <provider
                 android:name="org.kustom.api.Provider"
                 android:authorities="${applicationId}.kustom.provider"
@@ -256,10 +252,9 @@
                 <action android:name="org.kustom.provider.LOCKSCREENS"/>
             </intent-filter>
         </provider>
-        -->
 
-        <!-- OneSignal Notifications Service -->
-        <!-- TODO: Remove comment marks to enable
+
+
         <service
             android:name=".NotificationService"
             android:exported="false"
@@ -268,6 +263,5 @@
                 <action android:name="com.onesignal.NotificationExtender" />
             </intent-filter>
         </service>
-        -->
     </application>
 </manifest>

@@ -3,103 +3,238 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>adaptive_one</item>
-        <item>adaptive_two</item>
-        <item>adaptive_three</item>
-        <item>amber_circle</item>
-        <item>amber_rectangle</item>
-        <item>amber_square</item>
-        <item>blue_circle</item>
-        <item>blue_rectangle</item>
-        <item>blue_square</item>
-        <item>purple_circle</item>
-        <item>purple_rectangle</item>
-        <item>purple_square</item>
-        <item>red_circle</item>
-        <item>red_rectangle</item>
-        <item>red_square</item>
+        <item>whatsapp</item>
+        <item>messaging</item>
+        <item>phone</item>
+        <item>camera</item>
+        <item>google_camera</item>
+        <item>whatsapp_buisness</item>
+        <item>browser</item>
+        <item>chrome</item>
+        <item>contacts</item>
+        <item>instagram</item>
+        <item>instagram_pink</item>
+        <item>facebook</item>
+        <item>facebook_lite</item>
+        <item>gallery</item>
+        <item>weather</item>
+        <item>calendar_16</item>
+        <item>messaging_alt</item>
+        <item>playstore</item>
+        <item>playgames</item>
+        <item>play_music</item>
+        <item>play_movies</item>
+        <item>play_books</item>
+        <item>news</item>
+        <item>photos</item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
     <!-- These names should match YOUR actual icon names
     	 the names used below are just for sampling purposes -->
-
     <!-- Make sure the filters names are the same as the other arrays -->
     <string-array name="icon_filters">
         <item>all</item>
-        <item>adaptive</item>
-        <item>amber</item>
-        <item>blue</item>
-        <item>purple</item>
-        <item>red</item>
-        <item>circles</item>
-        <item>rectangles</item>
-        <item>squares</item>
+        <item>system_apps</item>
+        <item>google_apps</item>
+        <item>games</item>
+        <item>bonus</item>
+        <item>dynamic</item>
+        <item>new</item>
+    </string-array>
+
+    <string-array name="New">
+        <item>whatsapp</item>
+        <item>messaging</item>
+        <item>messaging_yellow</item>
+        <item>music</item>
+        <item>browser</item>
+        <item>chrome</item>
+        <item>contacts</item>
+        <item>instagram</item>
+        <item>instagram_pink</item>
+        <item>gallery</item>
+        <item>calendar_16</item>
+        <item>messaging_alt</item>
+        <item>playstore</item>
+        <item>playgames</item>
+        <item>play_music</item>
+        <item>play_movies</item>
+        <item>play_books</item>
+        <item>news</item>
+        <item>photos</item>
+        <item>setting</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
 
     <string-array name="all">
-        <item>amber_circle</item>
-        <item>amber_rectangle</item>
-        <item>amber_square</item>
-        <item>blue_circle</item>
-        <item>blue_rectangle</item>
-        <item>blue_square</item>
-        <item>purple_circle</item>
-        <item>purple_rectangle</item>
-        <item>purple_square</item>
-        <item>red_circle</item>
-        <item>red_rectangle</item>
-        <item>red_square</item>
+        <item>whatsapp</item>
+        <item>messaging</item>
+        <item>messaging_yellow</item>
+        <item>music</item>
+        <item>camera</item>
+        <item>google_camera</item>
+        <item>whatsapp_buisness</item>
+        <item>browser</item>
+        <item>chrome</item>
+        <item>contacts</item>
+        <item>instagram</item>
+        <item>instagram_pink</item>
+        <item>facebook</item>
+        <item>facebook_lite</item>
+        <item>gallery</item>
+        <item>weather</item>
+        <item>playstore</item>
+        <item>playgames</item>
+        <item>play_music</item>
+        <item>play_movies</item>
+        <item>play_books</item>
+        <item>news</item>
+        <item>photos</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
     </string-array>
 
-    <string-array name="adaptive">
-        <item>adaptive_one</item>
-        <item>adaptive_two</item>
-        <item>adaptive_three</item>
+    <string-array name="system_apps">
+        <item>messaging</item>
+        <item>messaging_yellow</item>
+        <item>phone</item>
+        <item>contacts</item>
+        <item>gallery</item>
+        <item>weather</item>
+        <item>messaging_alt</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
 
-    <string-array name="amber">
-        <item>amber_circle</item>
-        <item>amber_rectangle</item>
-        <item>amber_square</item>
+    <string-array name="google_apps">
+        <item>google_camera</item>
+        <item>chrome</item>
+        <item>playstore</item>
+        <item>playgames</item>
+        <item>play_music</item>
+        <item>play_movies</item>
+        <item>play_books</item>
+        <item>news</item>
+        <item>photos</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
     </string-array>
 
-    <string-array name="blue">
-        <item>blue_circle</item>
-        <item>blue_rectangle</item>
-        <item>blue_square</item>
+    <string-array name="games">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
 
-    <string-array name="purple">
-        <item>purple_circle</item>
-        <item>purple_rectangle</item>
-        <item>purple_square</item>
+    <string-array name="bonus">
+        <item>messaging</item>
+        <item>messaging_yellow</item>
+        <item>messaging_alt</item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
 
-    <string-array name="red">
-        <item>red_circle</item>
-        <item>red_rectangle</item>
-        <item>red_square</item>
+    <string-array name="dynamic">
+        <item>calendar_1</item>
+        <item>calendar_2</item>
+        <item>calendar_3</item>
+        <item>calendar_4</item>
+        <item>calendar_5</item>
+        <item>calendar_6</item>
+        <item>calendar_7</item>
+        <item>calendar_8</item>
+        <item>calendar_9</item>
+        <item>calendar_10</item>
+        <item>calendar_11</item>
+        <item>calendar_12</item>
+        <item>calendar_13</item>
+        <item>calendar_14</item>
+        <item>calendar_15</item>
+        <item>calendar_16</item>
+        <item>calendar_17</item>
+        <item>calendar_18</item>
+        <item>calendar_19</item>
+        <item>calendar_20</item>
+        <item>calendar_21</item>
+        <item>calendar_22</item>
+        <item>calendar_23</item>
+        <item>calendar_24</item>
+        <item>calendar_25</item>
+        <item>calendar_26</item>
+        <item>calendar_27</item>
+        <item>calendar_28</item>
+        <item>calendar_29</item>
+        <item>calendar_30</item>
+        <item>calendar_31</item>
+        <item></item>
+
     </string-array>
 
-    <string-array name="circles">
-        <item>amber_circle</item>
-        <item>blue_circle</item>
-        <item>purple_circle</item>
-        <item>red_circle</item>
-    </string-array>
 
-    <string-array name="rectangles">
-        <item>amber_rectangle</item>
-        <item>blue_rectangle</item>
-        <item>purple_rectangle</item>
-        <item>red_rectangle</item>
-    </string-array>
-
-    <string-array name="squares">
-        <item>amber_square</item>
-        <item>blue_square</item>
-        <item>purple_square</item>
-        <item>red_square</item>
-    </string-array>
 </resources>

@@ -1,5 +1,5 @@
 // TODO: Remove comment marks to enable
-/*
+
 buildscript {
     repositories {
         maven { url 'https://plugins.gradle.org/m2/' }
@@ -11,7 +11,7 @@ buildscript {
 }
 
 apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
-*/
+
 
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
@@ -57,7 +57,6 @@ android {
             }
         }
     }
-
     buildTypes {
         release {
             debuggable false
@@ -94,6 +93,5 @@ dependencies {
     implementation(Libs.blueprint) {
         transitive = true
     }
-    // TODO: Remove comment marks to enable
-    // implementation Libs.oneSignal
+   implementation Libs.oneSignal
 }

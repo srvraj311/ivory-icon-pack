@@ -20,7 +20,7 @@
         True, means yes.
         False, means no.
     -->
-    <bool name="show_quick_apply_text">false</bool>
+    <bool name="show_quick_apply_text">true</bool>
 
     <!--
         Set a custom text to the quick apply button.
@@ -31,19 +31,19 @@
 
     <!-- These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
-        <item>IconShowcase</item>
-        <item>An App</item>
+        <item>Visit Website</item>
+        <item>Raphael Icon Pack</item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>It is the old version of this awesome dashboard</item>
-        <item>This is an app</item>
+        <item>See all of my works and support me.</item>
+        <item>Another Beautiful Icon Pack With Fresh Handmade Icons</item>
     </string-array>
     <string-array name="home_list_icons">
-        <item>ic_na_launcher</item>
+        <item>website</item>
         <item>ic_na_launcher</item>
     </string-array>
     <string-array name="home_list_links">
-        <item>https://github.com/jahirfiquitiva/Blueprint</item>
-        <item>https://play.google.com/store/apps/details?id=com.android.settings</item>
+        <item>https://www.srvraj311.com/</item>
+        <item>https://play.google.com/store/apps/details?id=com.srv.raphael</item>
     </string-array>
 </resources>

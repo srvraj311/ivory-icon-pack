@@ -6,47 +6,102 @@
     <category title="Latest" />
 
     <category title="System" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
+    <item drawable="messaging" />
+    <item drawable="phone" />
+    <item drawable="music" />
+    <item drawable="browser" />
+    <item drawable="contacts" />
+    <item drawable="gallery" />
+    <item drawable="calendar_16" />
+    <item drawable="weather" />
+    <item drawable="settings" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+
 
     <category title="Google Apps" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
+    <item drawable="google_camera" />
+    <item drawable="chrome" />
+    <item drawable="playstore" />
+    <item drawable="playgames" />
+    <item drawable="play_movies" />
+    <item drawable="play_music" />
+    <item drawable="news" />
+    <item drawable="play_books" />
+    <item drawable="photos" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+
+
 
     <category title="Games" />
-    <item drawable="a_better_camera" />
-    <item drawable="adaway" />
-    <item drawable="adobe_creative_cloud" />
-    <item drawable="afterfocus" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
 
-    <category title="Drawers" />
-    <item drawable="a_better_camera" />
-    <item drawable="aa" />
-    <item drawable="acdisplay" />
-    <item drawable="afterlight" />
-    <item drawable="airdroid" />
-    <item drawable="alarmpad" />
+
+
+
+    <category title="Bonus" />
+    <item drawable="messaging_yellow" />
+    <item drawable="messaging_alt" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+
+
 
     <category title="All" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
+    <item drawable="whatsapp" />
+    <item drawable="phone" />
+    <item drawable="music" />
+    <item drawable="whatsapp_buisness" />
+    <item drawable="camera" />
+    <item drawable="google_camera" />
+    <item drawable="messaging" />
+    <item drawable="messaging_yellow" />
+    <item drawable="chrome" />
+    <item drawable="contacts" />
+    <item drawable="instagram" />
+    <item drawable="instagram_pink" />
+    <item drawable="facebook" />
+    <item drawable="facebook_lite" />
+    <item drawable="gallery" />
+    <item drawable="weather" />
+    <item drawable="messaging_alt" />
+    <item drawable="playstore" />
+    <item drawable="playgames" />
+    <item drawable="play_movies" />
+    <item drawable="play_music" />
+    <item drawable="play_books" />
+    <item drawable="news" />
+    <item drawable="settings" />
+    <item drawable="photos" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+    <item drawable="" />
+
+
 
 </resources>

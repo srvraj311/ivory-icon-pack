@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Light Theme Colors -->
-    <color name="primary">#ffffff</color>
-    <color name="primaryDark">#fafafa</color>
+    <color name="primary">#9c27b0</color>
+    <color name="primaryDark">#6a0080</color>
     <color name="onPrimary">#de000000</color>
 
-    <color name="accent">#3881fa</color>
+    <color name="accent">#9c27b0</color>
     <color name="onAccent">#ffffff</color>
 
     <color name="surface">#ffffff</color>
@@ -20,11 +20,11 @@
     <color name="snackbarButtonColor">#88b3fc</color>
 
     <!-- Dark Theme Colors -->
-    <color name="darkThemePrimary">#212121</color>
-    <color name="darkThemePrimaryDark">#000000</color>
+    <color name="darkThemePrimary">#9c27b0</color>
+    <color name="darkThemePrimaryDark">#6a0080</color>
     <color name="darkThemeOnPrimary">#ffffff</color>
 
-    <color name="darkThemeAccent">#ff3f80</color>
+    <color name="darkThemeAccent">#9c27b0</color>
     <color name="darkThemeOnAccent">#ffffff</color>
 
     <color name="darkThemeSurface">#424242</color>
@@ -39,8 +39,8 @@
     <color name="darkThemeSnackbarButtonColor">#cc3266</color>
 
     <!-- Amoled Theme Colors -->
-    <color name="amoledThemePrimary">#000000</color>
-    <color name="amoledThemePrimaryDark">#000000</color>
+    <color name="amoledThemePrimary">#9c27b0</color>
+    <color name="amoledThemePrimaryDark">#6a0080</color>
     <color name="amoledThemeOnPrimary">#ffffff</color>
 
     <color name="amoledThemeAccent">#64ffda</color>

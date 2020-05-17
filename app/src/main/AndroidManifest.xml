@@ -3,7 +3,7 @@
     package="com.srv.ivory">
 
     <!-- Permission required for donations. Remove it if you don't use it -->
-    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="com.android.vending.BILLING"/>
 
     <application
         android:name=".MyApplication"

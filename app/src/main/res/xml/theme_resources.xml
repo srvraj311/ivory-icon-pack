@@ -13,4 +13,2981 @@
         name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
         image="people" />
 
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
+            image="people" />
+
+     <AppIcon
+        name="/com.android.contacts.DialtactsContactsEntryActivity"
+            image="people" />
+
+     <AppIcon
+        name="com.android.contacts/"
+            image="people" />
+
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
+            image="" />
+
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
+            image="something" />
+
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
+            image="icon" />
+
+     <AppIcon
+        name="/com.android.contacts.DialtactsContactsEntryActivity"
+            image="phone" />
+
+     <AppIcon
+        name="com.android.contacts/"
+            image="contacts" />
+
+     <AppIcon
+        name=""
+            image="cell" />
+
+     <AppIcon
+        name="/"
+            image="an_icon" />
+
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
+            image="" />
+
+        <!-- Dynamic Calendar -->
+        <calendar image="com.google.android.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+        <calendar image="com.underwood.calendar_beta/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+        <calendar image="cn.nubia.calendar.preset/cn.nubia.calendar.CTAStartActivity" prefix="calendar_" />
+        <calendar image="com.android.calendar/com.android.calendar.AgendaActivity" prefix="calendar_" />
+        <calendar image="com.android.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+        <calendar image="com.android.calendar/com.android.calendar.CalendarTabActivity" prefix="calendar_" />
+        <calendar image="com.android.calendar/com.android.calendar.ChooserActivity" prefix="calendar_"/>
+        <calendar image="com.android.calendar/com.android.calendar.EditEventActivity" prefix="calendar_"/>
+        <calendar image="com.android.calendar/com.android.calendar.EventInfoActivity" prefix="calendar_"/>
+        <calendar image="com.android.calendar/com.android.calendar.homepage.AllInOneActivity" prefix="calendar_" />
+        <calendar image="com.android.calendar/com.android.calendar.LaunchActivity" prefix="calendar_" />
+        <calendar image="com.android.calendar/com.android.calendar.MonthActivity" prefix="calendar_" />
+        <calendar image="com.android.calendar/com.android.calendar.timeline.EventListWithStartTime" prefix="calendar_"/>
+        <calendar image="com.asus.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+        <calendar image="com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity" prefix="calendar_" />
+        <calendar image="com.boxer.calendar/com.android.calendar.AllInOneActivity" prefix="today_calendar_" />
+        <calendar image="com.codesector.calendar/com.codesector.calendar.CalendarActivity" prefix="calendar_" />
+        <calendar image="com.google.android.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+        <calendar image="com.google.android.calendar/com.android.calendar.HtcCalendarProvider" prefix="calendar_"/>
+        <calendar image="com.google.android.calendar/com.android.calendar.LaunchActivity" prefix="calendar_"/>
+        <calendar image="com.htc.calendar/com.htc.calendar.CalendarCarouselActivity" prefix="calendar_" />
+        <calendar image="com.htc.calendar/com.htc.calendar.LaunchActivity" prefix="calendar_"/>
+        <calendar image="com.htc.calendar/com.htc.calendar.MonthActivity" prefix="calendar_"/>
+        <calendar image="com.kfactormedia.mycalendarmobile/com.kfactormedia.mycalendarmobile.MyCalendarActivity" prefix="calendar_" />
+        <calendar image="com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew" prefix="calendar_" />
+        <calendar image="com.lenovo.calendar/com.lenovo.calendar.AllInOneActivity" prefix="calendar_" />
+        <calendar image="com.motorola.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+        <calendar image="com.motorola.calendar/com.motorola.calendar.LaunchActivity" prefix="calendar_" />
+        <calendar image="com.popularapp.periodcalendar/com.popularapp.periodcalendar.AdActivity" prefix="calendar_" />
+        <calendar image="com.samsung.android.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+        <calendar image="com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher" prefix="calendar_" />
+        <calendar image="com.sony.nfx.app.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+        <calendar image="com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity" prefix="calendar_" />
+        <calendar image="com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity" prefix="calendar_" />
+        <calendar image="com.underwood.calendar/com.android.calendar.AllInOneActivity" prefix="today_calendar_"/>
+        <calendar image="com.underwood.calendar/com.underwood.calendar.MainActivity" prefix="today_calendar_"/>
+        <calendar image="com.underwood.calendar_beta/com.android.calendar.AllInOneActivity" prefix="today_calendar_" />
+        <calendar image="org.withouthat.acalendarplus/org.withouthat.acalendarplus.ACalendarPlus" prefix="calendar_" />
+        <calendar image="ree.calendar.schedule.reminder.todo.agenda.note.reminder.alarm/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+        <calendar image="ws.xsoh.etar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+        <!-- Calendar -->
+        <appicon name="com.android.calendar/com.android.calendar.AgendaActivity" image="calendar" />
+        <appicon name="com.android.calendar/com.android.calendar.AllInOneActivity" image="calendar" />
+        <appicon name="com.android.calendar/com.android.calendar.CalendarTabActivity" image="calendar" />
+        <appicon name="com.android.calendar/com.android.calendar.ChooserActivity" image="calendar" />
+        <appicon name="com.android.calendar/com.android.calendar.EditEventActivity" image="calendar" />
+        <appicon name="com.android.calendar/com.android.calendar.EventInfoActivity" image="calendar" />
+        <appicon name="com.android.calendar/com.android.calendar.JumpActivity" image="calendar" />
+        <appicon name="com.android.calendar/com.android.calendar.LaunchActivity" image="calendar" />
+        <appicon name="com.android.calendar/com.android.calendar.LaunchTasksActivity" image="calendar" />
+        <appicon name="com.android.calendar/com.android.calendar.MonthActivity" image="calendar" />
+        <appicon name="com.android.calendar/com.android.calendar.homepage.AllInOneActivity" image="calendar" />
+        <appicon name="com.android.calendar/com.android.calendar.timeline.EventListWithStartTime" image="calendar" />
+        <appicon name="com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity" image="calendar" />
+        <appicon
+            component=":CALENDAR"
+            image="calendar_30" />
+     <AppIcon
+        name="com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity"
+            image="calendar_31" />
+
+
+        <!-- Phone -->
+     <AppIcon
+        name="com.lenovo.ideafriend/com.lenovo.ideafriend.alias.DialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.incallui/com.android.incallui.DialerLauncher"
+            image="phone" />
+     <AppIcon
+        name="com.samsung.android.contacts/com.android.dialer.DialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.dialer/com.android.dialer.DialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsCallLogActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.CallLogActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.CallLogActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsRecentCallsListActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.CallDialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.RecentCallsLauncherActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.oppo.contacts.OppoDialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.DialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.TwelveKeyDialer"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.PCUDialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.CallLogShortcut"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.PhoneContactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.PhoneDialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.SmartDialerActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsDialerEntryActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.CallLog"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.dialer.DialerPhoneActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialerActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.TwelveKeyDialer"
+            image="phone" />
+     <AppIcon
+        name="com.motorola.blur/com.motorola.blur.ViewIdentitiesFacetActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.htccontacts/com.android.htccontacts.ContactsTabActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.htccontacts/com.android.htccontacts.ContactsSearch"
+            image="phone" />
+     <AppIcon
+        name="com.android.htcdialer/com.android.htcdialer.Dialer"
+            image="phone" />
+     <AppIcon
+        name="com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity"
+            image="phone" />
+     <AppIcon
+        name="com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.phone/com.android.phone.DialtactsContactsEntryActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.phone/com.android.phone.RecentCallsListActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.phone/com.android.phone.firewall.PhoneFireWall"
+            image="phone" />
+     <AppIcon
+        name="com.android.phone/com.android.phone.LaunchCallInterface"
+            image="phone" />
+     <AppIcon
+        name="com.android.phone/com.android.phone.Settings"
+            image="phone" />
+     <AppIcon
+        name="com.android.phone/com.android.phone.LaunchRecentCallsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.phone/com.android.phone.DialtactsCallLogActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.phone/com.android.phone.DialerSClass"
+            image="phone" />
+     <AppIcon
+        name="com.android.phone/com.android.phone.TwDialer"
+            image="phone" />
+     <AppIcon
+        name="com.android.htccontacts/com.android.htccontacts.DialerTabActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.dialer/com.android.dialer.ContactsLauncherActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity"
+            image="phone" />
+     <AppIcon
+        name="com.asus.contacts/com.android.contacts.activities.DialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.htc.contacts/com.htc.contacts.DialerTabActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.dialer.DialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.dialer/com.android.dialer.calllog.CallLogActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.dialer/com.android.dialer.HQDialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.oneplus.contacts.activities.OPDialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.phone/com.android.phone.lct.HtcCallForwardSettings"
+            image="phone" />
+     <AppIcon
+        name="com.android.voicedialer/com.android.voicedialer.VoiceDialerActivity"
+            image="phone" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsActivityAlias"
+            image="phone" />
+     <AppIcon
+        name="com.android.dialer/com.android.dialer.app.DialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity"
+            image="phone" />
+     <AppIcon
+        name="com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity"
+            image="phone" />
+        <appicon
+            component=":PHONE"
+            image="phone" />
+     <AppIcon
+        name="com.android.dialer/com.android.dialer.main.impl.MainActivity"
+            image="phone" />
+
+
+        <!--FM-->
+     <AppIcon
+        name="com.wingtech.fmradio/com.wingtech.fmradio.FMRadio"
+            image="fm" />
+     <AppIcon
+        name="com.quicinc.fmradio/com.quicinc.fmradio.FMRadio"
+            image="fm" />
+     <AppIcon
+        name="com.jrdcom.fmradio/com.jrdcom.fmradio.ui.FMActivity"
+            image="fm" />
+     <AppIcon
+        name="com.wind.fmradio/com.android.fmradio.FmMainActivity"
+            image="fm" />
+     <AppIcon
+        name="com.mediatek.fmradio/com.broadcom.bt.app.fm.rx.fmradio"
+            image="fm" />
+     <AppIcon
+        name="com.lge.fmradio/com.lge.fmradio.FmRadioActivity"
+            image="fm" />
+     <AppIcon
+        name="com.lenovo.fm/com.lenovo.fm.LenovoMainActivity"
+            image="fm" />
+     <AppIcon
+        name="com.miui.fm/com.miui.fmradio.FmActivity"
+            image="fm" />
+     <AppIcon
+        name="com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity"
+            image="fm" />
+     <AppIcon
+        name="com.tct.fmradio/com.tct.fmradio.ui.FMActivity"
+            image="fm" />
+     <AppIcon
+        name="com.tct.fmradio/com.tct.fmradio.utils.BaseActivity"
+            image="fm" />
+     <AppIcon
+        name="com.mediatek.fmradio/com.mediatek.fmradio.FmRadioActivity"
+            image="fm" />
+     <AppIcon
+        name="com.thunderst.radio/com.thunderst.radio.FMRadioMainActivity"
+            image="fm" />
+     <AppIcon
+        name="com.motorola.fmplayer/com.motorola.fmplayer.FMMainActivity"
+            image="fm" />
+     <AppIcon
+        name="com.motorola.mtkfmplayer/com.motorola.mtkfmplayer.FMMainActivity"
+            image="fm" />
+     <AppIcon
+        name="com.lenovo.fm/com.lenovo.fm.RadioActivity"
+            image="fm" />
+     <AppIcon
+        name="com.sonyericsson.fmradio/com.sonyericsson.fmradio.ui.FmRadioActivity"
+            image="fm" />
+     <AppIcon
+        name="com.huawei.android.FMRadio/com.huawei.android.FMRadio.FmRadioActivity"
+            image="fm" />
+     <AppIcon
+        name="com.android.fmradio/com.android.fmradio.FmMainActivity"
+            image="fm" />
+     <AppIcon
+        name="com.htc.fm/com.htc.fm.ap.activity.FMRadioMain"
+            image="fm" />
+     <AppIcon
+        name="com.google.android.fmradio/com.google.android.fmradio.app.MainActivity"
+            image="fm" />
+     <AppIcon
+        name="com.motorola.mtkfmplayer/com.motorola.mtkfmplayer.ChangeThemeActivity"
+            image="fm" />
+     <AppIcon
+        name="com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity"
+            image="fm" />
+     <AppIcon
+        name="com.mediatek.FMRadio/com.mediatek.FMRadio.FMRadioActivity"
+            image="fm" />
+     <AppIcon
+        name="com.lge.fmradio/com.lge.fmradio.IntroActivity"
+            image="fm" />
+     <AppIcon
+        name="com.asus.fmradio/com.asus.fmradio.FMRadioUIv3"
+            image="fm" />
+     <AppIcon
+        name="com.caf.fmradio/com.caf.fmradio.FMRadio"
+            image="fm" />
+     <AppIcon
+        name="com.sec.android.app.fm/com.sec.android.app.fm.MainActivity"
+            image="fm" />
+
+
+        <appicon
+            component=":CALCULATOR"
+            image="calculator" />
+        <!-- MI Calculator -->
+     <AppIcon
+        name="com.miui.calculator/com.miui.calculator.cal.CalculatorActivity"
+            image="calculator" />
+     <AppIcon
+        name="com.coloros.calculator/com.android.calculator2.Calculator"
+            image="calculator" />
+        <!-- Calculator -->
+     <AppIcon
+        name="com.zui.calculator/com.zui.calculator.Calculator"
+            image="calculator" />
+     <AppIcon
+        name="com.htc.calculator/com.htc.calculator.Calculator"
+            image="calculator" />
+     <AppIcon
+        name="com.android.calculator2/com.android.calculator2.Calculator"
+            image="calculator" />
+     <AppIcon
+        name="com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator"
+            image="calculator" />
+     <AppIcon
+        name="com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator"
+            image="calculator" />
+     <AppIcon
+        name="com.meizu.flyme.calculator/com.meizu.flyme.calculator.Calculator"
+            image="calculator" />
+     <AppIcon
+        name="com.google.android.calculator/com.android.calculator2.Calculator"
+            image="calculator" />
+     <AppIcon
+        name="com.ape.calculator2/com.ape.calculator2.Calculator"
+            image="calculator" />
+     <AppIcon
+        name="com.asus.calculator/com.asus.calculator.Calculator"
+            image="calculator" />
+     <AppIcon
+        name="com.oneplus.calculator/com.oneplus.calculator.Calculator"
+            image="calculator" />
+     <AppIcon
+        name="com.tct.calculator/com.tct.calculator.Calculator"
+            image="calculator" />
+     <AppIcon
+        name="com.wingtech.calc/com.wingtech.calc.Calculator"
+            image="calculator" />
+     <AppIcon
+        name="com.android.bbkcalculator/com.android.bbkcalculator.Calculator"
+            image="calculator" />
+
+
+        <!-- Videos -->
+     <AppIcon
+        name="com.oppo.video/com.oppo.video.VideoListActivity"
+            image="videos" />
+     <AppIcon
+        name="com.lge.videoplayer/com.lge.videoplayer.list.VideoPlayerActivity"
+            image="videos" />
+     <AppIcon
+        name="com.lge.videoplayer/com.lge.videoplayer.VideoPlayerList"
+            image="videos" />
+     <AppIcon
+        name="com.tct.videoplayer/com.tct.videoplayer.MovieListActivity"
+            image="videos" />
+     <AppIcon
+        name="com.haolianluo.video/com.haolianluo.video.fragment.MainFragment"
+            image="videos" />
+     <AppIcon
+        name="com.zte.videoplayer/com.zte.videoplayer.VideoBrowserActivity"
+            image="videos" />
+     <AppIcon
+        name="com.mediatek.videoplayer/com.mediatek.videoplayer.MovieListActivity"
+            image="videos" />
+     <AppIcon
+        name="com.myos.videoplayer/com.myos.videoplayer.movielist.MovieListActivity"
+            image="videos" />
+     <AppIcon
+        name="com.lenovo.videoplayer/com.lenovo.videoplayer.VideoPlayerActivity"
+            image="videos" />
+     <AppIcon
+        name="com.yulong.android.videoplayer/com.android.gallery3d.app.galleryforvideo"
+            image="videos" />
+     <AppIcon
+        name="com.huawei.hwvplayer/com.huawei.hwvplayer.framework.MainActivity"
+            image="videos" />
+     <AppIcon
+        name="com.android.videoeditor/com.android.videoeditor.ProjectsActivity"
+            image="videos" />
+     <AppIcon
+        name="com.android.videoeditor/com.android.videoeditor.VideoEditorActivity"
+            image="videos" />
+     <AppIcon
+        name="com.meizu.media.video/com.meizu.media.video.VideoMainActivity"
+            image="videos" />
+     <AppIcon
+        name="com.google.android.videoeditor/com.android.videoeditor.ProjectsActivity"
+            image="videos" />
+     <AppIcon
+        name="com.myos.videoplayer/com.myos.videoplayer.MovieListActivity"
+            image="videos" />
+     <AppIcon
+        name="com.gionee.video/com.gionee.video.VideoTabMainActivity"
+            image="videos" />
+     <AppIcon
+        name="com.letv.android.videoplayer/com.android.videoplayer.PlayerPermissionActivity"
+            image="videos" />
+     <AppIcon
+        name="com.huawei.hwvplayer/com.huawei.himovie.ui.login.SplashScreenActivity"
+            image="videos" />
+     <AppIcon
+        name="com.android.VideoPlayer/com.android.VideoPlayer.VideoPlayer"
+            image="videos" />
+     <AppIcon
+        name="com.huawei.himovie/com.huawei.himovie.ui.login.SplashScreenActivity"
+            image="videos" />
+     <AppIcon
+        name="com.coloros.video/com.oppo.video.VideoListActivity"
+            image="videos" />
+     <AppIcon
+        name="com.miui.video/com.miui.video.HomeActivity"
+            image="videos" />
+     <AppIcon
+        name="com.miui.videoplayer/com.miui.video.global.app.LauncherActivity"
+            image="videos" />
+     <AppIcon
+        name="com.huawei.himovie.overseas/com.huawei.himovie.ui.login.SplashScreenActivity"
+            image="videos" />
+
+
+        <!-- Message -->
+        <appicon
+            component=":SMS"
+            image="messaging" />
+     <AppIcon
+        name="com.verizon.messaging.vzmsgs/com.verizon.mms.ui.activity.Provisioning"
+            image="messaging" />
+     <AppIcon
+        name="com.oneplus.mms/com.android.mms.ui.ConversationList"
+            image="messaging" />
+     <AppIcon
+        name="com.zui.mms/com.fancymaker.mms.ui.XuiMmsMainActivity"
+            image="messaging" />
+     <AppIcon
+        name="com.samsung.android.messaging/com.android.mms.ui.ConversationComposer"
+            image="messaging" />
+     <AppIcon
+        name="com.android.mms/com.android.mms.ui.PermissionActivity"
+            image="messaging" />
+     <AppIcon
+        name="com.android.mms/com.android.mms.ui.ConversationList"
+            image="messaging" />
+     <AppIcon
+        name="com.motorola.blur.conversations/com.motorola.blur.conversations.ui.ConversationList"
+            image="messaging" />
+     <AppIcon
+        name="com.motorola.blur.messaging/com.motorola.blur.messaging.MessagingActivity"
+            image="messaging" />
+     <AppIcon
+        name="com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity"
+            image="messaging" />
+     <AppIcon
+        name="com.android.mms/com.android.mms.ui.ConversationComposer"
+            image="messaging" />
+     <AppIcon
+        name="com.android.mms/com.android.mms.ui.MessageTabActivity"
+            image="messaging" />
+     <AppIcon
+        name="com.htc.sense.mms/com.htc.sense.mms.ui.MessageTabActivity"
+            image="messaging" />
+     <AppIcon
+        name="com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList"
+            image="messaging" />
+     <AppIcon
+        name="com.asus.message/com.android.mms.ui.ConversationList"
+            image="messaging" />
+     <AppIcon
+        name="com.android.mms/com.android.mms.ui.BootActivity"
+            image="messaging" />
+     <AppIcon
+        name="com.android.mms/com.android.mms.ui.MmsTabActivity"
+            image="messaging" />
+     <AppIcon
+        name="com.android.mms/com.yulong.android.mms.ui.MmsMainListFormActivity"
+            image="messaging" />
+     <AppIcon
+        name="com.yulong.coolmessage/com.yulong.android.contacts.ui.main.ContactMainActivity"
+            image="messaging" />
+     <AppIcon
+        name="com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity"
+            image="messaging" />
+     <AppIcon
+        name="com.android.contacts/com.android.mms.ui.ConversationList"
+            image="messaging" />
+     <AppIcon
+        name="com.android.contacts/com.android.mms.ui.SearchActivity"
+            image="messaging" />
+     <AppIcon
+        name="com.lenovo.ideafriend/com.lenovo.ideafriend.alias.MmsActivity"
+            image="messaging" />
+     <AppIcon
+        name="com.android.mms/com.android.mms.ui.ModeChooser"
+            image="messaging" />
+     <AppIcon
+        name="com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity"
+            image="messaging" />
+
+
+
+        <!-- Camera -->
+     <AppIcon
+        name="com.hmdglobal.camera2/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.google.android.Pixel3Mod/com.android.camera.CameraLauncher"
+            image="camera_2" />
+     <AppIcon
+        name="com.google.android.Pixel2Mod/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher"
+            image="camera" />
+        <appicon
+            component=":CAMERA"
+            image="camera" />
+     <AppIcon
+        name="com.android.camera/com.android.camera.CameraActivity"
+            image="camera" />
+     <AppIcon
+        name="com.android.camera/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.zui.camera/com.zui.camera.CameraActivity"
+            image="camera" />
+     <AppIcon
+        name="com.google.android.GoogleCameraNX1/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.mediatek.camera/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.lge.camera/com.lge.camera.CamLoading"
+            image="camera" />
+     <AppIcon
+        name="com.tct.camera/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.android.camerabq/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.htc.camera2/com.htc.camera2.CameraEntry"
+            image="camera" />
+     <AppIcon
+        name="com.zte.camera/com.zte.camera.CameraActivity"
+            image="camera" />
+     <AppIcon
+        name="com.motorola.camera1/com.motorola.camera.Camera"
+            image="camera" />
+     <AppIcon
+        name="com.android.camera2/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.motorola.camera/com.motorola.camera.Camera"
+            image="camera" />
+     <AppIcon
+        name="com.android.camera/com.android.camera.CameraEntry"
+            image="camera" />
+     <AppIcon
+        name="com.android.gallery3d/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.google.android.camera/com.android.camera.Camera"
+            image="camera" />
+     <AppIcon
+        name="com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity"
+            image="camera" />
+     <AppIcon
+        name="com.google.android.gallery3d/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.meizu.media.camera/com.meizu.media.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="org.cyanogenmod.snap/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.myos.camera/com.myos.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.lge.camera/com.lge.camera.CameraAppLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.cyngn.cameranext/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.htc.camera/com.htc.camera.CameraEntry"
+            image="camera" />
+     <AppIcon
+        name="com.android.asuscamera/com.android.asuscamera.Camera"
+            image="camera" />
+     <AppIcon
+        name="com.asus.camera/com.asus.camera.CameraApp"
+            image="camera" />
+     <AppIcon
+        name="com.oppo.camera/com.oppo.camera.Camera"
+            image="camera" />
+     <AppIcon
+        name="com.cyngn.cameranextmod2/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.oneplus.camera/com.oneplus.camera.OPCameraActivity"
+            image="camera" />
+     <AppIcon
+        name="com.huawei.camera/com.huawei.camera"
+            image="camera" />
+     <AppIcon
+        name="com.motorola.cameraone/com.motorola.camera.Camera"
+            image="camera" />
+     <AppIcon
+        name="com.moto.cam/com.motorola.camera.Camera"
+            image="camera" />
+     <AppIcon
+        name="com.myos.camera/com.myos.camera.CameraLauncher2"
+            image="camera" />
+     <AppIcon
+        name="com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="org.codeaurora.snapcam/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.fineos.camera/com.fineos.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.zui.cameragallery/com.zui.cameragallery.camera.CameraActivity"
+            image="camera" />
+     <AppIcon
+        name="com.google.android.GCMods5/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.wileyfox.camera/com.android.camera.CameraLauncher"
+            image="camera" />
+     <AppIcon
+        name="com.motorola.camera2/com.motorola.camera.Camera"
+            image="camera" />
+     <AppIcon
+        name="com.sec.android.app.camera/com.sec.android.app.camera.Camera"
+            image="camera" />
+     <AppIcon
+        name="com.android.camera/com.android.camera.Camera"
+            image="camera" />
+     <AppIcon
+        name="com.blackberry.camera/com.blackberry.camera.ui.coordination.MainActivity"
+            image="camera" />
+     <AppIcon
+        name="com.motorola.cameraonemtk/com.motorola.camera.Camera"
+            image="camera" />
+
+        <!-- Google Camera -->
+     <AppIcon
+        name="com.google.android.GoogleCamera/com.android.camera.CameraLauncher"
+            image="google_camera" />
+     <AppIcon
+        name="com.google.android.GoogleCamera/com.android.camera.CameraActivity"
+            image="google_camera" />
+     <AppIcon
+        name="com.google.android.GoogleCameraMOD/com.android.camera.CameraLauncher"
+            image="google_camera" />
+
+
+        <!-- Music -->
+     <AppIcon
+        name="com.android.music/com.android.music.MusicBrowserActivity"
+            image="music" />
+     <AppIcon
+        name="com.sonyericsson.music/com.sonyericsson.music.MusicActivity"
+            image="music" />
+     <AppIcon
+        name="org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity"
+            image="music" />
+     <AppIcon
+        name="com.lge.music/com.lge.music.MusicBrowserActivity"
+            image="music" />
+     <AppIcon
+        name="com.android.mediacenter/com.android.mediacenter.PageActivity"
+            image="music" />
+     <AppIcon
+        name="com.google.android.music/com.android.music.activitymanagement.TopLevelActivity"
+            image="play_music" />
+     <AppIcon
+        name="com.miui.player/com.miui.player.ui.MusicBrowserActivity"
+            image="music" />
+     <AppIcon
+        name="com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity"
+            image="music_alt" />
+
+
+
+        <!-- Browser -->
+     <AppIcon
+        name="com.lenovo.intlmb/com.opera.Opera"
+            image="browser" />
+     <AppIcon
+        name="com.cyngn.browser/com.android.browser.BrowserLauncher"
+            image="browser" />
+     <AppIcon
+        name="com.apn.mobile.browser.zte/com.apn.mobile.browser.MainActivity"
+            image="browser" />
+     <AppIcon
+        name="com.lenovo.browser/com.lenovo.browser.BrowserActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.BrowserActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.launch.SplashActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.BrowserLauncher"
+            image="browser" />
+     <AppIcon
+        name="com.google.android.browser/com.android.browser.BrowserActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.ui.BrowserActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.WoActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.WoHallActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.Browser9130MainView"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.MonternetLauncherActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.BrowserDownloadPage"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.motorola.android.browser.ChinaMobileActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.CombinedBookmarkHistoryActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.BaiduShortcutActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.yulong.android.browser.BrowserStartPage"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.LoginBrowserActivity"
+            image="browser" />
+     <AppIcon
+        name="org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.MainActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.opera.Opera"
+            image="opera" />
+     <AppIcon
+        name="com.htc.sense.browser/com.htc.sense.browser.BrowserActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.tencent.mtt.SplashActivity"
+            image="browser" />
+     <AppIcon
+        name="com.android.browser/com.android.browser.PermissionCheckActivity"
+            image="browser" />
+     <AppIcon
+        name="org.lineageos.jelly/org.lineageos.jelly.MainActivity"
+            image="browser" />
+     <AppIcon
+        name="com.vivo.browser/com.vivo.browser.BrowserActivity"
+            image="browser" />
+     <AppIcon
+        name="com.nearme.browser/com.android.browser.BrowserActivity"
+            image="browser" />
+        <appicon
+            component=":BROWSER"
+            image="browser" />
+
+
+        <!-- Contacts -->
+     <AppIcon
+        name="com.android.dialer/com.android.dialer.TwelveKeyDialer"
+            image="contacts" />
+     <AppIcon
+        name="com.android.dialer/com.android.dialer.alias.ContactsActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.lenovo.ideafriend/com.lenovo.ideafriend.alias.PeopleActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.zui.contacts/com.android.newcontact.vl.activity.XLaunchActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.lenovo.ideafriend/com.lenovo.ideafriend.alias.callLogsActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.sec.android.app.contacts.ContactsEntryActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.sec.android.app.contacts.PhoneBookTopMenuActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.PeopleActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsCallLogEntryActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.ContactsFrontDoor"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.sec.android.app.contacts.PhoneBookSplitTopMenuActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.ContactTabBrowserActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsRecentCallsEntryActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.sec.android.app.contacts.RecntcallEntryActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.RecentCallsEntryActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.PhoneFrontDoor"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsPhoneEntryActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsEntryActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.tmo.LaunchCommunityActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.BbDialtactsMainFrameActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.ContactsActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.ContactsListActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.ContactHostActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsRecentEntryActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsCallListEntryActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsRecentCallEntryActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsCallsEntryActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.ContactsMainFromHomeActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.RecentCallLogLaunchActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.TransparentActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.SmartDialerListActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.BaiJiaXingActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.SmartDailerActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.ContactsListActivityLauncher"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.ContactsListActivityEx"
+            image="contacts" />
+     <AppIcon
+        name="com.android.htccontacts/com.android.htccontacts.BrowseLayerCarouselActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.meizu.mzsnssyncservice/com.meizu.mzsnssyncservice.ui.SnsTabActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.asus.contacts/com.android.contacts.activities.PeopleActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.LaunchActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.yulong.android.contacts/com.yulong.android.contacts.ui.main.ContactMainActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.dialer/com.android.dialer.allContactsActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.android.contacts/com.android.contacts.PeopleActivityAlias"
+            image="contacts" />
+
+     <AppIcon
+        name="com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.blackberry.contacts/com.android.contacts.activities.PeopleDrawerActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.samsung.android.contacts/com.samsung.android.contacts.contactslist.PeopleActivity"
+            image="contacts" />
+     <AppIcon
+        name="com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity"
+            image="contacts" />
+
+        <!-- Gallery -->
+     <AppIcon
+        name="com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity"
+            image="quickpic" />
+     <AppIcon
+        name="com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.lenovo.gallery/com.lenovo.gallery.app.GalleryActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.tct.gallery3d/com.tct.gallery3d.app.GalleryActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.bq.gallerybq/com.bq.gallerybq.app.GalleryActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.android.gallery3d/com.sprd.gallery3d.app.VideoActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.gionee.gallery/com.gionee.gallery.sb.app.GnGallery"
+            image="gallery" />
+     <AppIcon
+        name="com.zui.gallery/com.zui.gallery.app.GalleryActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.motorola.MotGallery2/com.android.gallery3d.app.Gallery"
+            image="gallery" />
+     <AppIcon
+        name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.cooliris.media/com.cooliris.media.Gallery"
+            image="gallery" />
+     <AppIcon
+        name="com.jrdcom.android.gallery3d/com.jrdcom.android.gallery3d.app.Gallery"
+            image="gallery" />
+     <AppIcon
+        name="com.htc.album/com.htc.album.AlbumTabSwitchActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.google.android.gallery3d/com.cooliris.media.Gallery"
+            image="gallery" />
+     <AppIcon
+        name="com.android.gallery3d/com.android.gallery3d.app.Gallery"
+            image="gallery" />
+     <AppIcon
+        name="com.htc.album/com.htc.album.AlbumMain.ActivityMainDropList"
+            image="gallery" />
+     <AppIcon
+        name="com.htc.album/com.htc.album.AlbumMain.ActivityMainCarousel"
+            image="gallery" />
+     <AppIcon
+        name="com.android.camera/com.android.camera.GalleryPicker"
+            image="gallery" />
+     <AppIcon
+        name="com.motorola.gallery/com.motorola.gallery.TopScreen"
+            image="gallery" />
+     <AppIcon
+        name="com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.google.android.gallery3d/com.android.gallery3d.app.Gallery"
+            image="gallery" />
+     <AppIcon
+        name="com.miui.gallery/com.miui.gallery.app.Gallery"
+            image="gallery" />
+     <AppIcon
+        name="com.android.gallery3d/com.huawei.gallery.app.GalleryMain"
+            image="gallery" />
+     <AppIcon
+        name="com.oppo.gallery3d/com.oppo.gallery3d.app.Gallery"
+            image="gallery" />
+     <AppIcon
+        name="com.tct.gallery3d/com.tct.gallery3d.app.PermissionActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.coloros.gallery3d/com.oppo.gallery3d.app.Gallery"
+            image="gallery" />
+     <AppIcon
+        name="com.htc.album/com.htc.album.AlbumMain.ActivityMainTabHost"
+            image="gallery" />
+     <AppIcon
+        name="com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.android.gallery3d/com.huawei.gallery.app.GalleryActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.htc.albumgp/com.htc.album.AlbumMain.ActivityMainTabHost"
+            image="gallery" />
+     <AppIcon
+        name="com.nomotorola.MotGallery2/com.android.gallery3d.app.GalleryActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.google.android.gallery3d/com.android.gallery3d.app.GalleryActivity"
+            image="gallery" />
+     <AppIcon
+        name="org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.android.gallery3d/com.android.gallery3d.app.MainActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.android.gallery3d/com.android.newgallery.NewGallery"
+            image="gallery" />
+     <AppIcon
+        name="com.fineos.gallery3d/com.fineos.gallery3d.app.AlbumSetActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.vivo.gallery/com.android.gallery3d.vivo.GalleryTabActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.android.gallery3d/com.android.gallery3d.app.PermissionActivity"
+            image="gallery" />
+     <AppIcon
+        name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange"
+            image="gallery_3" />
+     <AppIcon
+        name="com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity"
+            image="gallery" />
+
+
+        <!-- Weather -->
+     <AppIcon
+        name="com.vivo.weather/com.vivo.weather.WeatherMain"
+            image="weather" />
+     <AppIcon
+        name="com.htc.Weather/com.htc.Weather.WeatherEntry"
+            image="weather" />
+     <AppIcon
+        name="com.htc.Weather/com.htc.Weather.WeatherEntryAlias"
+            image="weather" />
+     <AppIcon
+        name="com.tct.weather/com.tct.weather.MainActivity"
+            image="weather" />
+     <AppIcon
+        name="com.coolwind.weather/com.coolwind.weather.SplashActivity"
+            image="weather" />
+     <AppIcon
+        name="com.lge.sizechangable.weather/com.lge.sizechangable.weather.activities.WeatherActivity_Default_dummy"
+            image="weather" />
+     <AppIcon
+        name="com.miui.weather2/com.miui.weather2.ActivityWeatherMain"
+            image="weather" />
+     <AppIcon
+        name="net.oneplus.weather/net.oneplus.weather.app.MainActivity"
+            image="weather" />
+     <AppIcon
+        name="com.weather.samsung/com.weather.Weather.app.SplashScreenActivity"
+            image="weather" />
+     <AppIcon
+        name="com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings"
+            image="weather" />
+     <AppIcon
+        name="com.moji.zuk/com.moji.zuk.CSplashScreen"
+            image="weather" />
+     <AppIcon
+        name="com.ape.weather/com.ape.weather.DetailActivity"
+            image="weather" />
+     <AppIcon
+        name="com.oppo.weather/com.oppo.weather.OppoMainActivity"
+            image="weather" />
+     <AppIcon
+        name="com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome"
+            image="weather" />
+     <AppIcon
+        name="com.samsung.android.weather/com.samsung.android.weather.app.WeatherLauncher"
+            image="weather" />
+     <AppIcon
+        name="com.meizu.flyme.weather/com.meizu.flyme.weather.WeatherMainActivity"
+            image="weather" />
+     <AppIcon
+        name="com.lge.sizechangable.weather/com.lge.sizechangable.weather.activities.WeatherActivity_Default"
+            image="weather" />
+     <AppIcon
+        name="com.jrdcom.weather/com.jrdcom.weather.MainActivity"
+            image="weather" />
+     <AppIcon
+        name="com.coloros.weather/com.coloros.weather.OppoMainActivity"
+            image="weather" />
+     <AppIcon
+        name="com.huawei.android.totemweatherapp/com.huawei.android.totemweatherapp.WeatherHome"
+            image="weather" />
+     <AppIcon
+        name="com.amazon.weather/com.amazon.weather.WeatherTabletActivity"
+            image="weather" />
+     <AppIcon
+        name="jp.kyocera.weather/jp.kyocera.weather.WeatherDetailsActivity"
+            image="weather" />
+     <AppIcon
+        name="com.sonymobile.xperiaweather/com.sonymobile.xperiaweather.MainActivity"
+            image="weather" />
+     <AppIcon
+        name="com.samruston.weather/com.samruston.weather.MainActivity"
+            image="weather" />
+     <AppIcon
+        name="com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity"
+            image="weather" />
+     <AppIcon
+        name="mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity"
+            image="today_weather" />
+
+        <!-- Clock -->
+     <AppIcon
+        name="com.android.deskclock/com.android.deskclock.AlarmClock"
+            image="clock" />
+     <AppIcon
+        name="com.zui.deskclock/com.zui.deskclock.DeskClock"
+            image="clock" />
+     <AppIcon
+        name="com.android.deskclock/com.android.deskclock.AlarmsMainActivity"
+            image="clock" />
+     <AppIcon
+        name="com.android.alarmclock/com.android.alarmclock.AlarmClock"
+            image="clock" />
+     <AppIcon
+        name="com.android.deskclock/com.jrdcom.timetool.TimeToolActivity"
+            image="clock" />
+     <AppIcon
+        name="com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl"
+            image="clock" />
+     <AppIcon
+        name="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage"
+            image="clock" />
+     <AppIcon
+        name="com.google.android.deskclock/com.android.deskclock.DeskClock"
+            image="clock" />
+     <AppIcon
+        name="com.android.deskclock/com.android.deskclock.DeskClock"
+            image="clock" />
+     <AppIcon
+        name="com.motorola.blur/com.motorola.blur.alarmclock.AlarmClock"
+            image="clock" />
+     <AppIcon
+        name="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.AlarmActivity"
+            image="clock" />
+     <AppIcon
+        name="com.android.alarmclock/com.meizu.flyme.alarmclock.AlarmClock"
+            image="clock" />
+     <AppIcon
+        name="com.android.deskclock/com.android.deskclock.DeskClockTabActivity"
+            image="clock" />
+     <AppIcon
+        name="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackage"
+            image="clock" />
+     <AppIcon
+        name="com.moblynx.clockl/com.android.deskclock.DeskClock"
+            image="clock" />
+     <AppIcon
+        name="com.yulong.android.xtime/yulong.xtime.ui.main.XTimeActivity"
+            image="clock" />
+     <AppIcon
+        name="com.lge.clock/com.lge.clock.AlarmClockActivity"
+            image="clock" />
+     <AppIcon
+        name="com.asus.deskclock/com.asus.deskclock.DeskClock"
+            image="clock" />
+     <AppIcon
+        name="com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock"
+            image="clock" />
+     <AppIcon
+        name="net.oneplus.deskclock/net.oneplus.deskclock.DeskClock"
+            image="clock" />
+     <AppIcon
+        name="com.oppo.alarmclock/com.oppo.alarmclock.AlarmClock"
+            image="clock" />
+     <AppIcon
+        name="com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer"
+            image="clock" />
+     <AppIcon
+        name="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock"
+            image="clock" />
+     <AppIcon
+        name="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.alarm.Alarm"
+            image="clock" />
+     <AppIcon
+        name="com.lenovo.deskclock/com.lenovo.deskclock.DeskClock"
+            image="clock" />
+     <AppIcon
+        name="com.tct.timetool/com.tct.timetool.DeskClock"
+            image="clock" />
+     <AppIcon
+        name="com.android.BBKClock/com.android.BBKClock.Timer"
+            image="clock" />
+     <AppIcon
+        name="zte.com.cn.alarmclock/zte.com.cn.alarmclock.AlarmClock"
+            image="clock" />
+     <AppIcon
+        name="com.jrdcom.timetool/com.jrdcom.timetool.TimeToolActivity"
+            image="clock" />
+     <AppIcon
+        name="com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock"
+            image="clock" />
+        <appicon
+            component=":CLOCK"
+            image="clock" />
+        <!-- Dynamic Clock -->
+        <dynamic-clock
+            defaultHour="10"
+            defaultMinute="10"
+            defaultSecond="30"
+            image="clock_dym"
+            hourLayerIndex="0"
+            minuteLayerIndex="1"
+            secondLayerIndex="2" />
+
+
+
+        <!-- Downloads -->
+     <AppIcon
+        name="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList"
+            image="downloads" />
+     <AppIcon
+        name="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadActivity"
+            image="downloads" />
+     <AppIcon
+        name="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadsListTab"
+            image="downloads" />
+     <AppIcon
+        name="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadTabActivity"
+            image="downloads" />
+     <AppIcon
+        name="com.cellmania.android.storefront.webview.vmu/com.cellmania.android.storefront.webview.vmu.CM_WebView_StorefrontActivity"
+            image="downloads" />
+
+        <!-- File Manager -->
+     <AppIcon
+        name="com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity"
+            image="files" />
+        <!-- Files -->
+     <AppIcon
+        name="com.tct.filemanager/com.tct.filemanager.activity.FileBrowserActivity"
+            image="files" />
+     <AppIcon
+        name="com.android.filemanager/com.android.filemanager.FileManagerActivity"
+            image="files" />
+     <AppIcon
+        name="com.tplink.filemanager/com.tplink.filemanager.activities.MainActivity"
+            image="files" />
+     <AppIcon
+        name="com.gionee.filemanager/com.gionee.filemanager.FileExplorerTabActivity"
+            image="files" />
+     <AppIcon
+        name="com.android.documentsui/com.android.documentsui.StandaloneLauncherActivity"
+            image="files" />
+     <AppIcon
+        name="com.zui.filemanager/com.zui.filemanager.MainActivity"
+            image="files" />
+     <AppIcon
+        name="com.htc.filemanager/com.htc.filemanager.FileManagerActivity"
+            image="files" />
+     <AppIcon
+        name="com.mediatek.filemanager/com.mediatek.filemanager.ui.FileExplorerTabActivity"
+            image="files" />
+     <AppIcon
+        name="com.jrdcom.filemanager/com.jrdcom.filemanager.activity.FileBrowserActivity"
+            image="files" />
+     <AppIcon
+        name="zte.com.cn.filer/zte.com.cn.filer.FilerActivity"
+            image="files" />
+     <AppIcon
+        name="com.motorola.filemanager/com.motorola.filemanager.MainFileManagerActivity"
+            image="files" />
+     <AppIcon
+        name="com.sprd.fileexplorer/com.sprd.fileexplorer.activities.FileExploreActivity"
+            image="files" />
+     <AppIcon
+        name="com.motorola.filemanager/com.motorola.filemanager.FileManagerActivity"
+            image="files" />
+     <AppIcon
+        name="com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager"
+            image="files" />
+     <AppIcon
+        name="org.openintents.filemanager/org.openintents.filemanager.FileManagerActivity"
+            image="files" />
+     <AppIcon
+        name="com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity"
+            image="files" />
+     <AppIcon
+        name="com.mars.miuifilemanager/com.mars.miuifilemanager.ui.FileExplorerTabActivity"
+            image="files" />
+     <AppIcon
+        name="org.openintents.cmfilemanager/org.openintents.cmfilemanager.FileManagerActivity"
+            image="files" />
+     <AppIcon
+        name="com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity"
+            image="files" />
+     <AppIcon
+        name="com.yulong.android.filebrowser/com.yulong.android.filebrowser.activity.FileBrowserActivity"
+            image="files" />
+     <AppIcon
+        name="com.letv.android.filemanager/com.letv.android.filemanager.activities.FileManagerActivity"
+            image="files" />
+     <AppIcon
+        name="com.meizu.filemanager/com.meizu.flyme.filemanager.activity.FileManagerActivity"
+            image="files" />
+     <AppIcon
+        name="com.mediatek.filemanager/com.mediatek.filemanager.FileManagerOperationActivity"
+            image="files" />
+     <AppIcon
+        name="com.ape.filemanager/com.ape.filemanager.FileManagerMainActivity"
+            image="files" />
+     <AppIcon
+        name="com.lge.filemanager/com.lge.filemanager.view.LaunchActivity"
+            image="files" />
+     <AppIcon
+        name="com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity"
+            image="files" />
+     <AppIcon
+        name="com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity"
+            image="files" />
+     <AppIcon
+        name="com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain"
+            image="files" />
+     <AppIcon
+        name="com.oppo.filemanager/com.oppo.filemanager.Main"
+            image="files" />
+     <AppIcon
+        name="com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity"
+            image="files" />
+     <AppIcon
+        name="com.lenovo.FileBrowser/com.lenovo.FileBrowser.activities.FileBrowserMain"
+            image="files" />
+     <AppIcon
+        name="com.sec.android.app.myfiles/com.sec.android.app.myfiles.Myfiles"
+            image="files" />
+     <AppIcon
+        name="com.wingtech.filemanager/com.wingtech.filemanager.MainActivity"
+            image="files" />
+     <AppIcon
+        name="com.coloros.filemanager/com.coloros.filemanager.Main"
+            image="files" />
+     <AppIcon
+        name="com.mediatek.filemanager/com.mediatek.filemanager.MainFilemanagerActivity"
+            image="files" />
+     <AppIcon
+        name="com.samsung.android.app.galaxyfinder/com.samsung.android.app.galaxyfinder.GalaxyFinderLauncher"
+            image="files" />
+     <AppIcon
+        name="com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity"
+            image="files" />
+     <AppIcon
+        name="com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity"
+            image="files" />
+     <AppIcon
+        name="com.android.documentsui/com.android.documentsui.LauncherActivity"
+            image="files" />
+     <AppIcon
+        name="com.google.android.documentsui/com.android.documentsui.LauncherActivity"
+            image="files" />
+     <AppIcon
+        name="com.mobisystems.fileman/com.mobisystems.files.FileBrowser"
+            image="files" />
+
+
+
+     <AppIcon
+        name="com.huawei.android.thememanager/com.huawei.android.thememanager.PageActivity"
+            image="themes" />
+     <AppIcon
+        name="com.deishelon.lab.huaweithememanager/com.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity"
+            image="themes" />
+        <!-- Theme Engine -->
+     <AppIcon
+        name="org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity"
+            image="themes" />
+     <AppIcon
+        name="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity"
+            image="themes" />
+     <AppIcon
+        name="org.cyanogenmod.theme.chooser2/org.cyanogenmod.theme.chooser2.ChooserLauncher"
+            image="themes" />
+
+     <AppIcon
+        name="com.cyngn.themestore/com.cyngn.themestore.ui.StoreActivity"
+            image="themes" />
+     <AppIcon
+        name="com.bbk.theme/com.bbk.theme.Theme"
+            image="themes" />
+     <AppIcon
+        name="com.zookingsoft.themestore/com.zookingsoft.themestore.view.MainActivity"
+            image="themes" />
+     <AppIcon
+        name="com.asus.themeapp/com.asus.themeapp.ThemeAppActivity"
+            image="themes" />
+     <AppIcon
+        name="com.huawei.android.thememanager/com.huawei.android.thememanager.HwThemeManagerActivity"
+            image="themes" />
+     <AppIcon
+        name="com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher"
+            image="themes" />
+     <AppIcon
+        name="com.samsung.android.themestore/com.samsung.android.themestore.activity.WTLauncher"
+            image="themes" />
+     <AppIcon
+        name="com.nearme.themespace/com.nearme.themespace.activities.ThemeActivity"
+            image="themes" />
+     <AppIcon
+        name="com.mixapplications.themeeditor/com.mixapplications.themeeditor.MainActivity"
+            image="themes" />
+     <AppIcon
+        name="com.lenovo.themecenter/com.lenovo.themecenter.LoadingActivity"
+            image="themes" />
+     <AppIcon
+        name="com.letv.android.themestore/com.letv.android.themestore.activity.HomeActivity"
+            image="themes" />
+     <AppIcon
+        name="com.meizu.customizecenter/com.meizu.customizecenter.CustomizeCenterActivity"
+            image="themes" />
+     <AppIcon
+        name="com.huawei.android.thememanager/com.huawei.android.thememanager.PageActivity"
+            image="themes" />
+
+
+
+        <!-- Notes -->
+     <AppIcon
+        name="com.miui.notes/com.miui.notes.ui.NotesListActivity"
+            image="notes" />
+        <!-- Notes -->
+     <AppIcon
+        name="com.tcl.note/com.tcl.note.activity.NoteListActivity"
+            image="notes" />
+     <AppIcon
+        name="com.gionee.note/com.gionee.note.HomeActivity"
+            image="notes" />
+     <AppIcon
+        name="com.oneplus.note/com.oneplus.note.ui.MainActivity"
+            image="notes" />
+     <AppIcon
+        name="com.yulong.android.memo/com.yulong.android.coolmemo.ui.CoolMemoActivity"
+            image="notes" />
+     <AppIcon
+        name="com.sonymobile.notes/com.sonymobile.notes.dashboard.DashboardActivity"
+            image="notes" />
+     <AppIcon
+        name="com.lge.app.richnote/com.lge.app.richnote.RichNoteList"
+            image="notes" />
+     <AppIcon
+        name="com.fly.android.notes/com.lava.notes.evermemo.StartActivity"
+            image="notes" />
+     <AppIcon
+        name="com.sprd.note/com.sprd.note.NoteActivity"
+            image="notes" />
+     <AppIcon
+        name="com.blackberry.notes/com.blackberry.notes.ui.list.NotesListActivity"
+            image="notes" />
+     <AppIcon
+        name="com.sec.android.quickmemo/com.sec.android.quickmemo.ui.MemoList"
+            image="notes" />
+     <AppIcon
+        name="com.htc.notes/com.htc.notes.collection.NoteCollectionActivity"
+            image="notes" />
+     <AppIcon
+        name="com.sec.android.app.memo/com.sec.android.app.memo.MemoRoot"
+            image="notes" />
+     <AppIcon
+        name="com.sec.android.app.memo/com.sec.android.app.memo.Memo"
+            image="notes" />
+     <AppIcon
+        name="com.sec.android.widgetapp.diotek.smemo/com.sec.android.widgetapp.q1_penmemo.MemoListActivity"
+            image="notes" />
+     <AppIcon
+        name="com.letv.android.note/com.letv.android.note.NoteBookListActivity"
+            image="notes" />
+     <AppIcon
+        name="com.jrdcom.ui.notes/com.jrdcom.notepad2.ui.NotesListActivity"
+            image="notes" />
+     <AppIcon
+        name="com.samsung.android.app.memo/com.samsung.android.app.memo.Main"
+            image="notes" />
+     <AppIcon
+        name="com.meizu.notepaper/com.meizu.flyme.notepaper.NotePaperActivity"
+            image="notes" />
+     <AppIcon
+        name="com.miui.notes/com.miui.notes.ui.NotesListActivity"
+            image="notes" />
+     <AppIcon
+        name="com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity"
+            image="notes" />
+     <AppIcon
+        name="com.asus.quickmemo/com.asus.quickmemo.activities.edit.MemoEditActivity"
+            image="notes" />
+     <AppIcon
+        name="com.example.android.notepad/com.example.android.notepad.NotePadActivity"
+            image="notes" />
+     <AppIcon
+        name="com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity"
+            image="notes" />
+     <AppIcon
+        name="com.htc.lucy/com.htc.lucy.editor.LandingActivity"
+            image="notes" />
+     <AppIcon
+        name="com.huaqin.mynotes/com.huaqin.mynotes.FoldersListActivity"
+            image="notes" />
+     <AppIcon
+        name="com.tct.note/com.tct.note.ui.NotesListActivity"
+            image="notes" />
+     <AppIcon
+        name="com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity"
+            image="notes" />
+     <AppIcon
+        name="com.samsung.android.app.memo/com.samsung.android.app.memo.control.ui.list.MemoListActivity"
+            image="notes" />
+     <AppIcon
+        name="com.letv.android.note/com.letv.android.note.NoteListActivity"
+            image="notes" />
+     <AppIcon
+        name="com.example.android.notepad/com.example.android.notepad.NotesList"
+            image="notes" />
+     <AppIcon
+        name="com.android.notes/com.android.notes.Notes"
+            image="notes" />
+     <AppIcon
+        name="com.mediatek.notebook/com.mediatek.notebook.NotesList"
+            image="notes" />
+     <AppIcon
+        name="org.mozilla.testpilot.notes/org.mozilla.testpilot.notes.MainActivity"
+            image="notes" />
+
+
+        <!-- Recorder -->
+     <AppIcon
+        name="org.lineageos.recorder/org.lineageos.recorder.RecorderActivity"
+            image="recorder" />
+     <AppIcon
+        name="com.zui.recorder/com.zui.recorder.SoundRecorder"
+            image="recorder" />
+     <AppIcon
+        name="com.lenovo.recorder/com.lenovo.recorder.SoundRecorder"
+            image="recorder" />
+     <AppIcon
+        name="com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder"
+            image="recorder" />
+     <AppIcon
+        name="com.tct.soundrecorder/com.tct.soundrecorder.SoundRecorder"
+            image="recorder" />
+     <AppIcon
+        name="com.tct.soundrecorder/com.tct.soundrecorder.SoundRecorderNew"
+            image="recorder" />
+     <AppIcon
+        name="cn.zte.recorder/cn.zte.recorder.StartEmptyActivity"
+            image="recorder" />
+     <AppIcon
+        name="com.letv.android.recorder/com.letv.android.recorder.RecorderActivity"
+            image="recorder" />
+     <AppIcon
+        name="com.android.soundrecorder/com.android.soundrecorder.SoundRecorderLauncher"
+            image="recorder" />
+     <AppIcon
+        name="com.android.soundrecorder/com.android.soundrecorder.SoundRecorderTab"
+            image="recorder" />
+     <AppIcon
+        name="com.android.soundrecorder/com.android.soundrecorder.RecorderActivity"
+            image="recorder" />
+     <AppIcon
+        name="com.android.soundrecorder/com.android.soundrecorder.SoundRecorder"
+            image="recorder" />
+     <AppIcon
+        name="com.android.soundrecorder/com.android.soundrecorder.Sound"
+            image="recorder" />
+     <AppIcon
+        name="com.android.soundrecorder/com.android.soundrecorder.AsusRecorder"
+            image="recorder" />
+     <AppIcon
+        name="com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity"
+            image="recorder" />
+     <AppIcon
+        name="com.sec.android.app.voicerecorder/com.sec.android.app.voicerecorder.VoiceRecorderMainActivity"
+            image="recorder" />
+     <AppIcon
+        name="com.yulong.android.soundrecorder/com.yulong.android.soundrecorder.CP_SoundRecorder"
+            image="recorder" />
+     <AppIcon
+        name="com.lge.voicerecorder/com.lge.voicerecorder.LaunchVoiceRecorder"
+            image="recorder" />
+     <AppIcon
+        name="com.asus.soundrecorder/com.asus.soundrecorder.AsusRecorder"
+            image="recorder" />
+     <AppIcon
+        name="com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity"
+            image="recorder" />
+     <AppIcon
+        name="oppo.multimedia.soundrecorder/oppo.multimedia.soundrecorder.RecorderActivity"
+            image="recorder" />
+     <AppIcon
+        name="com.htc.soundrecorder/com.htc.soundrecorder.SoundRecorderBG"
+            image="recorder" />
+     <AppIcon
+        name="com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder"
+            image="recorder" />
+     <AppIcon
+        name="com.bq.soundrecorder/com.bq.soundrecorder.activities.MainActivity"
+            image="recorder" />
+     <AppIcon
+        name="com.letv.android.recorder/com.letv.android.recorder.mvp.recorder.view.RecorderActivity"
+            image="recorder" />
+     <AppIcon
+        name="com.android.bbksoundrecorder/com.android.bbksoundrecorder.SoundRecorder"
+            image="recorder" />
+     <AppIcon
+        name="com.tct.soundrecorder/com.tct.soundrecorder.TctSoundRecorder"
+            image="recorder" />
+     <AppIcon
+        name="jp.snowlife01.android.voicerecorderpro/jp.snowlife01.android.voicerecorderpro.MainActivity"
+            image="recorder" />
+     <AppIcon
+        name="com.splendapps.voicerec/com.splendapps.voicerec.MainActivity"
+            image="recorder" />
+     <AppIcon
+        name="com.coloros.soundrecorder/oppo.multimedia.soundrecorder.RecorderActivity"
+            image="recorder" />
+
+
+
+
+     <AppIcon
+        name="com.kimcy929.screenrecorder/com.kimcy929.screenrecorder.activity.MainActivity"
+            image="screen_recorder" />
+     <AppIcon
+        name="com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity"
+            image="screen_recorder" />
+
+     <AppIcon
+        name="com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity"
+            image="scanner" />
+
+
+        <!-- Settings -->
+     <AppIcon
+        name="com.android.settings/com.android.settings.GnSettingsTabActivity"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.MainSettings"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.SettingsTab"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.HWSettings"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.Settings"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.TetherSettings"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.TetherSettingsActivity"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.TetherSettingsWifi"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.MainEntry"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.MiuiSettings"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.MiuiPasswordGuardActivity"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.framework.activity.HtcSettings"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.SettingsTabActivity"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.GridSettings"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.oppo.settings.SettingsActivity"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.Settings$WifiApSettingsActivity"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.Settings$SprdManageApplicationsActivity"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.Settings$SprdManageTasksActivity"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.wfd.WifiDisplayEnableActivity"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.jrdTethering.JrdTetherSettings"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.Settings$WifiSettingsActivity"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.fpmanager.FpSettings"
+            image="settings" />
+     <AppIcon
+        name="com.android.settings/com.android.settings.fpmanager.FpSettings"
+            image="settings" />
+
+
+
+
+        <!-- WhatsApp -->
+     <AppIcon
+        name="com.whatsapp/com.whatsapp.Main"
+            image="whatsapp" />
+     <AppIcon
+        name="com.whatsapp/com.whatsapp.Main3"
+            image="whatsapp" />
+     <AppIcon
+        name="com.gbwhatsapp/com.gbwhatsapp.Main0"
+            image="whatsapp" />
+     <AppIcon
+        name="com.gbwhatsapp/com.gbwhatsapp.Main4"
+            image="whatsapp" />
+     <AppIcon
+        name="com.gbwhatsapp/com.gbwhatsapp.Main1"
+            image="whatsapp" />
+     <AppIcon
+        name="com.whatsapp/com.whatsapp.0"
+            image="whatsapp" />
+     <AppIcon
+        name="com.yowhatsapp/com.yowhatsapp.0"
+            image="whatsapp" />
+     <AppIcon
+        name="com.whatsapp.w4b/com.whatsapp.Main"
+            image="whatsapp_buisness" />
+
+
+        <!-- Instagram -->
+     <AppIcon
+        name="com.instagram.android/com.instagram.android.activity.MainTabActivity"
+            image="instagram" />
+     <AppIcon
+        name="com.gbinsta.android/com.gbinsta.android.activity.MainTabActivity"
+            image="instagram" />
+
+        <!-- Facebook -->
+     <AppIcon
+        name="com.facebook.katana/com.facebook.katana.LoginActivity"
+            image="facebook" />
+     <AppIcon
+        name="com.facebook.lite/com.facebook.lite.MainActivity"
+            image="facebook_lite" />
+
+        <!-- Play Store -->
+     <AppIcon
+        name="com.android.vending/com.android.vending.AssetBrowserActivity"
+            image="playstore" />
+        <!-- Play Games -->
+     <AppIcon
+        name="com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity"
+            image="playgames" />
+        <!-- Play Movies -->
+     <AppIcon
+        name="com.google.android.videos/com.google.android.youtube.videos.EntryPoint"
+            image="play_movies" />
+     <AppIcon
+        name="com.google.android.videos/com.google.android.videos.activity.LauncherActivity"
+            image="play_movies" />
+        <!-- Google Play Music -->
+     <AppIcon
+        name="com.google.android.music/com.android.music.activitymanagement.TopLevelActivity"
+            image="play_music" />
+        <!-- Play Books -->
+     <AppIcon
+        name="com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity"
+            image="play_books" />
+        <!-- Google News -->
+     <AppIcon
+        name="com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity"
+            image="news" />
+
+        <!--Chrome-->
+     <AppIcon
+        name="com.android.chrome/com.google.android.apps.chrome.Main"
+            image="chrome" />
+     <AppIcon
+        name="com.android.chrome/com.android.chrome.Main"
+            image="chrome" />
+
+     <AppIcon
+        name="com.chrome.beta/com.google.android.apps.chrome.Main"
+            image="chrome_beta" />
+
+     <AppIcon
+        name="com.chrome.canary/com.google.android.apps.chrome.Main"
+            image="chrome_canary" />
+
+     <AppIcon
+        name="com.chrome.dev/com.google.android.apps.chrome.Main"
+            image="chrome_dev" />
+
+
+        <!-- Google Photo -->
+     <AppIcon
+        name="com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity"
+            image="photos" />
+     <AppIcon
+        name="com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity"
+            image="photos" />
+     <AppIcon
+        name="com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity"
+            image="photos" />
+     <AppIcon
+        name="com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity"
+            image="play_console" />
+        <!-- YouTube Go -->
+     <AppIcon
+        name="com.google.android.apps.youtube.mango/com.google.android.apps.youtube.lite.frontend.activities.SplashActivity"
+            image="youtube_go" />
+     <AppIcon
+        name="com.utorrent.client/com.bittorrent.client.Main"
+            image="utorrent" />
+        <!-- YT Syudio -->
+     <AppIcon
+        name="com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.activities.SplashActivity"
+            image="youtube_studio" />
+     <AppIcon
+        name="com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity"
+            image="youtube_studio" />
+     <AppIcon
+        name="com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity"
+            image="youtube_music" />
+     <AppIcon
+        name="com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.browse.SplashScreenActivity"
+            image="youtube_kids" />
+        <!-- YouTube -->
+     <AppIcon
+        name="com.google.android.youtube/com.google.android.youtube.HomeActivity"
+            image="youtube" />
+     <AppIcon
+        name="com.google.android.youtube/com.google.android.youtube.HomePage"
+            image="youtube" />
+     <AppIcon
+        name="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+            image="youtube" />
+     <AppIcon
+        name="com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity"
+            image="youtube" />
+     <AppIcon
+        name="com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity"
+            image="youtube" />
+     <AppIcon
+        name="com.lara.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+            image="youtube" />
+     <AppIcon
+        name="com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+            image="youtube_vanced" />
+        <!-- YouTube Go -->
+     <AppIcon
+        name="com.google.android.apps.youtube.mango/com.google.android.apps.youtube.lite.frontend.activities.SplashActivity"
+            image="youtube_go" />
+        <!-- Twitter -->
+     <AppIcon
+        name="com.htc.htctwitter/com.htc.htctwitter.TwidroidSplash"
+            image="twitter" />
+     <AppIcon
+        name="com.twitter.android/com.twitter.android.LoginActivity"
+            image="twitter" />
+     <AppIcon
+        name="com.twitter.android/com.twitter.android.StartActivity"
+            image="twitter" />
+
+     <AppIcon
+        name="com.twitter.android.lite/com.twitter.android.lite.TwitterLiteActivity"
+            image="twitter_lite" />
+     <AppIcon
+        name="org.chromium.webapk.ae2df836a5879868a/org.chromium.webapk.shell_apk.MainActivity"
+            image="twitter" />
+     <AppIcon
+        name="com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity"
+            image="tiktok" />
+     <AppIcon
+        name="com.zhiliaoapp.musically.go/com.ss.android.ugc.aweme.splash.SplashActivity"
+            image="tiktok_lite" />
+        <!-- Telegram -->
+     <AppIcon
+        name="org.telegram.messenger/org.telegram.ui.LaunchActivity"
+            image="telegram" />
+     <AppIcon
+        name="org.telegram.messenger.beta/org.telegram.ui.LaunchActivity"
+            image="telegram" />
+     <AppIcon
+        name="com.russiatelegram/org.telegram.ui.LaunchActivity"
+            image="telegram" />
+
+     <AppIcon
+        name="org.thunderdog.challegram/org.thunderdog.challegram.MainActivity"
+            image="telegram_x" />
+        <!--Google Search-->
+     <AppIcon
+        name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity"
+            image="google" />
+     <AppIcon
+        name="com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher"
+            image="google" />
+
+     <AppIcon
+        name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity"
+            image="assistant" />
+     <AppIcon
+        name="com.google.android.voicesearch/com.google.android.voicesearch.RecognitionActivity"
+            image="assistant" />
+     <AppIcon
+        name="com.google.android.voicesearch/com.google.android.voicesearch.RecognitionActivityReal"
+            image="assistant" />
+     <AppIcon
+        name="com.google.android.voicesearch/com.google.android.voicesearch.performanceanalysis.LogFilesViewer"
+            image="assistant" />
+        <!-- Google Assistant -->
+     <AppIcon
+        name="com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity"
+            image="assistant" />
+        <!--Gmail-->
+     <AppIcon
+        name="com.google.android.gm/com.google.android.gm.ConversationListActivityGmail"
+            image="gmail" />
+     <AppIcon
+        name="com.google.android.gm/com.google.android.gm.AutoSendActivity"
+            image="gmail" />
+     <AppIcon
+        name="com.google.android.gm/com.google.android.gm.GmailActivity"
+            image="gmail" />
+     <AppIcon
+        name="com.google.android.gm/com.google.android.gm.ComposeActivityGmail"
+            image="gmail" />
+     <AppIcon
+        name="com.google.android.gm/com.google.android.gm.Preference.GmailPreferenceActivity"
+            image="gmail" />
+     <AppIcon
+        name="com.google.android.gm/com.google.android.gm.MailboxSelectionActivity"
+            image="gmail" />
+     <AppIcon
+        name="com.google.android.gm/com.google.android.gm.MailboxSelectionActivityGoogleMail"
+            image="gmail" />
+        <!-- Google Maps -->
+     <AppIcon
+        name="com.google.android.apps.maps/com.google.android.maps.MapsActivity"
+            image="maps" />
+        <!--Google Drive-->
+     <AppIcon
+        name="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
+            image="drive" />
+        <!-- Google Duo -->
+     <AppIcon
+        name="com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity"
+            image="duo" />
+
+     <AppIcon
+        name="com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity"
+            image="meet" />
+        <!-- Snapseed -->
+     <AppIcon
+        name="com.niksoftware.snapseed/com.google.android.apps.snapseed.MainActivity"
+            image="snapseed" />
+     <AppIcon
+        name="com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity"
+            image="snapseed" />
+        <!-- Google Sheets -->
+     <AppIcon
+        name="com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity"
+            image="google_sheets" />
+        <!-- Google Slides -->
+     <AppIcon
+        name="com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity"
+            image="google_slides" />
+        <!-- Google Pay -->
+     <AppIcon
+        name="com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity"
+            image="gpay" />
+     <AppIcon
+        name="com.google.android.apps.nbu.paisa.user/com.google.android.apps.nbu.paisa.user.launcher.LauncherActivity"
+            image="gpay" />
+        <!-- Google Docs -->
+     <AppIcon
+        name="com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
+            image="google_docs" />
+        <!-- Google Translate -->
+     <AppIcon
+        name="com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity"
+            image="translate" />
+     <AppIcon
+        name="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity"
+            image="translate" />
+        <!-- Play Books -->
+     <AppIcon
+        name="com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity"
+            image="play_books" />
+     <AppIcon
+        name="com.google.android.apps.nbu.paisa.merchant/com.google.android.apps.nbu.paisa.merchant.launcher.MerchantLauncherActivity"
+            image="gpay_buisness" />
+        <!-- News & Weather -->
+     <AppIcon
+        name="com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewsActivity"
+            image="google_news" />
+        <!-- Aarogya Setu -->
+     <AppIcon
+        name="nic.goi.aarogyasetu/nic.goi.aarogyasetu.views.SplashActivity"
+            image="aarogya_setu"/>
+
+        <!-- Adobe Acrobat -->
+     <AppIcon
+        name="com.adobe.reader/com.adobe.reader.AdobeReader"
+            image="adobe_acrobat"/>
+
+        <!-- Adobe Capture -->
+     <AppIcon
+        name="com.adobe.creativeapps.gather/com.adobe.creativeapps.gather.activity.GatherSplashScreenActivity"
+            image="adobe_capture"/>
+
+        <!-- Adobe Draw -->
+     <AppIcon
+        name="com.adobe.creativeapps.draw/com.adobe.creativeapps.draw.activity.SplashActivity"
+            image="adobe_draw"/>
+
+        <!-- Adobe Fill Sign -->
+     <AppIcon
+        name="com.adobe.fas/com.adobe.fas.Home.FillAndSign"
+            image="adobe_fill_sign"/>
+
+        <!-- Adobe Photoshop Fix -->
+     <AppIcon
+        name="com.adobe.adobephotoshopfix/com.adobe.adobephotoshopfix.FCSplashScreenActivity"
+            image="adobe_photoshop_fix"/>
+
+        <!-- Adobe Photoshop Mix -->
+     <AppIcon
+        name="com.adobe.photoshopmix/com.adobe.photoshopmix.SplashScreenActivity"
+            image="adobe_photoshop_mix"/>
+
+        <!-- Adobe Photoshop Sketch -->
+     <AppIcon
+        name="com.adobe.creativeapps.sketch/com.adobe.creativeapps.sketch.activity.SplashScreenActivity"
+            image="adobe_photoshop_sketch"/>
+
+        <!-- Adobe Scan -->
+     <AppIcon
+        name="com.adobe.scan.android/com.adobe.scan.android.SplashActivity"
+            image="adobe_scan"/>
+
+        <!-- Adobe XD -->
+     <AppIcon
+        name="com.adobe.sparklerandroid/com.adobe.sparklerandroid.activity.XDSplashScreenActivity"
+            image="adobe_xd"/>
+
+        <!-- Amazon Shopping -->
+     <AppIcon
+        name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity"
+            image="amazon_shopping"/>
+
+        <!-- Authenticator -->
+     <AppIcon
+        name="com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity"
+            image="microsoft_authenticator"/>
+
+        <!-- B612 -->
+     <AppIcon
+        name="com.linecorp.b612.android/com.linecorp.b612.android.activity.ActivityCamera"
+            image="b612"/>
+
+        <!-- BHIM -->
+     <AppIcon
+        name="in.org.npci.upiapp/in.org.npci.upiapp.HomeActivity"
+            image="bhim"/>
+
+        <!-- Beebom -->
+     <AppIcon
+        name="com.beebom.app.beebom/com.beebom.app.beebom.splash.SplashActivity"
+            image="beebom"/>
+
+        <!-- Behance -->
+     <AppIcon
+        name="com.behance.behance/com.behance.network.ui.activities.MainActivity"
+            image="behance"/>
+
+        <!-- Bing -->
+     <AppIcon
+        name="com.microsoft.bing/com.microsoft.clients.bing.main.SplashActivity"
+            image="bing"/>
+
+        <!-- BookMyShow -->
+     <AppIcon
+        name="com.bt.bms/com.movie.bms.splashscreen.SplashScreenActivity"
+            image="bookmyshow"/>
+
+        <!-- CamScanner -->
+     <AppIcon
+        name="com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity"
+            image="camscanner"/>
+
+
+        <!-- Canva -->
+     <AppIcon
+        name="com.canva.editor/com.canva.app.editor.splash.SplashActivity"
+            image="canva"/>
+
+        <!-- Compass -->
+     <AppIcon
+        name="com.miui.compass/com.miui.compass.CompassActivity"
+            image="compass"/>
+
+        <!-- Yourphone -->
+     <AppIcon
+        name="com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity"
+            image="yourphone"/>
+
+        <!-- Creative Cloud -->
+     <AppIcon
+        name="com.adobe.cc/com.adobe.cc.SplashScreen"
+            image="creative_cloud"/>
+
+
+
+        <!-- DigiLocker -->
+     <AppIcon
+        name="com.digilocker.android/com.digilocker.android.ui.activity.dashboard.activity.MainDashboardActivity"
+            image="digilocker"/>
+
+        <!-- Discord -->
+     <AppIcon
+        name="com.discord/com.discord.app.AppActivity$Main"
+            image="discord"/>
+
+        <!-- Edge -->
+     <AppIcon
+        name="com.microsoft.emmx/com.microsoft.ruby.Main"
+            image="edge"/>
+
+        <!-- Excel -->
+     <AppIcon
+        name="com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity"
+            image="excel"/>
+
+        <!-- FM Radio -->
+     <AppIcon
+        name="com.miui.fm/com.miui.fmradio.FmActivity"
+            image="fm_radio"/>
+
+        <!-- Flipboard -->
+     <AppIcon
+        name="flipboard.app/flipboard.activities.LaunchActivityAlias"
+            image="flipboard"/>
+
+        <!-- Flipkart -->
+     <AppIcon
+        name="com.flipkart.android/com.flipkart.android.SplashActivity"
+            image="flipkart"/>
+
+        <!-- GFX Tool -->
+     <AppIcon
+        name="eu.tsoml.graphicssettings/eu.tsoml.graphicssettings.MainActivity"
+            image="gfx_tool"/>
+
+
+
+        <!-- Gearbest -->
+     <AppIcon
+        name="com.globalegrow.app.gearbest/com.globalegrow.app.gearbest.SplashActivity"
+            image="gearbest"/>
+
+        <!-- GetApps -->
+     <AppIcon
+        name="com.xiaomi.mipicks/com.xiaomi.mipicks.DefaultAlias"
+            image="getapps"/>
+
+        <!-- Google Ads -->
+     <AppIcon
+        name="com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity"
+            image="google_ads"/>
+
+        <!-- Google Opinion Rewards -->
+     <AppIcon
+        name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity"
+            image="google_opinion_rewards"/>
+
+
+        <!-- Huk Kwgt -->
+     <AppIcon
+        name="hukkwgt.kustom.pack/org.kustom.api.dashboard.DashboardActivity"
+            image="huk_kwgt"/>
+
+        <!-- Hyperlapse Mobile -->
+     <AppIcon
+        name="com.microsoft.hyperlapsemobile/hyperlapsemobile.android.startpage"
+            image="hyperlapse_mobile"/>
+
+
+
+
+        <!-- Internet Speed Meter Lite -->
+     <AppIcon
+        name="com.internet.speed.meter.lite/com.internet.speed.meter.lite.MainActivity"
+            image="internet_speed_meter_lite"/>
+
+
+
+        <!-- JioSaavn -->
+     <AppIcon
+        name="com.jio.media.jiobeats/com.jio.media.mobile.apps.jiobeats.splash.SplashScreen"
+            image="jiosaavn"/>
+
+        <!-- Kaizala -->
+     <AppIcon
+        name="com.microsoft.mobile.polymer/com.microsoft.mobile.polymer.ui.MainActivity"
+            image="kaizala"/>
+
+        <!-- Keep Notes -->
+     <AppIcon
+        name="com.google.android.keep/com.google.android.keep.activities.BrowseActivity"
+            image="keep_notes"/>
+
+        <!-- Lawnchair -->
+     <AppIcon
+        name="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher"
+            image="lawnchair"/>
+        <!-- Lawnchair -->
+     <AppIcon
+        name="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher"
+            image="lawnchair" />
+     <AppIcon
+        name="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.Launcher"
+            image="lawnchair" />
+     <AppIcon
+        name="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity"
+            image="lawnchair_settings" />
+     <AppIcon
+        name="ch.deletescape.lawnchair.ci/ch.deletescape.lawnchair.LawnchairLauncher"
+            image="lawnchair" />
+
+        <!-- Lens -->
+     <AppIcon
+        name="com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity"
+            image="lens"/>
+
+        <!-- Lightroom -->
+     <AppIcon
+        name="com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity"
+            image="lightroom"/>
+
+        <!-- Likee -->
+     <AppIcon
+        name="video.like/com.yy.iheima.startup.MainActivity"
+            image="likee"/>
+
+        <!-- LinkedIn -->
+     <AppIcon
+        name="com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity"
+            image="linkedin"/>
+
+
+        <!-- MX Player -->
+     <AppIcon
+        name="com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX"
+            image="mx_player"/>
+     <AppIcon
+        name="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList"
+            image="mx_player_pro" />
+     <AppIcon
+        name="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX"
+            image="mx_player_pro" />
+        <!-- MakeMyTrip -->
+     <AppIcon
+        name="com.makemytrip/com.mmt.travel.app.home.ui.SplashActivity"
+            image="makemytrip"/>
+
+
+
+        <!-- Messenger -->
+     <AppIcon
+        name="com.facebook.orca/com.facebook.orca.auth.StartScreenActivity"
+            image="messenger"/>
+     <AppIcon
+        name="com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity"
+            image="messenger_lite" />
+
+        <!-- Mi Community -->
+     <AppIcon
+        name="com.mi.global.bbs/com.mi.global.bbs.ui.SplashActivity"
+            image="mi_community"/>
+
+        <!-- Mi Credit -->
+     <AppIcon
+        name="com.micredit.in/com.micredit.in.SplashActivity"
+            image="mi_credit"/>
+
+        <!-- Mi Fit -->
+     <AppIcon
+        name="com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity"
+            image="mi_fit"/>
+
+        <!-- Mi Pay -->
+     <AppIcon
+        name="com.mipay.wallet.in/com.mipay.home.ui.SplashActivity"
+            image="mi_pay"/>
+
+        <!-- Mi Store -->
+     <AppIcon
+        name="com.mi.global.shop/com.mi.global.shop.activity.LaunchActivity"
+            image="mi_store"/>
+
+        <!-- Mi Video -->
+     <AppIcon
+        name="com.miui.videoplayer/com.miui.video.global.app.LauncherActivity"
+            image="mi_video"/>
+
+        <!-- Microsoft Launcher -->
+     <AppIcon
+        name="com.microsoft.launcher/com.microsoft.launcher.EntryActivity"
+            image="microsoft_launcher"/>
+
+        <!-- Microsoft News -->
+     <AppIcon
+        name="com.microsoft.amp.apps.bingnews/microsoft.msn.news.android.activities.LaunchActivity"
+            image="microsoft_news"/>
+
+        <!-- Minty Free -->
+     <AppIcon
+        name="pl.patrykgoworowski.mintyfree/pl.patrykgoworowski.mintyfree.MainActivity"
+            image="minty_free"/>
+
+        <!-- MyJio -->
+     <AppIcon
+        name="com.jio.myjio/com.jio.myjio.dashboard.activities.DashboardActivity"
+            image="myjio"/>
+
+        <!-- Netmeds -->
+     <AppIcon
+        name="com.NetmedsMarketplace.Netmeds/com.netmedsmarketplace.netmeds.AppUriSchemeHandler"
+            image="netmeds"/>
+
+        <!-- OLX India -->
+     <AppIcon
+        name="com.olx.southasia/com.olxgroup.panamera.presentation.splash.SplashActivity"
+            image="olx_india"/>
+
+     <AppIcon
+        name="com.amazon.clouddrive.photos/com.amazon.clouddrive.photos.display.LauncherActivity"
+            image="amazon_photos"/>
+
+
+     <AppIcon
+        name="com.adobe.premiererush.videoeditor/com.adobe.rush.splashscreen.controllers.SplashScreenActivity"
+            image="adobe_rush"/>
+        <!-- OYO -->
+     <AppIcon
+        name="com.oyo.consumer/com.oyo.consumer.activity.LauncherActivity"
+            image="oyo"/>
+
+     <AppIcon
+        name="com.phonepe.app.business/com.phonepe.app.business.SplashActivity"
+            image="phonepe_buisness"/>
+
+        <!-- Office -->
+     <AppIcon
+        name="com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity"
+            image="office"/>
+
+        <!-- Office Lens -->
+     <AppIcon
+        name="com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity"
+            image="office_lens"/>
+
+        <!-- OneDrive -->
+     <AppIcon
+        name="com.microsoft.skydrive/com.microsoft.skydrive.MainActivity"
+            image="onedrive"/>
+
+        <!-- OneNote -->
+     <AppIcon
+        name="com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity"
+            image="onenote"/>
+
+        <!-- Opera Mini -->
+     <AppIcon
+        name="com.opera.mini.native/com.opera.mini.android.Browser"
+            image="opera_mini"/>
+     <AppIcon
+        name="com.opera.browser/com.opera.Opera"
+            image="opera"/>
+     <AppIcon
+        name="com.opera.browser*com.opera.android.BrowserActivity"
+            image="opera"/>
+
+        <!-- Outlook -->
+     <AppIcon
+        name="com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity"
+            image="outlook"/>
+
+        <!-- PUBG MOBILE -->
+     <AppIcon
+        name="com.tencent.ig/com.epicgames.ue4.SplashActivity"
+            image="pubg_mobile"/>
+
+
+        <!-- PhonePe -->
+     <AppIcon
+        name="com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity"
+            image="phonepe"/>
+
+        <!-- Photoshop Express -->
+     <AppIcon
+        name="com.adobe.psmobile/com.adobe.psmobile.SplashScreen"
+            image="photoshop_express"/>
+        <!-- Zooper -->
+     <AppIcon
+        name="org.zooper.zwfree/org.zooper.zwlib.Launcher"
+            image="zooper_free" />
+     <AppIcon
+        name="org.zooper.zwpro/org.zooper.zwlib.Launcher"
+            image="zooper_pro" />
+     <AppIcon
+        name="org.zooper.zwpro/org.zooper.zwlib.MainConfiguration"
+            image="zooper_pro" />
+     <AppIcon
+        name="org.zooper.zwpro/org.zooper.zwlib.ClickActivity"
+            image="zooper_pro" />
+
+
+        <!-- Planner -->
+
+     <AppIcon
+        name="com.microsoft.planner/com.microsoft.planner.login.ConnectActivity"
+            image="planner"/>
+
+        <!-- PowerPoint -->
+     <AppIcon
+        name="com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity"
+            image="powerpoint"/>
+
+        <!-- Quora -->
+     <AppIcon
+        name="com.quora.android/com.quora.android.components.activities.LauncherActivity"
+            image="quora"/>
+
+        <!-- Raphael Icon Pack -->
+     <AppIcon
+        name="com.srv.raphael/com.srv.raphael.activities.SplashActivity"
+            image="raphael_icon_pack"/>
+
+        <!-- Rapido -->
+     <AppIcon
+        name="com.rapido.passenger/com.rapido.passenger.activities.SplashScreen"
+            image="rapido"/>
+
+        <!-- Reddit -->
+     <AppIcon
+        name="com.reddit.frontpage/com.reddit.frontpage.StartActivity"
+            image="reddit"/>
+
+        <!-- Retrica -->
+     <AppIcon
+        name="com.venticake.retrica/retrica.scenes.MainActivity"
+            image="retrica"/>
+
+        <!-- SIM Toolkit -->
+     <AppIcon
+        name="com.android.stk/com.android.stk.StkMain"
+            image="sim_toolkit"/>
+
+        <!-- SMS Organizer -->
+     <AppIcon
+        name="com.microsoft.android.smsorganizer/com.microsoft.android.smsorganizer.StartupActivity"
+            image="sms_organizer"/>
+
+        <!-- Security -->
+     <AppIcon
+        name="com.miui.securitycenter/com.miui.securityscan.MainActivity"
+            image="security"/>
+
+        <!-- Services Feedback -->
+     <AppIcon
+        name="com.miui.miservice/com.miui.miservice.main.MainActivity"
+            image="services_feedback"/>
+
+        <!-- ShareMe -->
+     <AppIcon
+        name="com.xiaomi.midrop/com.xiaomi.midrop.SplashScreen"
+            image="shareme"/>
+
+        <!-- Skype -->
+     <AppIcon
+        name="com.skype.raider/com.skype4life.MainActivity"
+            image="skype"/>
+
+        <!-- Skype For Business -->
+     <AppIcon
+        name="com.microsoft.office.lync15/com.microsoft.office.sfb.common.ui.splash.EntryPoint"
+            image="skype_for_business"/>
+
+        <!-- Skype Lite -->
+     <AppIcon
+        name="com.skype.m2/com.skype.m2.views.HubActivity"
+            image="skype_lite"/>
+
+        <!-- Snapchat -->
+     <AppIcon
+        name="com.snapchat.android/com.snapchat.android.LandingPageActivity"
+            image="snapchat"/>
+
+        <!-- Solid Explorer -->
+     <AppIcon
+        name="pl.solidexplorer2/pl.solidexplorer.SolidExplorer"
+            image="solid_explorer"/>
+
+        <!-- Spark Post -->
+     <AppIcon
+        name="com.adobe.spark.post/com.adobe.spark.view.main.SplashActivity"
+            image="spark_post"/>
+
+        <!-- Spotify -->
+     <AppIcon
+        name="com.spotify.music/com.spotify.music.MainActivity"
+            image="spotify"/>
+
+        <!-- Steam -->
+     <AppIcon
+        name="com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity"
+            image="steam"/>
+
+        <!-- Teams -->
+     <AppIcon
+        name="com.microsoft.teams/com.microsoft.skype.teams.Launcher"
+            image="teams"/>
+
+        <!-- Themes -->
+     <AppIcon
+        name="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity"
+            image="themes"/>
+
+        <!-- TikTok Wall Picture -->
+     <AppIcon
+        name="com.zhiliao.musically.livewallpaper/com.ss.android.livewallpaper.MainActivity"
+            image="tiktok_wall_picture"/>
+
+        <!-- To Do -->
+     <AppIcon
+        name="com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity"
+            image="microsoft_todo"/>
+
+        <!-- Truecaller -->
+     <AppIcon
+        name="com.truecaller/com.truecaller.ui.TruecallerInit"
+            image="truecaller"/>
+
+        <!-- Twitch -->
+     <AppIcon
+        name="tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity"
+            image="twitch"/>
+
+        <!-- Unicorn -->
+     <AppIcon
+        name="unicorn.icons.theme.ddt/unicorn.icons.theme.ddt.activities.SplashActivity"
+            image="unicorn"/>
+
+        <!-- Verticons -->
+     <AppIcon
+        name="com.spaceman.verticonsfree/com.spaceman.verticonsfree.activities.SplashActivity"
+            image="verticons"/>
+
+        <!-- Viral -->
+     <AppIcon
+        name="vintage.icon.pack.ddt/vintage.icon.pack.ddt.activities.SplashActivity"
+            image="viral"/>
+
+        <!-- Wallpapers -->
+     <AppIcon
+        name="com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity"
+            image="wallpapers"/>
+
+        <!-- Wix -->
+     <AppIcon
+        name="com.wix.android/com.wix.MainActivity"
+            image="wix"/>
+
+        <!-- Word -->
+     <AppIcon
+        name="com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity"
+            image="word"/>
+
+        <!-- Xender -->
+     <AppIcon
+        name="cn.xender/cn.xender.ui.activity.SplashActivity"
+            image="xender"/>
+
+        <!-- Yatra -->
+     <AppIcon
+        name="com.yatra.base/com.yatra.base.activity.SplashScreenActivity"
+            image="yatra"/>
+
+        <!-- Zili -->
+     <AppIcon
+        name="com.funnypuri.client/com.mi.globalTrendNews.homepage.SplashActivity"
+            image="zili"/>
+
+        <!-- Zomato -->
+     <AppIcon
+        name="com.application.zomato/com.application.zomato.activities.Splash"
+            image="zomato"/>
+
+        <!-- Zooper Widget Pro -->
+     <AppIcon
+        name="org.zooper.zwpro/org.zooper.zwlib.Launcher"
+            image="zooper_widget_pro"/>
+        <!-- Amazon_Music -->
+     <AppIcon
+        name="com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity"
+            image="amazon_music" />
+     <AppIcon
+        name="com.amazon.kindle/com.amazon.kindle.UpgradePage"
+            image="kindle" />
+     <AppIcon
+        name="com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity"
+            image="prime_video" />
+        <!-- Amazon Drive -->
+     <AppIcon
+        name="com.amazon.drive/com.amazon.drive.activity.MainActivity"
+            image="amazon_drive" />
+        <!-- Alexa Beta -->
+     <AppIcon
+        name="com.amazon.dee.app/com.amazon.dee.app.Launcher"
+            image="alexa" />
+
+     <AppIcon
+        name="com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen"
+            image="amazon_firetv" />
+    <!-- AccuBattery -->
+    <AppIcon
+        name="com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity"
+        image="accubattery"/>
+
+    <!-- Asana Rebel -->
+    <AppIcon
+        name="com.asanayoga.asanarebel/com.asanayoga.asanarebel.splashscreen.SplashScreenActivity"
+        image="asana_rebel"/>
+
+    <!-- BYJU S The Learning App -->
+    <AppIcon
+        name="com.byjus.thelearningapp/com.byjus.app.onboarding.activity.SplashActivity"
+        image="byju"/>
+
+    <!-- Dhani -->
+    <AppIcon
+        name="com.indiaBulls/com.indiaBulls.ui.activity.LauncherActivity"
+        image="dhani"/>
+
+    <!-- Discovery Plus -->
+    <AppIcon
+        name="com.discoveryplus.mobile.android/com.discoveryplus.android.mobile.DPlusMainActivity"
+        image="discovery_plus"/>
+
+    <!-- Hago -->
+    <AppIcon
+        name="com.yy.hiyo/com.yy.hiyo.MainActivity"
+        image="hago"/>
+
+    <!-- Imo -->
+    <AppIcon
+        name="com.imo.android.imoim/com.imo.android.imoim.activities.Home"
+        image="imo"/>
+
+    <!-- Kustom Widget -->
+    <AppIcon
+        name="org.kustom.widget/org.kustom.widget.picker.WidgetPicker"
+        image="kustom_widget"/>
+
+    <!-- Ola Lite -->
+    <AppIcon
+        name="com.olacabs.lite/com.olacabs.lite.SplashActivity"
+        image="ola"/>
+
+    <!-- Ola -->
+    <AppIcon
+        name="com.olacabs.customer/com.olacabs.customer.ui.SplashActivity"
+        image="ola"/>
+
+    <!-- Public -->
+    <AppIcon
+        name="com.cardfeed.video_public/com.cardfeed.video_public.ui.activity.SplashActivity"
+        image="public_inshorts"/>
+
+    <!-- SHAREit -->
+    <AppIcon
+        name="com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity"
+        image="shareit"/>
+
+    <!-- StarMaker -->
+    <AppIcon
+        name="com.starmakerinteractive.starmaker/com.ushowmedia.starmaker.activity.SplashActivity"
+        image="starmaker"/>
+
+    <!-- UVideo -->
+    <AppIcon
+        name="com.kwai.global.video.social.kwaigo/com.kscorp.kwik.transfer.splash.SplashActivity"
+        image="uvideo"/>
+
+    <!-- Unacademy -->
+    <AppIcon
+        name="com.unacademyapp/com.unacademy.consumption.unacademyapp.SplashActivity"
+        image="unacademy"/>
+
+    <!-- VFly -->
+    <AppIcon
+        name="com.ai.bfly/com.ai.fly.StartActivity"
+        image="vfly"/>
+
+    <!-- VMate -->
+    <AppIcon
+        name="com.uc.vmate/com.uc.vmate.ui.MainActivity"
+        image="vmate"/>
+
+    <!-- Vedantu -->
+    <AppIcon
+        name="com.vedantu.app/com.vedantu.app.MainActivity"
+        image="vedantu"/>
+
+    <!-- Wynk Music -->
+    <AppIcon
+        name="com.bsbportal.music/com.bsbportal.music.v2.features.main.ui.HomeActivity"
+        image="wynk"/>
+
+    <!-- ZEE5 -->
+    <AppIcon
+        name="com.graymatrix.did/com.graymatrix.did.splash.SplashActivity"
+        image="zee5"/>
+    <!-- UC Mini -->
+    <AppIcon
+        name="com.uc.browser.en/com.UCMobile.main.UCMobile"
+        image="uc_mini"/>
+
+    <!-- KineMaster -->
+    <AppIcon
+        name="com.nexstreaming.app.kinemasterfree/com.nextreaming.nexeditorui.MainActivity"
+        image="kinemaster"/>
+
+    <!-- Helo -->
+    <AppIcon
+        name="app.buzz.share/com.ss.android.buzz.BuzzMainActivity"
+        image="helo"/>
+
+    <!-- Gaana -->
+    <AppIcon
+        name="com.gaana/com.gaana.SplashScreenActivity"
+        image="gaana"/>
+
+
+
+
+
+
+    <Appicon
+        name="com.oppo.market/com.oppo.market.activity.MainActivity"
+       image="getapps"/>
+    <Appicon
+        name="com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity"
+       image="files_go" />
+    <Appicon
+        name="com.ubercab/com.ubercab.UBUberActivity"
+       image="uber" />
+    <Appicon
+        name="com.ubercab/com.ubercab.presidio.app.core.root.RootActivity"
+       image="uber" />
+    <Appicon
+        name="com.vsco.cam/com.vsco.cam.SplashActivity"
+       image="vsco" />
+    <Appicon
+        name="com.vsco.cam/com.vsco.cam.gallery.ImageGridActivity"
+       image="vsco" />
+    <Appicon
+        name="com.vsco.cam/com.vsco.cam.navigation.LithiumActivity"
+       image="vsco" />
+    <Appicon
+        name="com.vsco.cam/com.vsco.cam.navigation.NavigationBaseActivity"
+       image="vsco" />
+    <Appicon
+        name="org.kustom.widget.pro/a.y.z.HZ"
+       image="kwgt" />
+    <Appicon
+        name="org.kustom.widget.pro/org.kustom.pro.MainActivity"
+       image="kwgt" />
+    <Appicon
+        name="org.kustom.widget/org.kustom.widget.picker.WidgetPicker"
+       image="kwgt" />
+    <Appicon
+        name="org.kustom.wallpaper.pro/org.kustom.pro.MainActivity"
+       image="klwp" />
+    <!-- Nova Launcher -->
+    <Appicon
+        name="com.teslacoilsw.launcher/com.android.launcher2.Launcher"
+       image="nova_launcher" />
+    <Appicon
+        name="com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler"
+       image="nova_launcher" />
+    <Appicon
+        name="com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity"
+       image="nova_launcher" />
+    <Appicon
+        name="com.teslacoilsw.launcher/.preferences.SettingsActivity"
+       image="nova_launcher" />
+    <Appicon
+        name="com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity"
+       image="nova_launcher"/>
+    <Appicon
+        name="com.dropbox.android/com.dropbox.android.activity.DropboxBrowser"
+       image="dropbox" />
+    <Appicon
+        name="us.zoom.videomeetings/com.zipow.videobox.LauncherActivity"
+       image="zoom" />
+    <Appicon
+        name="us.zoom.videomeetings4intune/com.zipow.videobox.LauncherActivity"
+       image="zoom" />
+    <Appicon
+        name="com.nis.app/com.nis.app.ui.activities.HomeActivity"
+       image="inshorts" />
+
+    <Appicon
+        name="net.one97.paytm/net.one97.paytm.AJRJarvisSplash"
+       image="paytm" />
+    <Appicon
+        name="com.uc.browser.en/com.dzebb.handler.b"
+       image="uc_browser" />
+    <Appicon
+        name="com.uc.browser.en/com.uc.browser.ActivityBrowser"
+       image="uc_browser" />
+    <Appicon
+        name="com.uc.browser.hd/com.ucweb.activity.MainActivity"
+       image="uc_browser" />
+    <Appicon
+        name="com.uc.browser/com.UCMobile.main.UCMobile"
+       image="uc_browser" />
+    <Appicon
+        name="com.gaana/com.gaana.SplashScreenActivity-MMX"
+       image="gaana" />
+    <Appicon
+        name="com.gaana/com.gaana.SplashScreenActivity-Original"
+       image="gaana" />
+    <Appicon
+        name="com.picsart.studio.light/com.socialin.android.photo.picsinphoto.MainPagerActivity"
+       image="pics__art" />
+    <Appicon
+        name="com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity"
+       image="pics__art" />
+    <Appicon
+        name="com.picsart.studio/com.socialin.android.photo.picsinphoto.StartActivity"
+       image="pics__art" />
+    <Appicon
+        name="com.bsbportal.music/com.bsbportal.music.activities.LauncherScreenActivity"
+       image="wynk" />
+    <Appicon
+        name="com.google.android.apps.nameroom/com.google.android.apps.nameroom.application.LauncherActivity"
+       image="google_classroom" />
+
+
+
+
 </Theme>

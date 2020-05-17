@@ -4,6 +4,79 @@
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
         <item>whatsapp</item>
+        <item>excel</item>
+        <item>word</item>
+        <item>powerpoint</item>
+        <item>onenote</item>
+        <item>outlook</item>
+        <item>teams</item>
+        <item>onedrive</item>
+        <item>kaizala</item>
+        <item>edge</item>
+        <item>bing</item>
+        <item>microsoft_authenticator</item>
+        <item>microsoft_todo</item>
+        <item>microsoft_news</item>
+        <item>office</item>
+        <item>planner</item>
+        <item>youphone</item>
+        <item>office_lens</item>
+        <item>skype_for_business</item>
+        <item>skype</item>
+        <item>skype_lite</item>
+        <item>sms_organizer</item>
+        <item>aarogya_setu</item>
+        <item>amazon_shopping</item>
+        <item>amazon_music</item>
+        <item>prime_video</item>
+        <item>amazon_photos</item>
+        <item>amazon_firetv</item>
+        <item>amazon_drive</item>
+        <item>alexa</item>
+        <item>kindle</item>
+        <item>photoshop_express</item>
+        <item>lightroom</item>
+        <item>adobe_rush</item>
+        <item>adobe_xd</item>
+        <item>adobe_capture</item>
+        <item>adobe_scan</item>
+        <item>adobe_draw</item>
+        <item>spark_post</item>
+        <item>adobe_photoshop_mix</item>
+        <item>adobe_fill_sign</item>
+        <item>adobe_photoshop_fix</item>
+        <item>adobe_photoshop_sketch</item>
+        <item>adobe_acrobat</item>
+        <item>creative_cloud</item>
+        <item>pubg_mobile</item>
+        <item>zomato</item>
+        <item>zili</item>
+        <item>yatra</item>
+        <item>xender</item>
+        <item>wix</item>
+        <item>wallpaper</item>
+        <item>twitch</item>
+        <item>truecaller</item>
+        <item>spotify</item>
+        <item>snapchat</item>
+        <item>sim-toolkit</item>
+        <item>shareme</item>
+        <item>services_feedback</item>
+        <item>security</item>
+        <item>google_opinion_rewards</item>
+        <item>retrica</item>
+        <item>reddit</item>
+        <item>rapido</item>
+        <item>phonepe</item>
+        <item>quora</item>
+        <item>phonepe_buisness</item>
+        <item>oyo</item>
+        <item>solid_explorer</item>
+        <item>opera_mini</item>
+        <item>opera</item>
+        <item>olx_india</item>
+        <item>zooper_pro</item>
+        <item>zooper_free</item>
         <item>messaging</item>
         <item>phone</item>
         <item>camera</item>
@@ -27,9 +100,77 @@
         <item>play_books</item>
         <item>news</item>
         <item>photos</item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>screen_recorder</item>
+        <item>scanner</item>
+        <item>recorder</item>
+        <item>notes</item>
+        <item>files</item>
+        <item>downloads</item>
+        <item>clock</item>
+        <item>calculator</item>
+        <item>play_console</item>
+        <item>mx_player_pro</item>
+        <item>youtube</item>
+        <item>youtube_music</item>
+        <item>youtube_studio</item>
+        <item>twitter</item>
+        <item>twitter_lite</item>
+        <item>tiktok</item>
+        <item>tiktok_lite</item>
+        <item>telegram</item>
+        <item>telegram_x</item>
+        <item>google</item>
+        <item>gmail</item>
+        <item>maps</item>
+        <item>drive</item>
+        <item>duo</item>
+        <item>allo</item>
+        <item>meet</item>
+        <item>snapseed</item>
+        <item>google_sheets</item>
+        <item>google_slides</item>
+        <item>google_docs</item>
+        <item>google_pdf</item>
+        <item>translate</item>
+        <item>gpay</item>
+        <item>gpay_buisness</item>
+        <item>youtube_kids</item>
+        <item>assistant</item>
+
+        <item>uber</item>
+        <item>ola</item>
+        <item>vsco</item>
+        <item>kwgt</item>
+        <item>kustom_widget</item>
+        <item>klwp</item>
+        <item>nova_launcher</item>
+        <item>discovery_plus</item>
+        <item>asana_rebel</item>
+        <item>dropbox</item>
+        <item>zoom</item>
+        <item>uvideo</item>
+        <item>helo</item>
+        <item>vmate</item>
+        <item>inshorts</item>
+        <item>public_inshorts</item>
+        <item>shareit</item>
+        <item>paytm</item>
+        <item>kinemaster</item>
+        <item>uc_browser</item>
+        <item>uc_mini</item>
+        <item>hago</item>
+        <item>gaana</item>
+        <item>picsart</item>
+        <item>vfly</item>
+        <item>zee5</item>
+        <item>wynk</item>
+        <item>starmaker</item>
+        <item>unacademy</item>
+        <item>imo</item>
+        <item>byju</item>
+        <item>dhani</item>
+        <item>vedantu</item>
+
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -47,34 +188,177 @@
     </string-array>
 
     <string-array name="New">
-        <item>whatsapp</item>
-        <item>messaging</item>
-        <item>messaging_yellow</item>
-        <item>music</item>
-        <item>browser</item>
-        <item>chrome</item>
-        <item>contacts</item>
-        <item>instagram</item>
-        <item>instagram_pink</item>
-        <item>gallery</item>
-        <item>calendar_16</item>
-        <item>messaging_alt</item>
-        <item>playstore</item>
-        <item>playgames</item>
-        <item>play_music</item>
-        <item>play_movies</item>
-        <item>play_books</item>
-        <item>news</item>
-        <item>photos</item>
-        <item>setting</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+
+
+        <item>uber</item>
+        <item>ola</item>
+        <item>vsco</item>
+        <item>kwgt</item>
+        <item>kustom_widget</item>
+        <item>klwp</item>
+        <item>nova_launcher</item>
+        <item>discovery_plus</item>
+        <item>asana_rebel</item>
+        <item>dropbox</item>
+        <item>zoom</item>
+        <item>uvideo</item>
+        <item>helo</item>
+        <item>vmate</item>
+        <item>inshorts</item>
+        <item>public_inshorts</item>
+        <item>shareit</item>
+        <item>paytm</item>
+        <item>kinemaster</item>
+        <item>uc_browser</item>
+        <item>uc_mini</item>
+        <item>hago</item>
+        <item>gaana</item>
+        <item>picsart</item>
+        <item>vfly</item>
+        <item>zee5</item>
+        <item>wynk</item>
+        <item>starmaker</item>
+        <item>unacademy</item>
+        <item>imo</item>
+        <item>byju</item>
+        <item>dhani</item>
+        <item>vedantu</item>
+        <item>bookmyshow</item>
+        <item>bhim</item>
+        <item>b612</item>
+        <item>flipkart</item>
+        <item>themes</item>
+        <item>steam</item>
+        <item>discord</item>
+        <item>behance</item>
+        <item>internet_speed_meter_lite</item>
+        <item>utorrent</item>
+        <item>tiktok_lite</item>
+        <item>tiktok</item>
+        <item>amazon_firetv</item>
+        <item>amazon_drive</item>
+        <item>alexa</item>
+        <item>kindle</item>
+        <item>photoshop_express</item>
+        <item>lightroom</item>
+        <item>adobe_rush</item>
+        <item>adobe_xd</item>
+        <item>adobe_capture</item>
+        <item>adobe_scan</item>
+        <item>adobe_draw</item>
+        <item>spark_post</item>
+        <item>adobe_photoshop_mix</item>
+        <item>adobe_fill_sign</item>
+        <item>adobe_photoshop_fix</item>
+        <item>adobe_photoshop_sketch</item>
+        <item>adobe_acrobat</item>
+        <item>creative_cloud</item>
+        <item>pubg_mobile</item>
+        <item>zomato</item>
+        <item>zili</item>
+        <item>yatra</item>
+        <item>xender</item>
+        <item>wix</item>
+        <item>wallpapers</item>
+        <item>twitch</item>
+        <item>truecaller</item>
+        <item>spotify</item>
+        <item>snapchat</item>
+        <item>sim-toolkit</item>
+        <item>shareme</item>
+        <item>services_feedback</item>
+        <item>security</item>
+        <item>google_opinion_rewards</item>
+        <item>retrica</item>
+        <item>reddit</item>
+        <item>rapido</item>
+        <item>phonepe</item>
+        <item>coc</item>
+        <item>phonepe_buisness</item>
+        <item>oyo</item>
+        <item>solid_explorer</item>
+        <item>opera_mini</item>
+        <item>opera</item>
+        <item>olx_india</item>
+        <item>zooper_pro</item>
+        <item>zooper_free</item>
     </string-array>
 
     <string-array name="all">
+        <item>excel</item>
+        <item>word</item>
+        <item>mx_player_pro</item>
+        <item>powerpoint</item>
+        <item>onenote</item>
+        <item>outlook</item>
+        <item>teams</item>
+        <item>onedrive</item>
+        <item>kaizala</item>
+        <item>edge</item>
+        <item>bing</item>
+        <item>microsoft_authenticator</item>
+        <item>microsoft_todo</item>
+        <item>microsoft_news</item>
+        <item>office</item>
+        <item>planner</item>
+        <item>youphone</item>
+        <item>office_lens</item>
+        <item>skype_for_buisness</item>
+        <item>skype</item>
+        <item>skype_lite</item>
+        <item>sms_organizer</item>
+        <item>aarogya_setu</item>
+        <item>amazon_shopping</item>
+        <item>amazon_music</item>
+        <item>prime_video</item>
+        <item>amazon_photos</item>
+        <item>amazon_firetv</item>
+        <item>amazon_drive</item>
+        <item>alexa</item>
+        <item>kindle</item>
+        <item>photoshop_express</item>
+        <item>lightroom</item>
+        <item>adobe_rush</item>
+        <item>adobe_xd</item>
+        <item>adobe_capture</item>
+        <item>adobe_scan</item>
+        <item>adobe_draw</item>
+        <item>spark_post</item>
+        <item>adobe_photoshop_mix</item>
+        <item>adobe_fill_sign</item>
+        <item>adobe_photoshop_fix</item>
+        <item>adobe_photoshop_sketch</item>
+        <item>adobe_acrobat</item>
+        <item>creative_cloud</item>
+        <item>pubg_mobile</item>
+        <item>zomato</item>
+        <item>zili</item>
+        <item>yatra</item>
+        <item>xender</item>
+        <item>wix</item>
+        <item>wallpapers</item>
+        <item>twitch</item>
+        <item>truecaller</item>
+        <item>spotify</item>
+        <item>snapchat</item>
+        <item>sim-toolkit</item>
+        <item>shareme</item>
+        <item>services_feedback</item>
+        <item>security</item>
+        <item>google_opinion_rewards</item>
+        <item>retrica</item>
+        <item>reddit</item>
+        <item>rapido</item>
+        <item>phonepe</item>
+        <item>quora</item>
+        <item>phonepe_buisness</item>
+        <item>oyo</item>
+        <item>solid_explorer</item>
+        <item>opera_mini</item>
+        <item>opera</item>
+        <item>olx_india</item>
+        <item>zooper_pro</item>
+        <item>zooper_free</item>
         <item>whatsapp</item>
         <item>messaging</item>
         <item>messaging_yellow</item>
@@ -98,8 +382,151 @@
         <item>play_books</item>
         <item>news</item>
         <item>photos</item>
-        <item></item>
-        <item></item>
+        <item>screen_recorder</item>
+        <item>scanner</item>
+        <item>recorder</item>
+        <item>notes</item>
+        <item>files</item>
+        <item>downloads</item>
+        <item>clock</item>
+        <item>calculator</item>
+        <item>play_console</item>
+        <item>youtube</item>
+        <item>youtube_music</item>
+        <item>youtube_studio</item>
+        <item>twitter</item>
+        <item>twitter_lite</item>
+        <item>tiktok</item>
+        <item>tiktok_lite</item>
+        <item>telegram</item>
+        <item>telegram_x</item>
+        <item>google</item>
+        <item>gmail</item>
+        <item>maps</item>
+        <item>drive</item>
+        <item>duo</item>
+        <item>allo</item>
+        <item>meet</item>
+        <item>snapseed</item>
+        <item>google_sheets</item>
+        <item>google_slides</item>
+        <item>google_docs</item>
+        <item>google_pdf</item>
+        <item>translate</item>
+        <item>gpay</item>
+        <item>gpay_buisness</item>
+        <item>youtube_kids</item>
+        <item>assistant</item>
+
+        <item>microsoft_launcher</item>
+        <item>netmeds</item>
+        <item>myjio</item>
+        <item>mx_player</item>
+        <item>mx_player_pro</item>
+        <item>mi_video</item>
+        <item>videos</item>
+        <item>videos_alt</item>
+        <item>mi_store</item>
+        <item>mi_fit</item>
+        <item>mi_pay</item>
+        <item>mi_credit</item>
+        <item>mi_community</item>
+        <item>messenger</item>
+        <item>messenger_lite</item>
+        <item>makemytrip</item>
+        <item>linkedin</item>
+        <item>likee</item>
+        <item>lens</item>
+        <item>lawnchair</item>
+        <item>lawnchair_settings</item>
+        <item>keep_notes</item>
+        <item>jiosaavn</item>
+        <item>hyperlapse_mobile</item>
+        <item>huk_kwgt</item>
+        <item>google_ads</item>
+        <item>gfx_tool</item>
+        <item>getapps</item>
+        <item>gearbest</item>
+        <item>fm</item>
+        <item>fm_radio</item>
+        <item>flipboard</item>
+        <item>digilocker</item>
+        <item>compass</item>
+        <item>canva</item>
+        <item>camscanner</item>
+        <item>bookmyshow</item>
+        <item>bhim</item>
+        <item>b612</item>
+        <item>flipkart</item>
+        <item>themes</item>
+        <item>steam</item>
+        <item>discord</item>
+        <item>behance</item>
+        <item>internet_speed_meter_lite</item>
+        <item>utorrent</item>
+        <item>tiktok_lite</item>
+        <item>tiktok</item>
+
+        <item>pubg_yellow</item>
+        <item>pubg_white</item>
+        <item>pubg_alternative</item>
+
+
+        <item>files_go</item>
+        <item>google_classroom</item>
+
+
+        <item>facebook_2</item>
+        <item>facebook_lite_2</item>
+        <item>messaging_2</item>
+        <item>telegram_x_2</item>
+        <item>telegram_2</item>
+        <item>whatsapp_2</item>
+        <item>music_2</item>
+        <item>photos_2</item>
+        <item>calendar_31_alt</item>
+
+
+        <item>uber</item>
+        <item>ola</item>
+        <item>vsco</item>
+        <item>kwgt</item>
+        <item>kustom_widget</item>
+        <item>klwp</item>
+        <item>nova_launcher</item>
+        <item>discovery_plus</item>
+        <item>asana_rebel</item>
+        <item>dropbox</item>
+        <item>zoom</item>
+        <item>uvideo</item>
+        <item>helo</item>
+        <item>vmate</item>
+        <item>inshorts</item>
+        <item>public_inshorts</item>
+        <item>shareit</item>
+        <item>paytm</item>
+        <item>kinemaster</item>
+        <item>uc_browser</item>
+        <item>uc_mini</item>
+        <item>hago</item>
+        <item>gaana</item>
+        <item>picsart</item>
+        <item>vfly</item>
+        <item>zee5</item>
+        <item>wynk</item>
+        <item>starmaker</item>
+        <item>unacademy</item>
+        <item>imo</item>
+        <item>byju</item>
+        <item>dhani</item>
+        <item>vedantu</item>
+
+
+
+
+
+
+        <item>coc</item>
         <item></item>
         <item></item>
         <item></item>
@@ -141,10 +568,31 @@
         <item>gallery</item>
         <item>weather</item>
         <item>messaging_alt</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>screen_recorder</item>
+        <item>scanner</item>
+        <item>recorder</item>
+        <item>notes</item>
+        <item>files</item>
+        <item>downloads</item>
+        <item>clock</item>
+        <item>calculator</item>
+        <item>sim_toolkit</item>
+        <item>shareme</item>
+        <item>services_feedback</item>
+        <item>security</item>
+        <item>themes</item>
+        <item>fm</item>
+        <item>fm_radio</item>
+        <item>mi_video</item>
+        <item>videos</item>
+        <item>videos_alt</item>
+        <item>mi_store</item>
+        <item>mi_fit</item>
+        <item>mi_pay</item>
+        <item>mi_credit</item>
+        <item>mi_community</item>
+        <item>getapps</item>
+        <item>compass</item>
         <item></item>
         <item></item>
         <item></item>
@@ -160,6 +608,8 @@
 
     <string-array name="google_apps">
         <item>google_camera</item>
+        <item>files_go</item>
+        <item>google_classroom</item>
         <item>chrome</item>
         <item>playstore</item>
         <item>playgames</item>
@@ -168,11 +618,31 @@
         <item>play_books</item>
         <item>news</item>
         <item>photos</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>play_console</item>
+        <item>google</item>
+        <item>gmail</item>
+        <item>maps</item>
+        <item>drive</item>
+        <item>duo</item>
+        <item>allo</item>
+        <item>meet</item>
+        <item>snapseed</item>
+        <item>google_sheets</item>
+        <item>google_slides</item>
+        <item>google_docs</item>
+        <item>google_pdf</item>
+        <item>translate</item>
+        <item>gpay</item>
+        <item>gpay_buisness</item>
+        <item>youtube_kids</item>
+        <item>assistant</item>
+        <item>youtube</item>
+        <item>youtube_music</item>
+        <item>youtube_studio</item>
+        <item>wallpapers</item>
+        <item>google_opinion_rewards</item>
+        <item>keep_notes</item>
+        <item>lens</item>
         <item></item>
         <item></item>
         <item></item>
@@ -185,8 +655,12 @@
     </string-array>
 
     <string-array name="games">
-        <item></item>
-        <item></item>
+        <item>pubg_mobile</item>
+        <item>pubg_yellow</item>
+        <item>pubg_white</item>
+        <item>pubg_alternative</item>
+
+        <item>coc</item>
         <item></item>
         <item></item>
     </string-array>
@@ -195,6 +669,16 @@
         <item>messaging</item>
         <item>messaging_yellow</item>
         <item>messaging_alt</item>
+        <item>facebook_2</item>
+        <item>facebook_lite_2</item>
+        <item>messaging_2</item>
+        <item>telegram_x_2</item>
+        <item>telegram_2</item>
+        <item>whatsapp_2</item>
+        <item>music_2</item>
+        <item>photos_2</item>
+        <item>calendar_31_alt</item>
+
         <item></item>
         <item></item>
         <item></item>

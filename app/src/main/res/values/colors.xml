@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Light Theme Colors -->
-    <color name="primary">#9c27b0</color>
-    <color name="primaryDark">#6a0080</color>
+    <color name="primary">#EDE7F6</color>
+    <color name="primaryDark">#9575CD</color>
     <color name="onPrimary">#de000000</color>
 
     <color name="accent">#9c27b0</color>

@@ -31,19 +31,22 @@
 
     <!-- These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
-        <item>Visit Website</item>
+        <item>Webiste</item>
         <item>Raphael Icon Pack</item>
+
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>See all of my works and support me.</item>
+        <item>Visit and See all of My Work</item>
         <item>Another Beautiful Icon Pack With Fresh Handmade Icons</item>
+
     </string-array>
     <string-array name="home_list_icons">
         <item>website</item>
         <item>ic_na_launcher</item>
+
     </string-array>
     <string-array name="home_list_links">
-        <item>https://www.srvraj311.com/</item>
+        <item>https://www.srvraj311.com</item>
         <item>https://play.google.com/store/apps/details?id=com.srv.raphael</item>
     </string-array>
 </resources>

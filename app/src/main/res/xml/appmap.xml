@@ -1,9 +1,2973 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <appmap>
+    <item class="com.android.contacts.DialtactsContactsEntryActivity" name="people" />
 
-    <!-- Contacts App -->
     <item
-        class="com.android.contacts.DialtactsContactsEntryActivity"
+        class="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
         name="people" />
+
+    <item
+        class="/com.android.contacts.DialtactsContactsEntryActivity"
+        name="people" />
+
+    <item
+        class="com.android.contacts/"
+        name="people" />
+
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
+        name="" />
+
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
+        name="something" />
+
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
+        name="icon" />
+
+    <item
+        class="/com.android.contacts.DialtactsContactsEntryActivity"
+        name="phone" />
+
+    <item
+        class="com.android.contacts/"
+        name="contacts" />
+
+    <item
+        class=""
+        name="cell" />
+
+    <item
+        class="/"
+        name="an_icon" />
+
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
+        name="" />
+
+    <!-- Dynamic Calendar -->
+    <calendar class="com.google.android.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+    <calendar class="com.underwood.calendar_beta/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+    <calendar class="cn.nubia.calendar.preset/cn.nubia.calendar.CTAStartActivity" prefix="calendar_" />
+    <calendar class="com.android.calendar/com.android.calendar.AgendaActivity" prefix="calendar_" />
+    <calendar class="com.android.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+    <calendar class="com.android.calendar/com.android.calendar.CalendarTabActivity" prefix="calendar_" />
+    <calendar class="com.android.calendar/com.android.calendar.ChooserActivity" prefix="calendar_"/>
+    <calendar class="com.android.calendar/com.android.calendar.EditEventActivity" prefix="calendar_"/>
+    <calendar class="com.android.calendar/com.android.calendar.EventInfoActivity" prefix="calendar_"/>
+    <calendar class="com.android.calendar/com.android.calendar.homepage.AllInOneActivity" prefix="calendar_" />
+    <calendar class="com.android.calendar/com.android.calendar.LaunchActivity" prefix="calendar_" />
+    <calendar class="com.android.calendar/com.android.calendar.MonthActivity" prefix="calendar_" />
+    <calendar class="com.android.calendar/com.android.calendar.timeline.EventListWithStartTime" prefix="calendar_"/>
+    <calendar class="com.asus.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+    <calendar class="com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity" prefix="calendar_" />
+    <calendar class="com.boxer.calendar/com.android.calendar.AllInOneActivity" prefix="today_calendar_" />
+    <calendar class="com.codesector.calendar/com.codesector.calendar.CalendarActivity" prefix="calendar_" />
+    <calendar class="com.google.android.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+    <calendar class="com.google.android.calendar/com.android.calendar.HtcCalendarProvider" prefix="calendar_"/>
+    <calendar class="com.google.android.calendar/com.android.calendar.LaunchActivity" prefix="calendar_"/>
+    <calendar class="com.htc.calendar/com.htc.calendar.CalendarCarouselActivity" prefix="calendar_" />
+    <calendar class="com.htc.calendar/com.htc.calendar.LaunchActivity" prefix="calendar_"/>
+    <calendar class="com.htc.calendar/com.htc.calendar.MonthActivity" prefix="calendar_"/>
+    <calendar class="com.kfactormedia.mycalendarmobile/com.kfactormedia.mycalendarmobile.MyCalendarActivity" prefix="calendar_" />
+    <calendar class="com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew" prefix="calendar_" />
+    <calendar class="com.lenovo.calendar/com.lenovo.calendar.AllInOneActivity" prefix="calendar_" />
+    <calendar class="com.motorola.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+    <calendar class="com.motorola.calendar/com.motorola.calendar.LaunchActivity" prefix="calendar_" />
+    <calendar class="com.popularapp.periodcalendar/com.popularapp.periodcalendar.AdActivity" prefix="calendar_" />
+    <calendar class="com.samsung.android.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+    <calendar class="com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher" prefix="calendar_" />
+    <calendar class="com.sony.nfx.app.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+    <calendar class="com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity" prefix="calendar_" />
+    <calendar class="com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity" prefix="calendar_" />
+    <calendar class="com.underwood.calendar/com.android.calendar.AllInOneActivity" prefix="today_calendar_"/>
+    <calendar class="com.underwood.calendar/com.underwood.calendar.MainActivity" prefix="today_calendar_"/>
+    <calendar class="com.underwood.calendar_beta/com.android.calendar.AllInOneActivity" prefix="today_calendar_" />
+    <calendar class="org.withouthat.acalendarplus/org.withouthat.acalendarplus.ACalendarPlus" prefix="calendar_" />
+    <calendar class="ree.calendar.schedule.reminder.todo.agenda.note.reminder.alarm/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+    <calendar class="ws.xsoh.etar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+    <!-- Calendar -->
+    <item class="com.android.calendar/com.android.calendar.AgendaActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.AllInOneActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.CalendarTabActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.ChooserActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.EditEventActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.EventInfoActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.JumpActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.LaunchActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.LaunchTasksActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.MonthActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.homepage.AllInOneActivity" name="calendar" />
+    <item class="com.android.calendar/com.android.calendar.timeline.EventListWithStartTime" name="calendar" />
+    <item class="com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity" name="calendar" />
+    <item
+        class=":CALENDAR"
+        name="calendar_30" />
+    <item
+        class="com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity"
+        name="calendar_31" />
+
+
+    <!-- Phone -->
+    <item
+        class="com.lenovo.ideafriend/com.lenovo.ideafriend.alias.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.incallui/com.android.incallui.DialerLauncher"
+        name="phone" />
+    <item
+        class="com.samsung.android.contacts/com.android.dialer.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.dialer/com.android.dialer.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsCallLogActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.activities.CallLogActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.CallLogActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsRecentCallsListActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.CallDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.RecentCallsLauncherActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.oppo.contacts.OppoDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.activities.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.activities.TwelveKeyDialer"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.activities.PCUDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.CallLogShortcut"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.PhoneContactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.PhoneDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.SmartDialerActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsDialerEntryActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.CallLog"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.dialer.DialerPhoneActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialerActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.TwelveKeyDialer"
+        name="phone" />
+    <item
+        class="com.motorola.blur/com.motorola.blur.ViewIdentitiesFacetActivity"
+        name="phone" />
+    <item
+        class="com.android.htccontacts/com.android.htccontacts.ContactsTabActivity"
+        name="phone" />
+    <item
+        class="com.android.htccontacts/com.android.htccontacts.ContactsSearch"
+        name="phone" />
+    <item
+        class="com.android.htcdialer/com.android.htcdialer.Dialer"
+        name="phone" />
+    <item
+        class="com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity"
+        name="phone" />
+    <item
+        class="com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity"
+        name="phone" />
+    <item
+        class="com.android.phone/com.android.phone.DialtactsContactsEntryActivity"
+        name="phone" />
+    <item
+        class="com.android.phone/com.android.phone.RecentCallsListActivity"
+        name="phone" />
+    <item
+        class="com.android.phone/com.android.phone.firewall.PhoneFireWall"
+        name="phone" />
+    <item
+        class="com.android.phone/com.android.phone.LaunchCallInterface"
+        name="phone" />
+    <item
+        class="com.android.phone/com.android.phone.Settings"
+        name="phone" />
+    <item
+        class="com.android.phone/com.android.phone.LaunchRecentCallsActivity"
+        name="phone" />
+    <item
+        class="com.android.phone/com.android.phone.DialtactsCallLogActivity"
+        name="phone" />
+    <item
+        class="com.android.phone/com.android.phone.DialerSClass"
+        name="phone" />
+    <item
+        class="com.android.phone/com.android.phone.TwDialer"
+        name="phone" />
+    <item
+        class="com.android.htccontacts/com.android.htccontacts.DialerTabActivity"
+        name="phone" />
+    <item
+        class="com.android.dialer/com.android.dialer.ContactsLauncherActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity"
+        name="phone" />
+    <item
+        class="com.asus.contacts/com.android.contacts.activities.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.htc.contacts/com.htc.contacts.DialerTabActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.dialer.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.dialer/com.android.dialer.calllog.CallLogActivity"
+        name="phone" />
+    <item
+        class="com.android.dialer/com.android.dialer.HQDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.oneplus.contacts.activities.OPDialtactsActivity"
+        name="phone" />
+    <item
+        class="com.android.phone/com.android.phone.lct.HtcCallForwardSettings"
+        name="phone" />
+    <item
+        class="com.android.voicedialer/com.android.voicedialer.VoiceDialerActivity"
+        name="phone" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsActivityAlias"
+        name="phone" />
+    <item
+        class="com.android.dialer/com.android.dialer.app.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity"
+        name="phone" />
+    <item
+        class="com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity"
+        name="phone" />
+    <item
+        component=":PHONE"
+        name="phone" />
+    <item
+        class="com.android.dialer/com.android.dialer.main.impl.MainActivity"
+        name="phone" />
+
+
+    <!--FM-->
+    <item
+        class="com.wingtech.fmradio/com.wingtech.fmradio.FMRadio"
+        name="fm" />
+    <item
+        class="com.quicinc.fmradio/com.quicinc.fmradio.FMRadio"
+        name="fm" />
+    <item
+        class="com.jrdcom.fmradio/com.jrdcom.fmradio.ui.FMActivity"
+        name="fm" />
+    <item
+        class="com.wind.fmradio/com.android.fmradio.FmMainActivity"
+        name="fm" />
+    <item
+        class="com.mediatek.fmradio/com.broadcom.bt.app.fm.rx.fmradio"
+        name="fm" />
+    <item
+        class="com.lge.fmradio/com.lge.fmradio.FmRadioActivity"
+        name="fm" />
+    <item
+        class="com.lenovo.fm/com.lenovo.fm.LenovoMainActivity"
+        name="fm" />
+    <item
+        class="com.miui.fm/com.miui.fmradio.FmActivity"
+        name="fm" />
+    <item
+        class="com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity"
+        name="fm" />
+    <item
+        class="com.tct.fmradio/com.tct.fmradio.ui.FMActivity"
+        name="fm" />
+    <item
+        class="com.tct.fmradio/com.tct.fmradio.utils.BaseActivity"
+        name="fm" />
+    <item
+        class="com.mediatek.fmradio/com.mediatek.fmradio.FmRadioActivity"
+        name="fm" />
+    <item
+        class="com.thunderst.radio/com.thunderst.radio.FMRadioMainActivity"
+        name="fm" />
+    <item
+        class="com.motorola.fmplayer/com.motorola.fmplayer.FMMainActivity"
+        name="fm" />
+    <item
+        class="com.motorola.mtkfmplayer/com.motorola.mtkfmplayer.FMMainActivity"
+        name="fm" />
+    <item
+        class="com.lenovo.fm/com.lenovo.fm.RadioActivity"
+        name="fm" />
+    <item
+        class="com.sonyericsson.fmradio/com.sonyericsson.fmradio.ui.FmRadioActivity"
+        name="fm" />
+    <item
+        class="com.huawei.android.FMRadio/com.huawei.android.FMRadio.FmRadioActivity"
+        name="fm" />
+    <item
+        class="com.android.fmradio/com.android.fmradio.FmMainActivity"
+        name="fm" />
+    <item
+        class="com.htc.fm/com.htc.fm.ap.activity.FMRadioMain"
+        name="fm" />
+    <item
+        class="com.google.android.fmradio/com.google.android.fmradio.app.MainActivity"
+        name="fm" />
+    <item
+        class="com.motorola.mtkfmplayer/com.motorola.mtkfmplayer.ChangeThemeActivity"
+        name="fm" />
+    <item
+        class="com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity"
+        name="fm" />
+    <item
+        class="com.mediatek.FMRadio/com.mediatek.FMRadio.FMRadioActivity"
+        name="fm" />
+    <item
+        class="com.lge.fmradio/com.lge.fmradio.IntroActivity"
+        name="fm" />
+    <item
+        class="com.asus.fmradio/com.asus.fmradio.FMRadioUIv3"
+        name="fm" />
+    <item
+        class="com.caf.fmradio/com.caf.fmradio.FMRadio"
+        name="fm" />
+    <item
+        class="com.sec.android.app.fm/com.sec.android.app.fm.MainActivity"
+        name="fm" />
+
+
+    <item
+        component=":CALCULATOR"
+        name="calculator" />
+    <!-- MI Calculator -->
+    <item
+        class="com.miui.calculator/com.miui.calculator.cal.CalculatorActivity"
+        name="calculator" />
+    <item
+        class="com.coloros.calculator/com.android.calculator2.Calculator"
+        name="calculator" />
+    <!-- Calculator -->
+    <item
+        class="com.zui.calculator/com.zui.calculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.htc.calculator/com.htc.calculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.android.calculator2/com.android.calculator2.Calculator"
+        name="calculator" />
+    <item
+        class="com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.meizu.flyme.calculator/com.meizu.flyme.calculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.google.android.calculator/com.android.calculator2.Calculator"
+        name="calculator" />
+    <item
+        class="com.ape.calculator2/com.ape.calculator2.Calculator"
+        name="calculator" />
+    <item
+        class="com.asus.calculator/com.asus.calculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.oneplus.calculator/com.oneplus.calculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.tct.calculator/com.tct.calculator.Calculator"
+        name="calculator" />
+    <item
+        class="com.wingtech.calc/com.wingtech.calc.Calculator"
+        name="calculator" />
+    <item
+        class="com.android.bbkcalculator/com.android.bbkcalculator.Calculator"
+        name="calculator" />
+
+
+    <!-- Videos -->
+    <item
+        class="com.oppo.video/com.oppo.video.VideoListActivity"
+        name="videos" />
+    <item
+        class="com.lge.videoplayer/com.lge.videoplayer.list.VideoPlayerActivity"
+        name="videos" />
+    <item
+        class="com.lge.videoplayer/com.lge.videoplayer.VideoPlayerList"
+        name="videos" />
+    <item
+        class="com.tct.videoplayer/com.tct.videoplayer.MovieListActivity"
+        name="videos" />
+    <item
+        class="com.haolianluo.video/com.haolianluo.video.fragment.MainFragment"
+        name="videos" />
+    <item
+        class="com.zte.videoplayer/com.zte.videoplayer.VideoBrowserActivity"
+        name="videos" />
+    <item
+        class="com.mediatek.videoplayer/com.mediatek.videoplayer.MovieListActivity"
+        name="videos" />
+    <item
+        class="com.myos.videoplayer/com.myos.videoplayer.movielist.MovieListActivity"
+        name="videos" />
+    <item
+        class="com.lenovo.videoplayer/com.lenovo.videoplayer.VideoPlayerActivity"
+        name="videos" />
+    <item
+        class="com.yulong.android.videoplayer/com.android.gallery3d.app.galleryforvideo"
+        name="videos" />
+    <item
+        class="com.huawei.hwvplayer/com.huawei.hwvplayer.framework.MainActivity"
+        name="videos" />
+    <item
+        class="com.android.videoeditor/com.android.videoeditor.ProjectsActivity"
+        name="videos" />
+    <item
+        class="com.android.videoeditor/com.android.videoeditor.VideoEditorActivity"
+        name="videos" />
+    <item
+        class="com.meizu.media.video/com.meizu.media.video.VideoMainActivity"
+        name="videos" />
+    <item
+        class="com.google.android.videoeditor/com.android.videoeditor.ProjectsActivity"
+        name="videos" />
+    <item
+        class="com.myos.videoplayer/com.myos.videoplayer.MovieListActivity"
+        name="videos" />
+    <item
+        class="com.gionee.video/com.gionee.video.VideoTabMainActivity"
+        name="videos" />
+    <item
+        class="com.letv.android.videoplayer/com.android.videoplayer.PlayerPermissionActivity"
+        name="videos" />
+    <item
+        class="com.huawei.hwvplayer/com.huawei.himovie.ui.login.SplashScreenActivity"
+        name="videos" />
+    <item
+        class="com.android.VideoPlayer/com.android.VideoPlayer.VideoPlayer"
+        name="videos" />
+    <item
+        class="com.huawei.himovie/com.huawei.himovie.ui.login.SplashScreenActivity"
+        name="videos" />
+    <item
+        class="com.coloros.video/com.oppo.video.VideoListActivity"
+        name="videos" />
+    <item
+        class="com.miui.video/com.miui.video.HomeActivity"
+        name="videos" />
+    <item
+        class="com.miui.videoplayer/com.miui.video.global.app.LauncherActivity"
+        name="videos" />
+    <item
+        class="com.huawei.himovie.overseas/com.huawei.himovie.ui.login.SplashScreenActivity"
+        name="videos" />
+
+
+    <!-- Message -->
+    <item
+        component=":SMS"
+        name="messaging" />
+    <item
+        class="com.verizon.messaging.vzmsgs/com.verizon.mms.ui.activity.Provisioning"
+        name="messaging" />
+    <item
+        class="com.oneplus.mms/com.android.mms.ui.ConversationList"
+        name="messaging" />
+    <item
+        class="com.zui.mms/com.fancymaker.mms.ui.XuiMmsMainActivity"
+        name="messaging" />
+    <item
+        class="com.samsung.android.messaging/com.android.mms.ui.ConversationComposer"
+        name="messaging" />
+    <item
+        class="com.android.mms/com.android.mms.ui.PermissionActivity"
+        name="messaging" />
+    <item
+        class="com.android.mms/com.android.mms.ui.ConversationList"
+        name="messaging" />
+    <item
+        class="com.motorola.blur.conversations/com.motorola.blur.conversations.ui.ConversationList"
+        name="messaging" />
+    <item
+        class="com.motorola.blur.messaging/com.motorola.blur.messaging.MessagingActivity"
+        name="messaging" />
+    <item
+        class="com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity"
+        name="messaging" />
+    <item
+        class="com.android.mms/com.android.mms.ui.ConversationComposer"
+        name="messaging" />
+    <item
+        class="com.android.mms/com.android.mms.ui.MessageTabActivity"
+        name="messaging" />
+    <item
+        class="com.htc.sense.mms/com.htc.sense.mms.ui.MessageTabActivity"
+        name="messaging" />
+    <item
+        class="com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList"
+        name="messaging" />
+    <item
+        class="com.asus.message/com.android.mms.ui.ConversationList"
+        name="messaging" />
+    <item
+        class="com.android.mms/com.android.mms.ui.BootActivity"
+        name="messaging" />
+    <item
+        class="com.android.mms/com.android.mms.ui.MmsTabActivity"
+        name="messaging" />
+    <item
+        class="com.android.mms/com.yulong.android.mms.ui.MmsMainListFormActivity"
+        name="messaging" />
+    <item
+        class="com.yulong.coolmessage/com.yulong.android.contacts.ui.main.ContactMainActivity"
+        name="messaging" />
+    <item
+        class="com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity"
+        name="messaging" />
+    <item
+        class="com.android.contacts/com.android.mms.ui.ConversationList"
+        name="messaging" />
+    <item
+        class="com.android.contacts/com.android.mms.ui.SearchActivity"
+        name="messaging" />
+    <item
+        class="com.lenovo.ideafriend/com.lenovo.ideafriend.alias.MmsActivity"
+        name="messaging" />
+    <item
+        class="com.android.mms/com.android.mms.ui.ModeChooser"
+        name="messaging" />
+    <item
+        class="com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity"
+        name="messaging" />
+
+
+
+    <!-- Camera -->
+    <item
+        class="com.hmdglobal.camera2/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.google.android.Pixel3Mod/com.android.camera.CameraLauncher"
+        name="camera_2" />
+    <item
+        class="com.google.android.Pixel2Mod/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        component=":CAMERA"
+        name="camera" />
+    <item
+        class="com.android.camera/com.android.camera.CameraActivity"
+        name="camera" />
+    <item
+        class="com.android.camera/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.zui.camera/com.zui.camera.CameraActivity"
+        name="camera" />
+    <item
+        class="com.google.android.GoogleCameraNX1/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.mediatek.camera/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.lge.camera/com.lge.camera.CamLoading"
+        name="camera" />
+    <item
+        class="com.tct.camera/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.android.camerabq/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.htc.camera2/com.htc.camera2.CameraEntry"
+        name="camera" />
+    <item
+        class="com.zte.camera/com.zte.camera.CameraActivity"
+        name="camera" />
+    <item
+        class="com.motorola.camera1/com.motorola.camera.Camera"
+        name="camera" />
+    <item
+        class="com.android.camera2/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.motorola.camera/com.motorola.camera.Camera"
+        name="camera" />
+    <item
+        class="com.android.camera/com.android.camera.CameraEntry"
+        name="camera" />
+    <item
+        class="com.android.gallery3d/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.google.android.camera/com.android.camera.Camera"
+        name="camera" />
+    <item
+        class="com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity"
+        name="camera" />
+    <item
+        class="com.google.android.gallery3d/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.meizu.media.camera/com.meizu.media.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="org.cyanogenmod.snap/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.myos.camera/com.myos.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.lge.camera/com.lge.camera.CameraAppLauncher"
+        name="camera" />
+    <item
+        class="com.cyngn.cameranext/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.htc.camera/com.htc.camera.CameraEntry"
+        name="camera" />
+    <item
+        class="com.android.asuscamera/com.android.asuscamera.Camera"
+        name="camera" />
+    <item
+        class="com.asus.camera/com.asus.camera.CameraApp"
+        name="camera" />
+    <item
+        class="com.oppo.camera/com.oppo.camera.Camera"
+        name="camera" />
+    <item
+        class="com.cyngn.cameranextmod2/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.oneplus.camera/com.oneplus.camera.OPCameraActivity"
+        name="camera" />
+    <item
+        class="com.huawei.camera/com.huawei.camera"
+        name="camera" />
+    <item
+        class="com.motorola.cameraone/com.motorola.camera.Camera"
+        name="camera" />
+    <item
+        class="com.moto.cam/com.motorola.camera.Camera"
+        name="camera" />
+    <item
+        class="com.myos.camera/com.myos.camera.CameraLauncher2"
+        name="camera" />
+    <item
+        class="com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="org.codeaurora.snapcam/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.fineos.camera/com.fineos.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.zui.cameragallery/com.zui.cameragallery.camera.CameraActivity"
+        name="camera" />
+    <item
+        class="com.google.android.GCMods5/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.wileyfox.camera/com.android.camera.CameraLauncher"
+        name="camera" />
+    <item
+        class="com.motorola.camera2/com.motorola.camera.Camera"
+        name="camera" />
+    <item
+        class="com.sec.android.app.camera/com.sec.android.app.camera.Camera"
+        name="camera" />
+    <item
+        class="com.android.camera/com.android.camera.Camera"
+        name="camera" />
+    <item
+        class="com.blackberry.camera/com.blackberry.camera.ui.coordination.MainActivity"
+        name="camera" />
+    <item
+        class="com.motorola.cameraonemtk/com.motorola.camera.Camera"
+        name="camera" />
+
+    <!-- Google Camera -->
+    <item
+        class="com.google.android.GoogleCamera/com.android.camera.CameraLauncher"
+        name="google_camera" />
+    <item
+        class="com.google.android.GoogleCamera/com.android.camera.CameraActivity"
+        name="google_camera" />
+    <item
+        class="com.google.android.GoogleCameraMOD/com.android.camera.CameraLauncher"
+        name="google_camera" />
+
+
+    <!-- Music -->
+    <item
+        class="com.android.music/com.android.music.MusicBrowserActivity"
+        name="music" />
+    <item
+        class="com.sonyericsson.music/com.sonyericsson.music.MusicActivity"
+        name="music" />
+    <item
+        class="org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity"
+        name="music" />
+    <item
+        class="com.lge.music/com.lge.music.MusicBrowserActivity"
+        name="music" />
+    <item
+        class="com.android.mediacenter/com.android.mediacenter.PageActivity"
+        name="music" />
+    <item
+        class="com.google.android.music/com.android.music.activitymanagement.TopLevelActivity"
+        name="play_music" />
+    <item
+        class="com.miui.player/com.miui.player.ui.MusicBrowserActivity"
+        name="music" />
+    <item
+        class="com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity"
+        name="music_alt" />
+
+
+
+    <!-- Browser -->
+    <item
+        class="com.lenovo.intlmb/com.opera.Opera"
+        name="browser" />
+    <item
+        class="com.cyngn.browser/com.android.browser.BrowserLauncher"
+        name="browser" />
+    <item
+        class="com.apn.mobile.browser.zte/com.apn.mobile.browser.MainActivity"
+        name="browser" />
+    <item
+        class="com.lenovo.browser/com.lenovo.browser.BrowserActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.BrowserActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.launch.SplashActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.BrowserLauncher"
+        name="browser" />
+    <item
+        class="com.google.android.browser/com.android.browser.BrowserActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.ui.BrowserActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.WoActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.WoHallActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.Browser9130MainView"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.MonternetLauncherActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.BrowserDownloadPage"
+        name="browser" />
+    <item
+        class="com.android.browser/com.motorola.android.browser.ChinaMobileActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.CombinedBookmarkHistoryActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.BaiduShortcutActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.yulong.android.browser.BrowserStartPage"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.LoginBrowserActivity"
+        name="browser" />
+    <item
+        class="org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.MainActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.opera.Opera"
+        name="opera" />
+    <item
+        class="com.htc.sense.browser/com.htc.sense.browser.BrowserActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.tencent.mtt.SplashActivity"
+        name="browser" />
+    <item
+        class="com.android.browser/com.android.browser.PermissionCheckActivity"
+        name="browser" />
+    <item
+        class="org.lineageos.jelly/org.lineageos.jelly.MainActivity"
+        name="browser" />
+    <item
+        class="com.vivo.browser/com.vivo.browser.BrowserActivity"
+        name="browser" />
+    <item
+        class="com.nearme.browser/com.android.browser.BrowserActivity"
+        name="browser" />
+    <item
+        component=":BROWSER"
+        name="browser" />
+
+
+    <!-- Contacts -->
+    <item
+        class="com.android.dialer/com.android.dialer.TwelveKeyDialer"
+        name="contacts" />
+    <item
+        class="com.android.dialer/com.android.dialer.alias.ContactsActivity"
+        name="contacts" />
+    <item
+        class="com.lenovo.ideafriend/com.lenovo.ideafriend.alias.PeopleActivity"
+        name="contacts" />
+    <item
+        class="com.zui.contacts/com.android.newcontact.vl.activity.XLaunchActivity"
+        name="contacts" />
+    <item
+        class="com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity"
+        name="contacts" />
+    <item
+        class="com.lenovo.ideafriend/com.lenovo.ideafriend.alias.callLogsActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.sec.android.app.contacts.ContactsEntryActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.sec.android.app.contacts.PhoneBookTopMenuActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.activities.PeopleActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsCallLogEntryActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.activities.ContactsFrontDoor"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.sec.android.app.contacts.PhoneBookSplitTopMenuActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.activities.ContactTabBrowserActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsRecentCallsEntryActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.sec.android.app.contacts.RecntcallEntryActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.RecentCallsEntryActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.activities.PhoneFrontDoor"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsPhoneEntryActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsEntryActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.tmo.LaunchCommunityActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.BbDialtactsMainFrameActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.ContactsActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.ContactsListActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.ContactHostActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsRecentEntryActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsCallListEntryActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsRecentCallEntryActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.DialtactsCallsEntryActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.ContactsMainFromHomeActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.RecentCallLogLaunchActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.TransparentActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.SmartDialerListActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.BaiJiaXingActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.SmartDailerActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.ContactsListActivityLauncher"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.ContactsListActivityEx"
+        name="contacts" />
+    <item
+        class="com.android.htccontacts/com.android.htccontacts.BrowseLayerCarouselActivity"
+        name="contacts" />
+    <item
+        class="com.meizu.mzsnssyncservice/com.meizu.mzsnssyncservice.ui.SnsTabActivity"
+        name="contacts" />
+    <item
+        class="com.asus.contacts/com.android.contacts.activities.PeopleActivity"
+        name="contacts" />
+    <item
+        class="com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.LaunchActivity"
+        name="contacts" />
+    <item
+        class="com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity"
+        name="contacts" />
+    <item
+        class="com.yulong.android.contacts/com.yulong.android.contacts.ui.main.ContactMainActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity"
+        name="contacts" />
+    <item
+        class="com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity"
+        name="contacts" />
+    <item
+        class="com.android.dialer/com.android.dialer.allContactsActivity"
+        name="contacts" />
+    <item
+        class="com.android.contacts/com.android.contacts.PeopleActivityAlias"
+        name="contacts" />
+
+    <item
+        class="com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
+        name="contacts" />
+    <item
+        class="com.blackberry.contacts/com.android.contacts.activities.PeopleDrawerActivity"
+        name="contacts" />
+    <item
+        class="com.samsung.android.contacts/com.samsung.android.contacts.contactslist.PeopleActivity"
+        name="contacts" />
+    <item
+        class="com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity"
+        name="contacts" />
+
+    <!-- Gallery -->
+    <item
+        class="com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity"
+        name="gallery" />
+    <item
+        class="com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity"
+        name="quickpic" />
+    <item
+        class="com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity"
+        name="gallery" />
+    <item
+        class="com.lenovo.gallery/com.lenovo.gallery.app.GalleryActivity"
+        name="gallery" />
+    <item
+        class="com.tct.gallery3d/com.tct.gallery3d.app.GalleryActivity"
+        name="gallery" />
+    <item
+        class="com.bq.gallerybq/com.bq.gallerybq.app.GalleryActivity"
+        name="gallery" />
+    <item
+        class="com.android.gallery3d/com.sprd.gallery3d.app.VideoActivity"
+        name="gallery" />
+    <item
+        class="com.gionee.gallery/com.gionee.gallery.sb.app.GnGallery"
+        name="gallery" />
+    <item
+        class="com.zui.gallery/com.zui.gallery.app.GalleryActivity"
+        name="gallery" />
+    <item
+        class="com.motorola.MotGallery2/com.android.gallery3d.app.Gallery"
+        name="gallery" />
+    <item
+        class="com.miui.gallery/com.miui.gallery.activity.HomePageActivity"
+        name="gallery" />
+    <item
+        class="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity"
+        name="gallery" />
+    <item
+        class="com.cooliris.media/com.cooliris.media.Gallery"
+        name="gallery" />
+    <item
+        class="com.jrdcom.android.gallery3d/com.jrdcom.android.gallery3d.app.Gallery"
+        name="gallery" />
+    <item
+        class="com.htc.album/com.htc.album.AlbumTabSwitchActivity"
+        name="gallery" />
+    <item
+        class="com.google.android.gallery3d/com.cooliris.media.Gallery"
+        name="gallery" />
+    <item
+        class="com.android.gallery3d/com.android.gallery3d.app.Gallery"
+        name="gallery" />
+    <item
+        class="com.htc.album/com.htc.album.AlbumMain.ActivityMainDropList"
+        name="gallery" />
+    <item
+        class="com.htc.album/com.htc.album.AlbumMain.ActivityMainCarousel"
+        name="gallery" />
+    <item
+        class="com.android.camera/com.android.camera.GalleryPicker"
+        name="gallery" />
+    <item
+        class="com.motorola.gallery/com.motorola.gallery.TopScreen"
+        name="gallery" />
+    <item
+        class="com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity"
+        name="gallery" />
+    <item
+        class="com.google.android.gallery3d/com.android.gallery3d.app.Gallery"
+        name="gallery" />
+    <item
+        class="com.miui.gallery/com.miui.gallery.app.Gallery"
+        name="gallery" />
+    <item
+        class="com.android.gallery3d/com.huawei.gallery.app.GalleryMain"
+        name="gallery" />
+    <item
+        class="com.oppo.gallery3d/com.oppo.gallery3d.app.Gallery"
+        name="gallery" />
+    <item
+        class="com.tct.gallery3d/com.tct.gallery3d.app.PermissionActivity"
+        name="gallery" />
+    <item
+        class="com.coloros.gallery3d/com.oppo.gallery3d.app.Gallery"
+        name="gallery" />
+    <item
+        class="com.htc.album/com.htc.album.AlbumMain.ActivityMainTabHost"
+        name="gallery" />
+    <item
+        class="com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity"
+        name="gallery" />
+    <item
+        class="com.android.gallery3d/com.huawei.gallery.app.GalleryActivity"
+        name="gallery" />
+    <item
+        class="com.htc.albumgp/com.htc.album.AlbumMain.ActivityMainTabHost"
+        name="gallery" />
+    <item
+        class="com.nomotorola.MotGallery2/com.android.gallery3d.app.GalleryActivity"
+        name="gallery" />
+    <item
+        class="com.google.android.gallery3d/com.android.gallery3d.app.GalleryActivity"
+        name="gallery" />
+    <item
+        class="org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity"
+        name="gallery" />
+    <item
+        class="com.android.gallery3d/com.android.gallery3d.app.MainActivity"
+        name="gallery" />
+    <item
+        class="com.android.gallery3d/com.android.newgallery.NewGallery"
+        name="gallery" />
+    <item
+        class="com.fineos.gallery3d/com.fineos.gallery3d.app.AlbumSetActivity"
+        name="gallery" />
+    <item
+        class="com.vivo.gallery/com.android.gallery3d.vivo.GalleryTabActivity"
+        name="gallery" />
+    <item
+        class="com.android.gallery3d/com.android.gallery3d.app.PermissionActivity"
+        name="gallery" />
+    <item
+        class="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange"
+        name="gallery_3" />
+    <item
+        class="com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity"
+        name="gallery" />
+
+
+    <!-- Weather -->
+    <item
+        class="com.vivo.weather/com.vivo.weather.WeatherMain"
+        name="weather" />
+    <item
+        class="com.htc.Weather/com.htc.Weather.WeatherEntry"
+        name="weather" />
+    <item
+        class="com.htc.Weather/com.htc.Weather.WeatherEntryAlias"
+        name="weather" />
+    <item
+        class="com.tct.weather/com.tct.weather.MainActivity"
+        name="weather" />
+    <item
+        class="com.coolwind.weather/com.coolwind.weather.SplashActivity"
+        name="weather" />
+    <item
+        class="com.lge.sizechangable.weather/com.lge.sizechangable.weather.activities.WeatherActivity_Default_dummy"
+        name="weather" />
+    <item
+        class="com.miui.weather2/com.miui.weather2.ActivityWeatherMain"
+        name="weather" />
+    <item
+        class="net.oneplus.weather/net.oneplus.weather.app.MainActivity"
+        name="weather" />
+    <item
+        class="com.weather.samsung/com.weather.Weather.app.SplashScreenActivity"
+        name="weather" />
+    <item
+        class="com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings"
+        name="weather" />
+    <item
+        class="com.moji.zuk/com.moji.zuk.CSplashScreen"
+        name="weather" />
+    <item
+        class="com.ape.weather/com.ape.weather.DetailActivity"
+        name="weather" />
+    <item
+        class="com.oppo.weather/com.oppo.weather.OppoMainActivity"
+        name="weather" />
+    <item
+        class="com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome"
+        name="weather" />
+    <item
+        class="com.samsung.android.weather/com.samsung.android.weather.app.WeatherLauncher"
+        name="weather" />
+    <item
+        class="com.meizu.flyme.weather/com.meizu.flyme.weather.WeatherMainActivity"
+        name="weather" />
+    <item
+        class="com.lge.sizechangable.weather/com.lge.sizechangable.weather.activities.WeatherActivity_Default"
+        name="weather" />
+    <item
+        class="com.jrdcom.weather/com.jrdcom.weather.MainActivity"
+        name="weather" />
+    <item
+        class="com.coloros.weather/com.coloros.weather.OppoMainActivity"
+        name="weather" />
+    <item
+        class="com.huawei.android.totemweatherapp/com.huawei.android.totemweatherapp.WeatherHome"
+        name="weather" />
+    <item
+        class="com.amazon.weather/com.amazon.weather.WeatherTabletActivity"
+        name="weather" />
+    <item
+        class="jp.kyocera.weather/jp.kyocera.weather.WeatherDetailsActivity"
+        name="weather" />
+    <item
+        class="com.sonymobile.xperiaweather/com.sonymobile.xperiaweather.MainActivity"
+        name="weather" />
+    <item
+        class="com.samruston.weather/com.samruston.weather.MainActivity"
+        name="weather" />
+    <item
+        class="com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity"
+        name="weather" />
+    <item
+        class="mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity"
+        name="today_weather" />
+
+    <!-- Clock -->
+    <item
+        class="com.android.deskclock/com.android.deskclock.AlarmClock"
+        name="clock" />
+    <item
+        class="com.zui.deskclock/com.zui.deskclock.DeskClock"
+        name="clock" />
+    <item
+        class="com.android.deskclock/com.android.deskclock.AlarmsMainActivity"
+        name="clock" />
+    <item
+        class="com.android.alarmclock/com.android.alarmclock.AlarmClock"
+        name="clock" />
+    <item
+        class="com.android.deskclock/com.jrdcom.timetool.TimeToolActivity"
+        name="clock" />
+    <item
+        class="com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl"
+        name="clock" />
+    <item
+        class="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage"
+        name="clock" />
+    <item
+        class="com.google.android.deskclock/com.android.deskclock.DeskClock"
+        name="clock" />
+    <item
+        class="com.android.deskclock/com.android.deskclock.DeskClock"
+        name="clock" />
+    <item
+        class="com.motorola.blur/com.motorola.blur.alarmclock.AlarmClock"
+        name="clock" />
+    <item
+        class="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.AlarmActivity"
+        name="clock" />
+    <item
+        class="com.android.alarmclock/com.meizu.flyme.alarmclock.AlarmClock"
+        name="clock" />
+    <item
+        class="com.android.deskclock/com.android.deskclock.DeskClockTabActivity"
+        name="clock" />
+    <item
+        class="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackage"
+        name="clock" />
+    <item
+        class="com.moblynx.clockl/com.android.deskclock.DeskClock"
+        name="clock" />
+    <item
+        class="com.yulong.android.xtime/yulong.xtime.ui.main.XTimeActivity"
+        name="clock" />
+    <item
+        class="com.lge.clock/com.lge.clock.AlarmClockActivity"
+        name="clock" />
+    <item
+        class="com.asus.deskclock/com.asus.deskclock.DeskClock"
+        name="clock" />
+    <item
+        class="com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock"
+        name="clock" />
+    <item
+        class="net.oneplus.deskclock/net.oneplus.deskclock.DeskClock"
+        name="clock" />
+    <item
+        class="com.oppo.alarmclock/com.oppo.alarmclock.AlarmClock"
+        name="clock" />
+    <item
+        class="com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer"
+        name="clock" />
+    <item
+        class="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock"
+        name="clock" />
+    <item
+        class="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.alarm.Alarm"
+        name="clock" />
+    <item
+        class="com.lenovo.deskclock/com.lenovo.deskclock.DeskClock"
+        name="clock" />
+    <item
+        class="com.tct.timetool/com.tct.timetool.DeskClock"
+        name="clock" />
+    <item
+        class="com.android.BBKClock/com.android.BBKClock.Timer"
+        name="clock" />
+    <item
+        class="zte.com.cn.alarmclock/zte.com.cn.alarmclock.AlarmClock"
+        name="clock" />
+    <item
+        class="com.jrdcom.timetool/com.jrdcom.timetool.TimeToolActivity"
+        name="clock" />
+    <item
+        class="com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock"
+        name="clock" />
+    <item
+        component=":CLOCK"
+        name="clock" />
+    <!-- Dynamic Clock -->
+    <dynamic-clock
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30"
+        name="clock_dym"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2" />
+
+
+
+    <!-- Downloads -->
+    <item
+        class="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList"
+        name="downloads" />
+    <item
+        class="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadActivity"
+        name="downloads" />
+    <item
+        class="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadsListTab"
+        name="downloads" />
+    <item
+        class="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadTabActivity"
+        name="downloads" />
+    <item
+        class="com.cellmania.android.storefront.webview.vmu/com.cellmania.android.storefront.webview.vmu.CM_WebView_StorefrontActivity"
+        name="downloads" />
+
+    <!-- File Manager -->
+    <item
+        class="com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity"
+        name="files" />
+    <!-- Files -->
+    <item
+        class="com.tct.filemanager/com.tct.filemanager.activity.FileBrowserActivity"
+        name="files" />
+    <item
+        class="com.android.filemanager/com.android.filemanager.FileManagerActivity"
+        name="files" />
+    <item
+        class="com.tplink.filemanager/com.tplink.filemanager.activities.MainActivity"
+        name="files" />
+    <item
+        class="com.gionee.filemanager/com.gionee.filemanager.FileExplorerTabActivity"
+        name="files" />
+    <item
+        class="com.android.documentsui/com.android.documentsui.StandaloneLauncherActivity"
+        name="files" />
+    <item
+        class="com.zui.filemanager/com.zui.filemanager.MainActivity"
+        name="files" />
+    <item
+        class="com.htc.filemanager/com.htc.filemanager.FileManagerActivity"
+        name="files" />
+    <item
+        class="com.mediatek.filemanager/com.mediatek.filemanager.ui.FileExplorerTabActivity"
+        name="files" />
+    <item
+        class="com.jrdcom.filemanager/com.jrdcom.filemanager.activity.FileBrowserActivity"
+        name="files" />
+    <item
+        class="zte.com.cn.filer/zte.com.cn.filer.FilerActivity"
+        name="files" />
+    <item
+        class="com.motorola.filemanager/com.motorola.filemanager.MainFileManagerActivity"
+        name="files" />
+    <item
+        class="com.sprd.fileexplorer/com.sprd.fileexplorer.activities.FileExploreActivity"
+        name="files" />
+    <item
+        class="com.motorola.filemanager/com.motorola.filemanager.FileManagerActivity"
+        name="files" />
+    <item
+        class="com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager"
+        name="files" />
+    <item
+        class="org.openintents.filemanager/org.openintents.filemanager.FileManagerActivity"
+        name="files" />
+    <item
+        class="com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity"
+        name="files" />
+    <item
+        class="com.mars.miuifilemanager/com.mars.miuifilemanager.ui.FileExplorerTabActivity"
+        name="files" />
+    <item
+        class="org.openintents.cmfilemanager/org.openintents.cmfilemanager.FileManagerActivity"
+        name="files" />
+    <item
+        class="com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity"
+        name="files" />
+    <item
+        class="com.yulong.android.filebrowser/com.yulong.android.filebrowser.activity.FileBrowserActivity"
+        name="files" />
+    <item
+        class="com.letv.android.filemanager/com.letv.android.filemanager.activities.FileManagerActivity"
+        name="files" />
+    <item
+        class="com.meizu.filemanager/com.meizu.flyme.filemanager.activity.FileManagerActivity"
+        name="files" />
+    <item
+        class="com.mediatek.filemanager/com.mediatek.filemanager.FileManagerOperationActivity"
+        name="files" />
+    <item
+        class="com.ape.filemanager/com.ape.filemanager.FileManagerMainActivity"
+        name="files" />
+    <item
+        class="com.lge.filemanager/com.lge.filemanager.view.LaunchActivity"
+        name="files" />
+    <item
+        class="com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity"
+        name="files" />
+    <item
+        class="com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity"
+        name="files" />
+    <item
+        class="com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain"
+        name="files" />
+    <item
+        class="com.oppo.filemanager/com.oppo.filemanager.Main"
+        name="files" />
+    <item
+        class="com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity"
+        name="files" />
+    <item
+        class="com.lenovo.FileBrowser/com.lenovo.FileBrowser.activities.FileBrowserMain"
+        name="files" />
+    <item
+        class="com.sec.android.app.myfiles/com.sec.android.app.myfiles.Myfiles"
+        name="files" />
+    <item
+        class="com.wingtech.filemanager/com.wingtech.filemanager.MainActivity"
+        name="files" />
+    <item
+        class="com.coloros.filemanager/com.coloros.filemanager.Main"
+        name="files" />
+    <item
+        class="com.mediatek.filemanager/com.mediatek.filemanager.MainFilemanagerActivity"
+        name="files" />
+    <item
+        class="com.samsung.android.app.galaxyfinder/com.samsung.android.app.galaxyfinder.GalaxyFinderLauncher"
+        name="files" />
+    <item
+        class="com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity"
+        name="files" />
+    <item
+        class="com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity"
+        name="files" />
+    <item
+        class="com.android.documentsui/com.android.documentsui.LauncherActivity"
+        name="files" />
+    <item
+        class="com.google.android.documentsui/com.android.documentsui.LauncherActivity"
+        name="files" />
+    <item
+        class="com.mobisystems.fileman/com.mobisystems.files.FileBrowser"
+        name="files" />
+
+
+
+    <item
+        class="com.huawei.android.thememanager/com.huawei.android.thememanager.PageActivity"
+        name="themes" />
+    <item
+        class="com.deishelon.lab.huaweithememanager/com.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity"
+        name="themes" />
+    <!-- Theme Engine -->
+    <item
+        class="org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity"
+        name="themes" />
+    <item
+        class="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity"
+        name="themes" />
+    <item
+        class="org.cyanogenmod.theme.chooser2/org.cyanogenmod.theme.chooser2.ChooserLauncher"
+        name="themes" />
+
+    <item
+        class="com.cyngn.themestore/com.cyngn.themestore.ui.StoreActivity"
+        name="themes" />
+    <item
+        class="com.bbk.theme/com.bbk.theme.Theme"
+        name="themes" />
+    <item
+        class="com.zookingsoft.themestore/com.zookingsoft.themestore.view.MainActivity"
+        name="themes" />
+    <item
+        class="com.asus.themeapp/com.asus.themeapp.ThemeAppActivity"
+        name="themes" />
+    <item
+        class="com.huawei.android.thememanager/com.huawei.android.thememanager.HwThemeManagerActivity"
+        name="themes" />
+    <item
+        class="com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher"
+        name="themes" />
+    <item
+        class="com.samsung.android.themestore/com.samsung.android.themestore.activity.WTLauncher"
+        name="themes" />
+    <item
+        class="com.nearme.themespace/com.nearme.themespace.activities.ThemeActivity"
+        name="themes" />
+    <item
+        class="com.mixapplications.themeeditor/com.mixapplications.themeeditor.MainActivity"
+        name="themes" />
+    <item
+        class="com.lenovo.themecenter/com.lenovo.themecenter.LoadingActivity"
+        name="themes" />
+    <item
+        class="com.letv.android.themestore/com.letv.android.themestore.activity.HomeActivity"
+        name="themes" />
+    <item
+        class="com.meizu.customizecenter/com.meizu.customizecenter.CustomizeCenterActivity"
+        name="themes" />
+    <item
+        class="com.huawei.android.thememanager/com.huawei.android.thememanager.PageActivity"
+        name="themes" />
+
+
+
+    <!-- Notes -->
+    <item
+        class="com.miui.notes/com.miui.notes.ui.NotesListActivity"
+        name="notes" />
+    <!-- Notes -->
+    <item
+        class="com.tcl.note/com.tcl.note.activity.NoteListActivity"
+        name="notes" />
+    <item
+        class="com.gionee.note/com.gionee.note.HomeActivity"
+        name="notes" />
+    <item
+        class="com.oneplus.note/com.oneplus.note.ui.MainActivity"
+        name="notes" />
+    <item
+        class="com.yulong.android.memo/com.yulong.android.coolmemo.ui.CoolMemoActivity"
+        name="notes" />
+    <item
+        class="com.sonymobile.notes/com.sonymobile.notes.dashboard.DashboardActivity"
+        name="notes" />
+    <item
+        class="com.lge.app.richnote/com.lge.app.richnote.RichNoteList"
+        name="notes" />
+    <item
+        class="com.fly.android.notes/com.lava.notes.evermemo.StartActivity"
+        name="notes" />
+    <item
+        class="com.sprd.note/com.sprd.note.NoteActivity"
+        name="notes" />
+    <item
+        class="com.blackberry.notes/com.blackberry.notes.ui.list.NotesListActivity"
+        name="notes" />
+    <item
+        class="com.sec.android.quickmemo/com.sec.android.quickmemo.ui.MemoList"
+        name="notes" />
+    <item
+        class="com.htc.notes/com.htc.notes.collection.NoteCollectionActivity"
+        name="notes" />
+    <item
+        class="com.sec.android.app.memo/com.sec.android.app.memo.MemoRoot"
+        name="notes" />
+    <item
+        class="com.sec.android.app.memo/com.sec.android.app.memo.Memo"
+        name="notes" />
+    <item
+        class="com.sec.android.widgetapp.diotek.smemo/com.sec.android.widgetapp.q1_penmemo.MemoListActivity"
+        name="notes" />
+    <item
+        class="com.letv.android.note/com.letv.android.note.NoteBookListActivity"
+        name="notes" />
+    <item
+        class="com.jrdcom.ui.notes/com.jrdcom.notepad2.ui.NotesListActivity"
+        name="notes" />
+    <item
+        class="com.samsung.android.app.memo/com.samsung.android.app.memo.Main"
+        name="notes" />
+    <item
+        class="com.meizu.notepaper/com.meizu.flyme.notepaper.NotePaperActivity"
+        name="notes" />
+    <item
+        class="com.miui.notes/com.miui.notes.ui.NotesListActivity"
+        name="notes" />
+    <item
+        class="com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity"
+        name="notes" />
+    <item
+        class="com.asus.quickmemo/com.asus.quickmemo.activities.edit.MemoEditActivity"
+        name="notes" />
+    <item
+        class="com.example.android.notepad/com.example.android.notepad.NotePadActivity"
+        name="notes" />
+    <item
+        class="com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity"
+        name="notes" />
+    <item
+        class="com.htc.lucy/com.htc.lucy.editor.LandingActivity"
+        name="notes" />
+    <item
+        class="com.huaqin.mynotes/com.huaqin.mynotes.FoldersListActivity"
+        name="notes" />
+    <item
+        class="com.tct.note/com.tct.note.ui.NotesListActivity"
+        name="notes" />
+    <item
+        class="com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity"
+        name="notes" />
+    <item
+        class="com.samsung.android.app.memo/com.samsung.android.app.memo.control.ui.list.MemoListActivity"
+        name="notes" />
+    <item
+        class="com.letv.android.note/com.letv.android.note.NoteListActivity"
+        name="notes" />
+    <item
+        class="com.example.android.notepad/com.example.android.notepad.NotesList"
+        name="notes" />
+    <item
+        class="com.android.notes/com.android.notes.Notes"
+        name="notes" />
+    <item
+        class="com.mediatek.notebook/com.mediatek.notebook.NotesList"
+        name="notes" />
+    <item
+        class="org.mozilla.testpilot.notes/org.mozilla.testpilot.notes.MainActivity"
+        name="notes" />
+
+
+    <!-- Recorder -->
+    <item
+        class="org.lineageos.recorder/org.lineageos.recorder.RecorderActivity"
+        name="recorder" />
+    <item
+        class="com.zui.recorder/com.zui.recorder.SoundRecorder"
+        name="recorder" />
+    <item
+        class="com.lenovo.recorder/com.lenovo.recorder.SoundRecorder"
+        name="recorder" />
+    <item
+        class="com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder"
+        name="recorder" />
+    <item
+        class="com.tct.soundrecorder/com.tct.soundrecorder.SoundRecorder"
+        name="recorder" />
+    <item
+        class="com.tct.soundrecorder/com.tct.soundrecorder.SoundRecorderNew"
+        name="recorder" />
+    <item
+        class="cn.zte.recorder/cn.zte.recorder.StartEmptyActivity"
+        name="recorder" />
+    <item
+        class="com.letv.android.recorder/com.letv.android.recorder.RecorderActivity"
+        name="recorder" />
+    <item
+        class="com.android.soundrecorder/com.android.soundrecorder.SoundRecorderLauncher"
+        name="recorder" />
+    <item
+        class="com.android.soundrecorder/com.android.soundrecorder.SoundRecorderTab"
+        name="recorder" />
+    <item
+        class="com.android.soundrecorder/com.android.soundrecorder.RecorderActivity"
+        name="recorder" />
+    <item
+        class="com.android.soundrecorder/com.android.soundrecorder.SoundRecorder"
+        name="recorder" />
+    <item
+        class="com.android.soundrecorder/com.android.soundrecorder.Sound"
+        name="recorder" />
+    <item
+        class="com.android.soundrecorder/com.android.soundrecorder.AsusRecorder"
+        name="recorder" />
+    <item
+        class="com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity"
+        name="recorder" />
+    <item
+        class="com.sec.android.app.voicerecorder/com.sec.android.app.voicerecorder.VoiceRecorderMainActivity"
+        name="recorder" />
+    <item
+        class="com.yulong.android.soundrecorder/com.yulong.android.soundrecorder.CP_SoundRecorder"
+        name="recorder" />
+    <item
+        class="com.lge.voicerecorder/com.lge.voicerecorder.LaunchVoiceRecorder"
+        name="recorder" />
+    <item
+        class="com.asus.soundrecorder/com.asus.soundrecorder.AsusRecorder"
+        name="recorder" />
+    <item
+        class="com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity"
+        name="recorder" />
+    <item
+        class="oppo.multimedia.soundrecorder/oppo.multimedia.soundrecorder.RecorderActivity"
+        name="recorder" />
+    <item
+        class="com.htc.soundrecorder/com.htc.soundrecorder.SoundRecorderBG"
+        name="recorder" />
+    <item
+        class="com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder"
+        name="recorder" />
+    <item
+        class="com.bq.soundrecorder/com.bq.soundrecorder.activities.MainActivity"
+        name="recorder" />
+    <item
+        class="com.letv.android.recorder/com.letv.android.recorder.mvp.recorder.view.RecorderActivity"
+        name="recorder" />
+    <item
+        class="com.android.bbksoundrecorder/com.android.bbksoundrecorder.SoundRecorder"
+        name="recorder" />
+    <item
+        class="com.tct.soundrecorder/com.tct.soundrecorder.TctSoundRecorder"
+        name="recorder" />
+    <item
+        class="jp.snowlife01.android.voicerecorderpro/jp.snowlife01.android.voicerecorderpro.MainActivity"
+        name="recorder" />
+    <item
+        class="com.splendapps.voicerec/com.splendapps.voicerec.MainActivity"
+        name="recorder" />
+    <item
+        class="com.coloros.soundrecorder/oppo.multimedia.soundrecorder.RecorderActivity"
+        name="recorder" />
+
+
+
+
+    <item
+        class="com.kimcy929.screenrecorder/com.kimcy929.screenrecorder.activity.MainActivity"
+        name="screen_recorder" />
+    <item
+        class="com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity"
+        name="screen_recorder" />
+
+    <item
+        class="com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity"
+        name="scanner" />
+
+
+    <!-- Settings -->
+    <item
+        class="com.android.settings/com.android.settings.GnSettingsTabActivity"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.MainSettings"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.SettingsTab"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.HWSettings"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.Settings"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.TetherSettings"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.TetherSettingsActivity"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.TetherSettingsWifi"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.MainEntry"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.MiuiSettings"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.MiuiPasswordGuardActivity"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.framework.activity.HtcSettings"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.SettingsTabActivity"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.GridSettings"
+        name="settings" />
+    <item
+        class="com.android.settings/com.oppo.settings.SettingsActivity"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.Settings$WifiApSettingsActivity"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.Settings$SprdManageApplicationsActivity"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.Settings$SprdManageTasksActivity"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.wfd.WifiDisplayEnableActivity"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.jrdTethering.JrdTetherSettings"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.Settings$WifiSettingsActivity"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.fpmanager.FpSettings"
+        name="settings" />
+    <item
+        class="com.android.settings/com.android.settings.fpmanager.FpSettings"
+        name="settings" />
+
+
+
+
+    <!-- WhatsApp -->
+    <item
+        class="com.whatsapp/com.whatsapp.Main"
+        name="whatsapp" />
+    <item
+        class="com.whatsapp/com.whatsapp.Main3"
+        name="whatsapp" />
+    <item
+        class="com.gbwhatsapp/com.gbwhatsapp.Main0"
+        name="whatsapp" />
+    <item
+        class="com.gbwhatsapp/com.gbwhatsapp.Main4"
+        name="whatsapp" />
+    <item
+        class="com.gbwhatsapp/com.gbwhatsapp.Main1"
+        name="whatsapp" />
+    <item
+        class="com.whatsapp/com.whatsapp.0"
+        name="whatsapp" />
+    <item
+        class="com.yowhatsapp/com.yowhatsapp.0"
+        name="whatsapp" />
+    <item
+        class="com.whatsapp.w4b/com.whatsapp.Main"
+        name="whatsapp_buisness" />
+
+
+    <!-- Instagram -->
+    <item
+        class="com.instagram.android/com.instagram.android.activity.MainTabActivity"
+        name="instagram" />
+    <item
+        class="com.gbinsta.android/com.gbinsta.android.activity.MainTabActivity"
+        name="instagram" />
+
+    <!-- Facebook -->
+    <item
+        class="com.facebook.katana/com.facebook.katana.LoginActivity"
+        name="facebook" />
+    <item
+        class="com.facebook.lite/com.facebook.lite.MainActivity"
+        name="facebook_lite" />
+
+    <!-- Play Store -->
+    <item
+        class="com.android.vending/com.android.vending.AssetBrowserActivity"
+        name="playstore" />
+    <!-- Play Games -->
+    <item
+        class="com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity"
+        name="playgames" />
+    <!-- Play Movies -->
+    <item
+        class="com.google.android.videos/com.google.android.youtube.videos.EntryPoint"
+        name="play_movies" />
+    <item
+        class="com.google.android.videos/com.google.android.videos.activity.LauncherActivity"
+        name="play_movies" />
+    <!-- Google Play Music -->
+    <item
+        class="com.google.android.music/com.android.music.activitymanagement.TopLevelActivity"
+        name="play_music" />
+    <!-- Play Books -->
+    <item
+        class="com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity"
+        name="play_books" />
+    <!-- Google News -->
+    <item
+        class="com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity"
+        name="news" />
+
+    <!--Chrome-->
+    <item
+        class="com.android.chrome/com.google.android.apps.chrome.Main"
+        name="chrome" />
+    <item
+        class="com.android.chrome/com.android.chrome.Main"
+        name="chrome" />
+
+    <item
+        class="com.chrome.beta/com.google.android.apps.chrome.Main"
+        name="chrome_beta" />
+
+    <item
+        class="com.chrome.canary/com.google.android.apps.chrome.Main"
+        name="chrome_canary" />
+
+    <item
+        class="com.chrome.dev/com.google.android.apps.chrome.Main"
+        name="chrome_dev" />
+
+
+    <!-- Google Photo -->
+    <item
+        class="com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity"
+        name="photos" />
+    <item
+        class="com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity"
+        name="photos" />
+    <item
+        class="com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity"
+        name="photos" />
+    <item
+        class="com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity"
+        name="play_console" />
+    <!-- YouTube Go -->
+    <item
+        class="com.google.android.apps.youtube.mango/com.google.android.apps.youtube.lite.frontend.activities.SplashActivity"
+        name="youtube_go" />
+    <item
+        class="com.utorrent.client/com.bittorrent.client.Main"
+        name="utorrent" />
+    <!-- YT Syudio -->
+    <item
+        class="com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.activities.SplashActivity"
+        name="youtube_studio" />
+    <item
+        class="com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity"
+        name="youtube_studio" />
+    <item
+        class="com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity"
+        name="youtube_music" />
+    <item
+        class="com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.browse.SplashScreenActivity"
+        name="youtube_kids" />
+    <!-- YouTube -->
+    <item
+        class="com.google.android.youtube/com.google.android.youtube.HomeActivity"
+        name="youtube" />
+    <item
+        class="com.google.android.youtube/com.google.android.youtube.HomePage"
+        name="youtube" />
+    <item
+        class="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+        name="youtube" />
+    <item
+        class="com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity"
+        name="youtube" />
+    <item
+        class="com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity"
+        name="youtube" />
+    <item
+        class="com.lara.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+        name="youtube" />
+    <item
+        class="com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+        name="youtube_vanced" />
+    <!-- YouTube Go -->
+    <item
+        class="com.google.android.apps.youtube.mango/com.google.android.apps.youtube.lite.frontend.activities.SplashActivity"
+        name="youtube_go" />
+    <!-- Twitter -->
+    <item
+        class="com.htc.htctwitter/com.htc.htctwitter.TwidroidSplash"
+        name="twitter" />
+    <item
+        class="com.twitter.android/com.twitter.android.LoginActivity"
+        name="twitter" />
+    <item
+        class="com.twitter.android/com.twitter.android.StartActivity"
+        name="twitter" />
+
+    <item
+        class="com.twitter.android.lite/com.twitter.android.lite.TwitterLiteActivity"
+        name="twitter_lite" />
+    <item
+        class="org.chromium.webapk.ae2df836a5879868a/org.chromium.webapk.shell_apk.MainActivity"
+        name="twitter" />
+    <item
+        class="com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity"
+        name="tiktok" />
+    <item
+        class="com.zhiliaoapp.musically.go/com.ss.android.ugc.aweme.splash.SplashActivity"
+        name="tiktok_lite" />
+    <!-- Telegram -->
+    <item
+        class="org.telegram.messenger/org.telegram.ui.LaunchActivity"
+        name="telegram" />
+    <item
+        class="org.telegram.messenger.beta/org.telegram.ui.LaunchActivity"
+        name="telegram" />
+    <item
+        class="com.russiatelegram/org.telegram.ui.LaunchActivity"
+        name="telegram" />
+
+    <item
+        class="org.thunderdog.challegram/org.thunderdog.challegram.MainActivity"
+        name="telegram_x" />
+    <!--Google Search-->
+    <item
+        class="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity"
+        name="google" />
+    <item
+        class="com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher"
+        name="google" />
+
+    <item
+        class="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity"
+        name="assistant" />
+    <item
+        class="com.google.android.voicesearch/com.google.android.voicesearch.RecognitionActivity"
+        name="assistant" />
+    <item
+        class="com.google.android.voicesearch/com.google.android.voicesearch.RecognitionActivityReal"
+        name="assistant" />
+    <item
+        class="com.google.android.voicesearch/com.google.android.voicesearch.performanceanalysis.LogFilesViewer"
+        name="assistant" />
+    <!-- Google Assistant -->
+    <item
+        class="com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity"
+        name="assistant" />
+    <!--Gmail-->
+    <item
+        class="com.google.android.gm/com.google.android.gm.ConversationListActivityGmail"
+        name="gmail" />
+    <item
+        class="com.google.android.gm/com.google.android.gm.AutoSendActivity"
+        name="gmail" />
+    <item
+        class="com.google.android.gm/com.google.android.gm.GmailActivity"
+        name="gmail" />
+    <item
+        class="com.google.android.gm/com.google.android.gm.ComposeActivityGmail"
+        name="gmail" />
+    <item
+        class="com.google.android.gm/com.google.android.gm.Preference.GmailPreferenceActivity"
+        name="gmail" />
+    <item
+        class="com.google.android.gm/com.google.android.gm.MailboxSelectionActivity"
+        name="gmail" />
+    <item
+        class="com.google.android.gm/com.google.android.gm.MailboxSelectionActivityGoogleMail"
+        name="gmail" />
+    <!-- Google Maps -->
+    <item
+        class="com.google.android.apps.maps/com.google.android.maps.MapsActivity"
+        name="maps" />
+    <!--Google Drive-->
+    <item
+        class="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
+        name="drive" />
+    <!-- Google Duo -->
+    <item
+        class="com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity"
+        name="duo" />
+
+    <item
+        class="com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity"
+        name="meet" />
+    <!-- Snapseed -->
+    <item
+        class="com.niksoftware.snapseed/com.google.android.apps.snapseed.MainActivity"
+        name="snapseed" />
+    <item
+        class="com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity"
+        name="snapseed" />
+    <!-- Google Sheets -->
+    <item
+        class="com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity"
+        name="google_sheets" />
+    <!-- Google Slides -->
+    <item
+        class="com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity"
+        name="google_slides" />
+    <!-- Google Pay -->
+    <item
+        class="com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity"
+        name="gpay" />
+    <item
+        class="com.google.android.apps.nbu.paisa.user/com.google.android.apps.nbu.paisa.user.launcher.LauncherActivity"
+        name="gpay" />
+    <!-- Google Docs -->
+    <item
+        class="com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
+        name="google_docs" />
+    <!-- Google Translate -->
+    <item
+        class="com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity"
+        name="translate" />
+    <item
+        class="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity"
+        name="translate" />
+    <!-- Play Books -->
+    <item
+        class="com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity"
+        name="play_books" />
+    <item
+        class="com.google.android.apps.nbu.paisa.merchant/com.google.android.apps.nbu.paisa.merchant.launcher.MerchantLauncherActivity"
+        name="gpay_buisness" />
+    <!-- News & Weather -->
+    <item
+        class="com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewsActivity"
+        name="google_news" />
+    <!-- Aarogya Setu -->
+    <item
+        class="nic.goi.aarogyasetu/nic.goi.aarogyasetu.views.SplashActivity"
+        name="aarogya_setu"/>
+
+    <!-- Adobe Acrobat -->
+    <item
+        class="com.adobe.reader/com.adobe.reader.AdobeReader"
+        name="adobe_acrobat"/>
+
+    <!-- Adobe Capture -->
+    <item
+        class="com.adobe.creativeapps.gather/com.adobe.creativeapps.gather.activity.GatherSplashScreenActivity"
+        name="adobe_capture"/>
+
+    <!-- Adobe Draw -->
+    <item
+        class="com.adobe.creativeapps.draw/com.adobe.creativeapps.draw.activity.SplashActivity"
+        name="adobe_draw"/>
+
+    <!-- Adobe Fill Sign -->
+    <item
+        class="com.adobe.fas/com.adobe.fas.Home.FillAndSign"
+        name="adobe_fill_sign"/>
+
+    <!-- Adobe Photoshop Fix -->
+    <item
+        class="com.adobe.adobephotoshopfix/com.adobe.adobephotoshopfix.FCSplashScreenActivity"
+        name="adobe_photoshop_fix"/>
+
+    <!-- Adobe Photoshop Mix -->
+    <item
+        class="com.adobe.photoshopmix/com.adobe.photoshopmix.SplashScreenActivity"
+        name="adobe_photoshop_mix"/>
+
+    <!-- Adobe Photoshop Sketch -->
+    <item
+        class="com.adobe.creativeapps.sketch/com.adobe.creativeapps.sketch.activity.SplashScreenActivity"
+        name="adobe_photoshop_sketch"/>
+
+    <!-- Adobe Scan -->
+    <item
+        class="com.adobe.scan.android/com.adobe.scan.android.SplashActivity"
+        name="adobe_scan"/>
+
+    <!-- Adobe XD -->
+    <item
+        class="com.adobe.sparklerandroid/com.adobe.sparklerandroid.activity.XDSplashScreenActivity"
+        name="adobe_xd"/>
+
+    <!-- Amazon Shopping -->
+    <item
+        class="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity"
+        name="amazon_shopping"/>
+
+    <!-- Authenticator -->
+    <item
+        class="com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity"
+        name="microsoft_authenticator"/>
+
+    <!-- B612 -->
+    <item
+        class="com.linecorp.b612.android/com.linecorp.b612.android.activity.ActivityCamera"
+        name="b612"/>
+
+    <!-- BHIM -->
+    <item
+        class="in.org.npci.upiapp/in.org.npci.upiapp.HomeActivity"
+        name="bhim"/>
+
+    <!-- Beebom -->
+    <item
+        class="com.beebom.app.beebom/com.beebom.app.beebom.splash.SplashActivity"
+        name="beebom"/>
+
+    <!-- Behance -->
+    <item
+        class="com.behance.behance/com.behance.network.ui.activities.MainActivity"
+        name="behance"/>
+
+    <!-- Bing -->
+    <item
+        class="com.microsoft.bing/com.microsoft.clients.bing.main.SplashActivity"
+        name="bing"/>
+
+    <!-- BookMyShow -->
+    <item
+        class="com.bt.bms/com.movie.bms.splashscreen.SplashScreenActivity"
+        name="bookmyshow"/>
+
+    <!-- CamScanner -->
+    <item
+        class="com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity"
+        name="camscanner"/>
+
+
+    <!-- Canva -->
+    <item
+        class="com.canva.editor/com.canva.app.editor.splash.SplashActivity"
+        name="canva"/>
+
+    <!-- Compass -->
+    <item
+        class="com.miui.compass/com.miui.compass.CompassActivity"
+        name="compass"/>
+
+    <!-- Yourphone -->
+    <item
+        class="com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity"
+        name="yourphone"/>
+
+    <!-- Creative Cloud -->
+    <item
+        class="com.adobe.cc/com.adobe.cc.SplashScreen"
+        name="creative_cloud"/>
+
+
+
+    <!-- DigiLocker -->
+    <item
+        class="com.digilocker.android/com.digilocker.android.ui.activity.dashboard.activity.MainDashboardActivity"
+        name="digilocker"/>
+
+    <!-- Discord -->
+    <item
+        class="com.discord/com.discord.app.AppActivity$Main"
+        name="discord"/>
+
+    <!-- Edge -->
+    <item
+        class="com.microsoft.emmx/com.microsoft.ruby.Main"
+        name="edge"/>
+
+    <!-- Excel -->
+    <item
+        class="com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity"
+        name="excel"/>
+
+    <!-- FM Radio -->
+    <item
+        class="com.miui.fm/com.miui.fmradio.FmActivity"
+        name="fm_radio"/>
+
+    <!-- Flipboard -->
+    <item
+        class="flipboard.app/flipboard.activities.LaunchActivityAlias"
+        name="flipboard"/>
+
+    <!-- Flipkart -->
+    <item
+        class="com.flipkart.android/com.flipkart.android.SplashActivity"
+        name="flipkart"/>
+
+    <!-- GFX Tool -->
+    <item
+        class="eu.tsoml.graphicssettings/eu.tsoml.graphicssettings.MainActivity"
+        name="gfx_tool"/>
+
+
+
+    <!-- Gearbest -->
+    <item
+        class="com.globalegrow.app.gearbest/com.globalegrow.app.gearbest.SplashActivity"
+        name="gearbest"/>
+
+    <!-- GetApps -->
+    <item
+        class="com.xiaomi.mipicks/com.xiaomi.mipicks.DefaultAlias"
+        name="getapps"/>
+
+    <!-- Google Ads -->
+    <item
+        class="com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity"
+        name="google_ads"/>
+
+    <!-- Google Opinion Rewards -->
+    <item
+        class="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity"
+        name="google_opinion_rewards"/>
+
+
+    <!-- Huk Kwgt -->
+    <item
+        class="hukkwgt.kustom.pack/org.kustom.api.dashboard.DashboardActivity"
+        name="huk_kwgt"/>
+
+    <!-- Hyperlapse Mobile -->
+    <item
+        class="com.microsoft.hyperlapsemobile/hyperlapsemobile.android.startpage"
+        name="hyperlapse_mobile"/>
+
+
+
+
+    <!-- Internet Speed Meter Lite -->
+    <item
+        class="com.internet.speed.meter.lite/com.internet.speed.meter.lite.MainActivity"
+        name="internet_speed_meter_lite"/>
+
+
+
+    <!-- JioSaavn -->
+    <item
+        class="com.jio.media.jiobeats/com.jio.media.mobile.apps.jiobeats.splash.SplashScreen"
+        name="jiosaavn"/>
+
+    <!-- Kaizala -->
+    <item
+        class="com.microsoft.mobile.polymer/com.microsoft.mobile.polymer.ui.MainActivity"
+        name="kaizala"/>
+
+    <!-- Keep Notes -->
+    <item
+        class="com.google.android.keep/com.google.android.keep.activities.BrowseActivity"
+        name="keep_notes"/>
+
+    <!-- Lawnchair -->
+    <item
+        class="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher"
+        name="lawnchair"/>
+    <!-- Lawnchair -->
+    <item
+        class="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher"
+        name="lawnchair" />
+    <item
+        class="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.Launcher"
+        name="lawnchair" />
+    <item
+        class="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity"
+        name="lawnchair_settings" />
+    <item
+        class="ch.deletescape.lawnchair.ci/ch.deletescape.lawnchair.LawnchairLauncher"
+        name="lawnchair" />
+
+    <!-- Lens -->
+    <item
+        class="com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity"
+        name="lens"/>
+
+    <!-- Lightroom -->
+    <item
+        class="com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity"
+        name="lightroom"/>
+
+    <!-- Likee -->
+    <item
+        class="video.like/com.yy.iheima.startup.MainActivity"
+        name="likee"/>
+
+    <!-- LinkedIn -->
+    <item
+        class="com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity"
+        name="linkedin"/>
+
+
+    <!-- MX Player -->
+    <item
+        class="com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX"
+        name="mx_player"/>
+    <item
+        class="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList"
+        name="mx_player_pro" />
+    <item
+        class="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX"
+        name="mx_player_pro" />
+    <!-- MakeMyTrip -->
+    <item
+        class="com.makemytrip/com.mmt.travel.app.home.ui.SplashActivity"
+        name="makemytrip"/>
+
+
+
+    <!-- Messenger -->
+    <item
+        class="com.facebook.orca/com.facebook.orca.auth.StartScreenActivity"
+        name="messenger"/>
+    <item
+        class="com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity"
+        name="messenger_lite" />
+
+    <!-- Mi Community -->
+    <item
+        class="com.mi.global.bbs/com.mi.global.bbs.ui.SplashActivity"
+        name="mi_community"/>
+
+    <!-- Mi Credit -->
+    <item
+        class="com.micredit.in/com.micredit.in.SplashActivity"
+        name="mi_credit"/>
+
+    <!-- Mi Fit -->
+    <item
+        class="com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity"
+        name="mi_fit"/>
+
+    <!-- Mi Pay -->
+    <item
+        class="com.mipay.wallet.in/com.mipay.home.ui.SplashActivity"
+        name="mi_pay"/>
+
+    <!-- Mi Store -->
+    <item
+        class="com.mi.global.shop/com.mi.global.shop.activity.LaunchActivity"
+        name="mi_store"/>
+
+    <!-- Mi Video -->
+    <item
+        class="com.miui.videoplayer/com.miui.video.global.app.LauncherActivity"
+        name="mi_video"/>
+
+    <!-- Microsoft Launcher -->
+    <item
+        class="com.microsoft.launcher/com.microsoft.launcher.EntryActivity"
+        name="microsoft_launcher"/>
+
+    <!-- Microsoft News -->
+    <item
+        class="com.microsoft.amp.apps.bingnews/microsoft.msn.news.android.activities.LaunchActivity"
+        name="microsoft_news"/>
+
+    <!-- Minty Free -->
+    <item
+        class="pl.patrykgoworowski.mintyfree/pl.patrykgoworowski.mintyfree.MainActivity"
+        name="minty_free"/>
+
+    <!-- MyJio -->
+    <item
+        class="com.jio.myjio/com.jio.myjio.dashboard.activities.DashboardActivity"
+        name="myjio"/>
+
+    <!-- Netmeds -->
+    <item
+        class="com.NetmedsMarketplace.Netmeds/com.netmedsmarketplace.netmeds.AppUriSchemeHandler"
+        name="netmeds"/>
+
+    <!-- OLX India -->
+    <item
+        class="com.olx.southasia/com.olxgroup.panamera.presentation.splash.SplashActivity"
+        name="olx_india"/>
+
+    <item
+        class="com.amazon.clouddrive.photos/com.amazon.clouddrive.photos.display.LauncherActivity"
+        name="amazon_photos"/>
+
+
+    <item
+        class="com.adobe.premiererush.videoeditor/com.adobe.rush.splashscreen.controllers.SplashScreenActivity"
+        name="adobe_rush"/>
+    <!-- OYO -->
+    <item
+        class="com.oyo.consumer/com.oyo.consumer.activity.LauncherActivity"
+        name="oyo"/>
+
+    <item
+        class="com.phonepe.app.business/com.phonepe.app.business.SplashActivity"
+        name="phonepe_buisness"/>
+
+    <!-- Office -->
+    <item
+        class="com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity"
+        name="office"/>
+
+    <!-- Office Lens -->
+    <item
+        class="com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity"
+        name="office_lens"/>
+
+    <!-- OneDrive -->
+    <item
+        class="com.microsoft.skydrive/com.microsoft.skydrive.MainActivity"
+        name="onedrive"/>
+
+    <!-- OneNote -->
+    <item
+        class="com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity"
+        name="onenote"/>
+
+    <!-- Opera Mini -->
+    <item
+        class="com.opera.mini.native/com.opera.mini.android.Browser"
+        name="opera_mini"/>
+    <item
+        class="com.opera.browser/com.opera.Opera"
+        name="opera"/>
+    <item
+        class="com.opera.browser*com.opera.android.BrowserActivity"
+        name="opera"/>
+
+    <!-- Outlook -->
+    <item
+        class="com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity"
+        name="outlook"/>
+
+    <!-- PUBG MOBILE -->
+    <item
+        class="com.tencent.ig/com.epicgames.ue4.SplashActivity"
+        name="pubg_mobile"/>
+
+
+    <!-- PhonePe -->
+    <item
+        class="com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity"
+        name="phonepe"/>
+
+    <!-- Photoshop Express -->
+    <item
+        class="com.adobe.psmobile/com.adobe.psmobile.SplashScreen"
+        name="photoshop_express"/>
+    <!-- Zooper -->
+    <item
+        class="org.zooper.zwfree/org.zooper.zwlib.Launcher"
+        name="zooper_free" />
+    <item
+        class="org.zooper.zwpro/org.zooper.zwlib.Launcher"
+        name="zooper_pro" />
+    <item
+        class="org.zooper.zwpro/org.zooper.zwlib.MainConfiguration"
+        name="zooper_pro" />
+    <item
+        class="org.zooper.zwpro/org.zooper.zwlib.ClickActivity"
+        name="zooper_pro" />
+
+
+    <!-- Planner -->
+
+    <item
+        class="com.microsoft.planner/com.microsoft.planner.login.ConnectActivity"
+        name="planner"/>
+
+    <!-- PowerPoint -->
+    <item
+        class="com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity"
+        name="powerpoint"/>
+
+    <!-- Quora -->
+    <item
+        class="com.quora.android/com.quora.android.components.activities.LauncherActivity"
+        name="quora"/>
+
+    <!-- Raphael Icon Pack -->
+    <item
+        class="com.srv.raphael/com.srv.raphael.activities.SplashActivity"
+        name="raphael_icon_pack"/>
+
+    <!-- Rapido -->
+    <item
+        class="com.rapido.passenger/com.rapido.passenger.activities.SplashScreen"
+        name="rapido"/>
+
+    <!-- Reddit -->
+    <item
+        class="com.reddit.frontpage/com.reddit.frontpage.StartActivity"
+        name="reddit"/>
+
+    <!-- Retrica -->
+    <item
+        class="com.venticake.retrica/retrica.scenes.MainActivity"
+        name="retrica"/>
+
+    <!-- SIM Toolkit -->
+    <item
+        class="com.android.stk/com.android.stk.StkMain"
+        name="sim_toolkit"/>
+
+    <!-- SMS Organizer -->
+    <item
+        class="com.microsoft.android.smsorganizer/com.microsoft.android.smsorganizer.StartupActivity"
+        name="sms_organizer"/>
+
+    <!-- Security -->
+    <item
+        class="com.miui.securitycenter/com.miui.securityscan.MainActivity"
+        name="security"/>
+
+    <!-- Services Feedback -->
+    <item
+        class="com.miui.miservice/com.miui.miservice.main.MainActivity"
+        name="services_feedback"/>
+
+    <!-- ShareMe -->
+    <item
+        class="com.xiaomi.midrop/com.xiaomi.midrop.SplashScreen"
+        name="shareme"/>
+
+    <!-- Skype -->
+    <item
+        class="com.skype.raider/com.skype4life.MainActivity"
+        name="skype"/>
+
+    <!-- Skype For Business -->
+    <item
+        class="com.microsoft.office.lync15/com.microsoft.office.sfb.common.ui.splash.EntryPoint"
+        name="skype_for_business"/>
+
+    <!-- Skype Lite -->
+    <item
+        class="com.skype.m2/com.skype.m2.views.HubActivity"
+        name="skype_lite"/>
+
+    <!-- Snapchat -->
+    <item
+        class="com.snapchat.android/com.snapchat.android.LandingPageActivity"
+        name="snapchat"/>
+
+    <!-- Solid Explorer -->
+    <item
+        class="pl.solidexplorer2/pl.solidexplorer.SolidExplorer"
+        name="solid_explorer"/>
+
+    <!-- Spark Post -->
+    <item
+        class="com.adobe.spark.post/com.adobe.spark.view.main.SplashActivity"
+        name="spark_post"/>
+
+    <!-- Spotify -->
+    <item
+        class="com.spotify.music/com.spotify.music.MainActivity"
+        name="spotify"/>
+
+    <!-- Steam -->
+    <item
+        class="com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity"
+        name="steam"/>
+
+    <!-- Teams -->
+    <item
+        class="com.microsoft.teams/com.microsoft.skype.teams.Launcher"
+        name="teams"/>
+
+    <!-- Themes -->
+    <item
+        class="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity"
+        name="themes"/>
+
+    <!-- TikTok Wall Picture -->
+    <item
+        class="com.zhiliao.musically.livewallpaper/com.ss.android.livewallpaper.MainActivity"
+        name="tiktok_wall_picture"/>
+
+    <!-- To Do -->
+    <item
+        class="com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity"
+        name="microsoft_todo"/>
+
+    <!-- Truecaller -->
+    <item
+        class="com.truecaller/com.truecaller.ui.TruecallerInit"
+        name="truecaller"/>
+
+    <!-- Twitch -->
+    <item
+        class="tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity"
+        name="twitch"/>
+
+    <!-- Unicorn -->
+    <item
+        class="unicorn.icons.theme.ddt/unicorn.icons.theme.ddt.activities.SplashActivity"
+        name="unicorn"/>
+
+    <!-- Verticons -->
+    <item
+        class="com.spaceman.verticonsfree/com.spaceman.verticonsfree.activities.SplashActivity"
+        name="verticons"/>
+
+    <!-- Viral -->
+    <item
+        class="vintage.icon.pack.ddt/vintage.icon.pack.ddt.activities.SplashActivity"
+        name="viral"/>
+
+    <!-- Wallpapers -->
+    <item
+        class="com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity"
+        name="wallpapers"/>
+
+    <!-- Wix -->
+    <item
+        class="com.wix.android/com.wix.MainActivity"
+        name="wix"/>
+
+    <!-- Word -->
+    <item
+        class="com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity"
+        name="word"/>
+
+    <!-- Xender -->
+    <item
+        class="cn.xender/cn.xender.ui.activity.SplashActivity"
+        name="xender"/>
+
+    <!-- Yatra -->
+    <item
+        class="com.yatra.base/com.yatra.base.activity.SplashScreenActivity"
+        name="yatra"/>
+
+    <!-- Zili -->
+    <item
+        class="com.funnypuri.client/com.mi.globalTrendNews.homepage.SplashActivity"
+        name="zili"/>
+
+    <!-- Zomato -->
+    <item
+        class="com.application.zomato/com.application.zomato.activities.Splash"
+        name="zomato"/>
+
+    <!-- Zooper Widget Pro -->
+    <item
+        class="org.zooper.zwpro/org.zooper.zwlib.Launcher"
+        name="zooper_widget_pro"/>
+    <!-- Amazon_Music -->
+    <item
+        class="com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity"
+        name="amazon_music" />
+    <item
+        class="com.amazon.kindle/com.amazon.kindle.UpgradePage"
+        name="kindle" />
+    <item
+        class="com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity"
+        name="prime_video" />
+    <!-- Amazon Drive -->
+    <item
+        class="com.amazon.drive/com.amazon.drive.activity.MainActivity"
+        name="amazon_drive" />
+    <!-- Alexa Beta -->
+    <item
+        class="com.amazon.dee.app/com.amazon.dee.app.Launcher"
+        name="alexa" />
+
+    <item
+        class="com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen"
+        name="amazon_firetv" />
+    <!-- AccuBattery -->
+    <item
+        class="com.digibites.abatterysaver.BatterySaverActivity"
+        name="accubattery"/>
+
+    <!-- Asana Rebel -->
+    <item
+        class="com.asanayoga.asanarebel.splashscreen.SplashScreenActivity"
+        name="asana_rebel"/>
+
+    <!-- BYJU S The Learning App -->
+    <item
+        class="com.byjus.app.onboarding.activity.SplashActivity"
+        name="byju"/>
+
+    <!-- Dhani -->
+    <item
+        class="com.indiaBulls.ui.activity.LauncherActivity"
+        name="dhani"/>
+
+    <!-- Discovery Plus -->
+    <item
+        class="com.discoveryplus.android.mobile.DPlusMainActivity"
+        name="discovery_plus"/>
+
+    <!-- Hago -->
+    <item
+        class="com.yy.hiyo.MainActivity"
+        name="hago"/>
+
+    <!-- Imo -->
+    <item
+        class="com.imo.android.imoim.activities.Home"
+        name="imo"/>
+
+    <!-- Kustom Widget -->
+    <item
+        class="org.kustom.widget.picker.WidgetPicker"
+        name="kustom_widget"/>
+
+    <!-- Ola Lite -->
+    <item
+        class="com.olacabs.lite.SplashActivity"
+        name="ola"/>
+
+    <!-- Ola -->
+    <item
+        class="com.olacabs.customer.ui.SplashActivity"
+        name="ola"/>
+
+    <!-- Public -->
+    <item
+        class="com.cardfeed.video_public.ui.activity.SplashActivity"
+        name="public_inshorts"/>
+
+    <!-- SHAREit -->
+    <item
+        class="com.lenovo.anyshare.ApMainActivity"
+        name="shareit"/>
+
+    <!-- StarMaker -->
+    <item
+        class="com.ushowmedia.starmaker.activity.SplashActivity"
+        name="starmaker"/>
+
+    <!-- UVideo -->
+    <item
+        class="com.kscorp.kwik.transfer.splash.SplashActivity"
+        name="uvideo"/>
+
+    <!-- Unacademy -->
+    <item
+        class="com.unacademy.consumption.unacademyapp.SplashActivity"
+        name="unacademy"/>
+
+    <!-- VFly -->
+    <item
+        class="com.ai.fly.StartActivity"
+        name="vfly"/>
+
+    <!-- VMate -->
+    <item
+        class="com.uc.vmate.ui.MainActivity"
+        name="vmate"/>
+
+    <!-- Vedantu -->
+    <item
+        class="com.vedantu.app.MainActivity"
+        name="vedantu"/>
+
+    <!-- Wynk Music -->
+    <item
+        class="com.bsbportal.music.v2.features.main.ui.HomeActivity"
+        name="wynk"/>
+
+    <!-- ZEE5 -->
+    <item
+        class="com.graymatrix.did.splash.SplashActivity"
+        name="zee5"/>
+    <!-- UC Mini -->
+    <item
+        class="com.UCMobile.main.UCMobile"
+        name="uc_mini"/>
+
+    <!-- KineMaster -->
+    <item
+        class="com.nextreaming.nexeditorui.MainActivity"
+        name="kinemaster"/>
+
+    <!-- Helo -->
+    <item
+        class="com.ss.android.buzz.BuzzMainActivity"
+        name="helo"/>
+
+    <!-- Gaana -->
+    <item
+        class="com.gaana.SplashScreenActivity"
+        name="gaana"/>
+    <item
+        class="com.oppo.market/com.oppo.market.activity.MainActivity"
+        name="getapps"/>
+    <item
+        class="com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity"
+        name="files_go" />
+    <item
+        class="com.ubercab/com.ubercab.UBUberActivity"
+        name="uber" />
+    <item
+        class="com.ubercab/com.ubercab.presidio.app.core.root.RootActivity"
+        name="uber" />
+    <item
+        class="com.vsco.cam/com.vsco.cam.SplashActivity"
+        name="vsco" />
+    <item
+        class="com.vsco.cam/com.vsco.cam.gallery.ImageGridActivity"
+        name="vsco" />
+    <item
+        class="com.vsco.cam/com.vsco.cam.navigation.LithiumActivity"
+        name="vsco" />
+    <item
+        class="com.vsco.cam/com.vsco.cam.navigation.NavigationBaseActivity"
+        name="vsco" />
+    <item
+        class="org.kustom.widget.pro/a.y.z.HZ"
+        name="kwgt" />
+    <item
+        class="org.kustom.widget.pro/org.kustom.pro.MainActivity"
+        name="kwgt" />
+    <item
+        class="org.kustom.widget/org.kustom.widget.picker.WidgetPicker"
+        name="kwgt" />
+    <item
+        class="org.kustom.wallpaper.pro/org.kustom.pro.MainActivity"
+        name="klwp" />
+    <!-- Nova Launcher -->
+    <item
+        class="com.teslacoilsw.launcher/com.android.launcher2.Launcher"
+        name="nova_launcher" />
+    <item
+        class="com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler"
+        name="nova_launcher" />
+    <item
+        class="com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity"
+        name="nova_launcher" />
+    <item
+        class="com.teslacoilsw.launcher/.preferences.SettingsActivity"
+        name="nova_launcher" />
+    <item
+        class="com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity"
+        name="nova_launcher"/>
+    <item
+        class="com.dropbox.android/com.dropbox.android.activity.DropboxBrowser"
+        name="dropbox" />
+    <item
+        class="us.zoom.videomeetings/com.zipow.videobox.LauncherActivity"
+        name="zoom" />
+    <item
+        class="us.zoom.videomeetings4intune/com.zipow.videobox.LauncherActivity"
+        name="zoom" />
+    <item
+        class="com.nis.app/com.nis.app.ui.activities.HomeActivity"
+        name="inshorts" />
+
+    <item
+        class="net.one97.paytm/net.one97.paytm.AJRJarvisSplash"
+        name="paytm" />
+    <item
+        class="com.uc.browser.en/com.dzebb.handler.b"
+        name="uc_browser" />
+    <item
+        class="com.uc.browser.en/com.uc.browser.ActivityBrowser"
+        name="uc_browser" />
+    <item
+        class="com.uc.browser.hd/com.ucweb.activity.MainActivity"
+        name="uc_browser" />
+    <item
+        class="com.uc.browser/com.UCMobile.main.UCMobile"
+        name="uc_browser" />
+    <item
+        class="com.gaana/com.gaana.SplashScreenActivity-MMX"
+        name="gaana" />
+    <item
+        class="com.gaana/com.gaana.SplashScreenActivity-Original"
+        name="gaana" />
+    <item
+        class="com.picsart.studio.light/com.socialin.android.photo.picsinphoto.MainPagerActivity"
+        name="pics__art" />
+    <item
+        class="com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity"
+        name="pics__art" />
+    <item
+        class="com.picsart.studio/com.socialin.android.photo.picsinphoto.StartActivity"
+        name="pics__art" />
+    <item
+        class="com.bsbportal.music/com.bsbportal.music.activities.LauncherScreenActivity"
+        name="wynk" />
+    <item
+        class="com.google.android.apps.classroom/com.google.android.apps.classroom.application.LauncherActivity"
+        name="google_classroom" />
 
 </appmap>
